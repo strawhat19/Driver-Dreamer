@@ -1,0 +1,14 @@
+<svg id="03-precision-index-icon" class="brand-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="03-precision-index-icon-title 03-precision-index-icon-desc">
+<title id="03-precision-index-icon-title">Driver Dreamer — Precision Index icon</title>
+<desc id="03-precision-index-icon-desc">A deep navy flat-bottom sports steering wheel opens on the right into three racing-red index tabs. A red central hub unites the automotive and organized-information ideas.</desc>
+<g id="precision-wheel-mark" class="brand-mark">
+  <path id="precision-wheel-rim" d="M194 151C186 176 173 193 148 197H92C58 190 39 158 40 119C40 75 75 40 120 40C154 40 183 60 194 89" fill="none" stroke="#07162F" stroke-width="16" stroke-linecap="round"/>
+  <path id="precision-wheel-spokes" d="M62 104C84 103 102 111 120 120C138 111 155 103 170 104M120 120V170" fill="none" stroke="#07162F" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle id="precision-wheel-hub" cx="120" cy="120" r="17" fill="#E32636"/>
+  <g id="precision-index-tabs" fill="#E32636">
+    <rect id="precision-index-top" x="172" y="91" width="43" height="12" rx="6"/>
+    <rect id="precision-index-center" x="172" y="114" width="54" height="12" rx="6"/>
+    <rect id="precision-index-bottom" x="172" y="137" width="43" height="12" rx="6"/>
+  </g>
+</g>
+</svg>

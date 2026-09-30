@@ -1,0 +1,289 @@
+<svg id="driver-dreamer-v1-comparison" class="driver-dreamer-comparison" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1150" role="img" aria-labelledby="board-title board-desc">
+  <title id="board-title">Driver Dreamer — first logo concepts</title>
+  <desc id="board-desc">Three original logo directions for a luxury sports and exotic vehicle app and database. Each uses red, deep navy and white, with a light presentation and a smaller inverse mark on navy.</desc>
+  <rect width="1800" height="1150" fill="#F1F3F6"/>
+  <text x="64" y="79" font-family="Avenir Next, Arial, sans-serif" font-size="43" font-weight="750" fill="#07162F">Driver Dreamer / V1</text>
+  <text x="66" y="122" font-family="Avenir Next, Arial, sans-serif" font-size="22" fill="#526077">Luxury, sports and exotic vehicles · Logo concept exploration</text>
+  <rect x="64" y="171" width="540" height="859" rx="24" fill="#FFFFFF"/>
+  <text x="96" y="220" font-family="Avenir Next, Arial, sans-serif" font-size="16" font-weight="750" letter-spacing="2" fill="#E32636">01</text>
+  <text x="96" y="258" font-family="Avenir Next, Arial, sans-serif" font-size="27" font-weight="700" fill="#07162F">Apex Double D</text>
+<svg x="152" y="288" width="364" height="364" id="board-0-driver-dreamer-apex-icon" class="driver-dreamer-logo-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="board-0-driver-apex-title board-0-driver-apex-desc">
+  <title id="board-0-driver-apex-title">Driver Dreamer — Apex Double D</title>
+  <desc id="board-0-driver-apex-desc">Two forward-leaning D forms pair deep navy and racing red. Their broad curved contours suggest parallel circuit lanes, while the open centers keep the monogram clear at app-icon size.</desc>
+  <g id="board-0-driver-apex-monogram" class="driver-apex-monogram" transform="matrix(1 0 -.105 1 13.44 0)">
+    <path id="board-0-driver-apex-navy-d" class="driver-apex-letter" fill="#07162F" fill-rule="evenodd" d="M24 60H67C104 60 125 86 125 128S104 196 67 196H24ZM48 84V172H66C88 172 101 156 101 128S88 84 66 84Z"/>
+    <path id="board-0-driver-apex-red-d" class="driver-apex-letter" fill="#E32636" fill-rule="evenodd" d="M131 60H174C211 60 232 86 232 128S211 196 174 196H131ZM155 84V172H173C195 172 208 156 208 128S195 84 173 84Z"/>
+    <path id="board-0-driver-apex-navy-apex" class="driver-apex-track-apex" d="M36 144V168" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <path id="board-0-driver-apex-red-apex" class="driver-apex-track-apex" d="M143 88V112" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
+
+  <text x="334" y="707" text-anchor="middle" font-family="Avenir Next, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5" fill="#07162F">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+  <rect x="88" y="764" width="492" height="241" rx="18" fill="#07162F"/>
+<svg x="262" y="794" width="144" height="144" id="dark-0-driver-dreamer-apex-icon" class="driver-dreamer-logo-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="dark-0-driver-apex-title dark-0-driver-apex-desc">
+  <title id="dark-0-driver-apex-title">Driver Dreamer — Apex Double D</title>
+  <desc id="dark-0-driver-apex-desc">Two forward-leaning D forms pair deep navy and racing red. Their broad curved contours suggest parallel circuit lanes, while the open centers keep the monogram clear at app-icon size.</desc>
+  <g id="dark-0-driver-apex-monogram" class="driver-apex-monogram" transform="matrix(1 0 -.105 1 13.44 0)">
+    <path id="dark-0-driver-apex-navy-d" class="driver-apex-letter" fill="#FFFFFF" fill-rule="evenodd" d="M24 60H67C104 60 125 86 125 128S104 196 67 196H24ZM48 84V172H66C88 172 101 156 101 128S88 84 66 84Z"/>
+    <path id="dark-0-driver-apex-red-d" class="driver-apex-letter" fill="#E32636" fill-rule="evenodd" d="M131 60H174C211 60 232 86 232 128S211 196 174 196H131ZM155 84V172H173C195 172 208 156 208 128S195 84 173 84Z"/>
+    <path id="dark-0-driver-apex-navy-apex" class="driver-apex-track-apex" d="M36 144V168" stroke="#07162F" stroke-width="4" stroke-linecap="round"/>
+    <path id="dark-0-driver-apex-red-apex" class="driver-apex-track-apex" d="M143 88V112" stroke="#07162F" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
+
+  <text x="334" y="967" text-anchor="middle" font-family="Avenir Next, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.2" fill="#FFFFFF">INVERSE / NAVY APPLICATION</text>
+  <rect x="630" y="171" width="540" height="859" rx="24" fill="#FFFFFF"/>
+  <text x="662" y="220" font-family="Avenir Next, Arial, sans-serif" font-size="16" font-weight="750" letter-spacing="2" fill="#E32636">02</text>
+  <text x="662" y="258" font-family="Avenir Next, Arial, sans-serif" font-size="27" font-weight="700" fill="#07162F">Grand Tourer Crest</text>
+<svg x="718" y="288" width="364" height="364"
+    id="board-1-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="board-1-driver-dreamer-crest-title board-1-driver-dreamer-crest-description"
+>
+    <title id="board-1-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Crest</title>
+    <desc id="board-1-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. A red crown stripe and three red collection rows connect luxury vehicle discovery with an organized automotive database.</desc>
+    <path
+        id="board-1-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="board-1-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="board-1-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="board-1-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="board-1-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="board-1-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="board-1-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <path
+        id="board-1-driver-dreamer-crest-collection-rows"
+        fill="none"
+        stroke="#E32636"
+        stroke-width="7"
+        stroke-linecap="round"
+        d="M107 174H149M113 186H143M119 198H137"
+    />
+</svg>
+
+  <text x="900" y="707" text-anchor="middle" font-family="Avenir Next, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5" fill="#07162F">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+  <rect x="654" y="764" width="492" height="241" rx="18" fill="#07162F"/>
+<svg x="828" y="794" width="144" height="144"
+    id="dark-1-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="dark-1-driver-dreamer-crest-title dark-1-driver-dreamer-crest-description"
+>
+    <title id="dark-1-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Crest</title>
+    <desc id="dark-1-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. A red crown stripe and three red collection rows connect luxury vehicle discovery with an organized automotive database.</desc>
+    <path
+        id="dark-1-driver-dreamer-crest-field"
+        fill="#FFFFFF"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="dark-1-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="dark-1-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#07162F"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="dark-1-driver-dreamer-crest-car-body"
+        fill="#07162F"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="dark-1-driver-dreamer-crest-left-headlight"
+        fill="#FFFFFF"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="dark-1-driver-dreamer-crest-right-headlight"
+        fill="#FFFFFF"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="dark-1-driver-dreamer-crest-front-intake"
+        fill="#FFFFFF"
+        d="M88 134H168L160 143H96Z"
+    />
+    <path
+        id="dark-1-driver-dreamer-crest-collection-rows"
+        fill="none"
+        stroke="#E32636"
+        stroke-width="7"
+        stroke-linecap="round"
+        d="M107 174H149M113 186H143M119 198H137"
+    />
+</svg>
+
+  <text x="900" y="967" text-anchor="middle" font-family="Avenir Next, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.2" fill="#FFFFFF">INVERSE / NAVY APPLICATION</text>
+  <rect x="1196" y="171" width="540" height="859" rx="24" fill="#FFFFFF"/>
+  <text x="1228" y="220" font-family="Avenir Next, Arial, sans-serif" font-size="16" font-weight="750" letter-spacing="2" fill="#E32636">03</text>
+  <text x="1228" y="258" font-family="Avenir Next, Arial, sans-serif" font-size="27" font-weight="700" fill="#07162F">Vehicle Index</text>
+<svg x="1284" y="288" width="364" height="364"
+    id="board-2-driver-dreamer-vehicle-index-icon"
+    class="driver-dreamer-vehicle-index-icon"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="board-2-vehicle-index-title board-2-vehicle-index-description"
+>
+    <title id="board-2-vehicle-index-title">Driver Dreamer — Vehicle Index</title>
+    <desc id="board-2-vehicle-index-description">A white low sports coupe on a deep navy catalog card, with a red card and white separator layered behind it. The red index accent and simple wheel forms combine an aspirational vehicle collection with an app-sized symbol.</desc>
+    <rect
+        id="board-2-vehicle-index-back-card"
+        class="vehicle-index-back-card"
+        x="42" y="26" width="190" height="166" rx="24"
+        fill="#E32636"
+    />
+    <rect
+        id="board-2-vehicle-index-divider-card"
+        class="vehicle-index-divider-card"
+        x="32" y="42" width="190" height="166" rx="24"
+        fill="#FFFFFF"
+    />
+    <rect
+        id="board-2-vehicle-index-front-card"
+        class="vehicle-index-front-card"
+        x="20" y="58" width="202" height="166" rx="24"
+        fill="#07162F"
+    />
+    <path
+        id="board-2-vehicle-index-red-tab"
+        class="vehicle-index-red-tab"
+        d="M45 82H75A4 4 0 0 1 75 90H45A4 4 0 0 1 45 82Z"
+        fill="#E32636"
+    />
+    <path
+        id="board-2-vehicle-index-coupe-body"
+        class="vehicle-index-coupe-body"
+        d="M42 151 49 141 69 137 93 120Q98 117 110 117H130Q143 117 154 126L165 136 195 142Q207 144 207 151V159H189C187 150 180 145 171 145S155 150 153 159H89C87 150 80 145 71 145S55 150 53 159H42Z"
+        fill="#FFFFFF"
+    />
+    <path
+        id="board-2-vehicle-index-coupe-window"
+        class="vehicle-index-coupe-window"
+        d="M84 137 101 125Q104 123 112 123H128Q137 123 146 130L155 137Z"
+        fill="#07162F"
+    />
+    <path
+        id="board-2-vehicle-index-coupe-wheels"
+        class="vehicle-index-coupe-wheels"
+        d="M82 160A11 11 0 1 1 60 160 11 11 0 0 1 82 160ZM182 160A11 11 0 1 1 160 160 11 11 0 0 1 182 160Z"
+        fill="#FFFFFF"
+    />
+    <path
+        id="board-2-vehicle-index-road-accent"
+        class="vehicle-index-road-accent"
+        d="M90 188H182A4 4 0 0 1 182 196H90A4 4 0 0 1 90 188Z"
+        fill="#E32636"
+    />
+</svg>
+
+  <text x="1466" y="707" text-anchor="middle" font-family="Avenir Next, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5" fill="#07162F">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+  <rect x="1220" y="764" width="492" height="241" rx="18" fill="#07162F"/>
+<svg x="1394" y="794" width="144" height="144"
+    id="dark-2-driver-dreamer-vehicle-index-icon"
+    class="driver-dreamer-vehicle-index-icon"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="dark-2-vehicle-index-title dark-2-vehicle-index-description"
+>
+    <title id="dark-2-vehicle-index-title">Driver Dreamer — Vehicle Index</title>
+    <desc id="dark-2-vehicle-index-description">A white low sports coupe on a deep navy catalog card, with a red card and white separator layered behind it. The red index accent and simple wheel forms combine an aspirational vehicle collection with an app-sized symbol.</desc>
+    <rect
+        id="dark-2-vehicle-index-back-card"
+        class="vehicle-index-back-card"
+        x="42" y="26" width="190" height="166" rx="24"
+        fill="#E32636"
+    />
+    <rect
+        id="dark-2-vehicle-index-divider-card"
+        class="vehicle-index-divider-card"
+        x="32" y="42" width="190" height="166" rx="24"
+        fill="#07162F"
+    />
+    <rect
+        id="dark-2-vehicle-index-front-card"
+        class="vehicle-index-front-card"
+        x="20" y="58" width="202" height="166" rx="24"
+        fill="#FFFFFF"
+    />
+    <path
+        id="dark-2-vehicle-index-red-tab"
+        class="vehicle-index-red-tab"
+        d="M45 82H75A4 4 0 0 1 75 90H45A4 4 0 0 1 45 82Z"
+        fill="#E32636"
+    />
+    <path
+        id="dark-2-vehicle-index-coupe-body"
+        class="vehicle-index-coupe-body"
+        d="M42 151 49 141 69 137 93 120Q98 117 110 117H130Q143 117 154 126L165 136 195 142Q207 144 207 151V159H189C187 150 180 145 171 145S155 150 153 159H89C87 150 80 145 71 145S55 150 53 159H42Z"
+        fill="#07162F"
+    />
+    <path
+        id="dark-2-vehicle-index-coupe-window"
+        class="vehicle-index-coupe-window"
+        d="M84 137 101 125Q104 123 112 123H128Q137 123 146 130L155 137Z"
+        fill="#FFFFFF"
+    />
+    <path
+        id="dark-2-vehicle-index-coupe-wheels"
+        class="vehicle-index-coupe-wheels"
+        d="M82 160A11 11 0 1 1 60 160 11 11 0 0 1 82 160ZM182 160A11 11 0 1 1 160 160 11 11 0 0 1 182 160Z"
+        fill="#07162F"
+    />
+    <path
+        id="dark-2-vehicle-index-road-accent"
+        class="vehicle-index-road-accent"
+        d="M90 188H182A4 4 0 0 1 182 196H90A4 4 0 0 1 90 188Z"
+        fill="#E32636"
+    />
+</svg>
+
+  <text x="1466" y="967" text-anchor="middle" font-family="Avenir Next, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.2" fill="#FFFFFF">INVERSE / NAVY APPLICATION</text>
+  <circle cx="78" cy="1087" r="12" fill="#E32636"/>
+  <text x="100" y="1094" font-family="Avenir Next, Arial, sans-serif" font-size="18" fill="#07162F">Red #E32636</text>
+  <circle cx="310" cy="1087" r="12" fill="#07162F"/>
+  <text x="332" y="1094" font-family="Avenir Next, Arial, sans-serif" font-size="18" fill="#07162F">Deep navy #07162F</text>
+  <circle cx="613" cy="1087" r="12" fill="#FFFFFF" stroke="#D4DAE3"/>
+  <text x="635" y="1094" font-family="Avenir Next, Arial, sans-serif" font-size="18" fill="#07162F">White #FFFFFF</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="01-horizon-d-icon" class="brand-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="01-horizon-d-icon-title 01-horizon-d-icon-desc">
+<title id="01-horizon-d-icon-title">Driver Dreamer — Horizon D icon</title>
+<desc id="01-horizon-d-icon-desc">A deep navy capital D is split by a rising racing-red road with a white lane. The single-letter silhouette expresses driving aspiration without repeating the paired racetrack initials from v1.</desc>
+<defs>
+  <mask id="road-sweep-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="240" height="240">
+    <rect id="road-cut-ground" width="240" height="240" fill="white"/>
+    <path id="road-cut-gap" d="M33 197 127 95" fill="none" stroke="black" stroke-width="47"/>
+  </mask>
+</defs>
+<path id="horizon-d" class="brand-mark" fill="#07162F" fill-rule="evenodd" d="M43 32H109C168 32 203 66 203 118S168 202 109 202H43ZM78 66V168H108C147 168 168 149 168 118S147 66 108 66Z" mask="url(#road-sweep-cut)"/>
+<path id="horizon-road" class="horizon-road" d="M21 200 117 96H145L58 200Z" fill="#E32636"/>
+<path id="horizon-lane" class="horizon-lane" d="M46 183 112 112" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+</svg>

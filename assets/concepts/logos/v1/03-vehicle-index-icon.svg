@@ -1,0 +1,59 @@
+<svg
+    id="driver-dreamer-vehicle-index-icon"
+    class="driver-dreamer-vehicle-index-icon"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="vehicle-index-title vehicle-index-description"
+>
+    <title id="vehicle-index-title">Driver Dreamer — Vehicle Index</title>
+    <desc id="vehicle-index-description">A white low sports coupe on a deep navy catalog card, with a red card and white separator layered behind it. The red index accent and simple wheel forms combine an aspirational vehicle collection with an app-sized symbol.</desc>
+    <rect
+        id="vehicle-index-back-card"
+        class="vehicle-index-back-card"
+        x="42" y="26" width="190" height="166" rx="24"
+        fill="#E32636"
+    />
+    <rect
+        id="vehicle-index-divider-card"
+        class="vehicle-index-divider-card"
+        x="32" y="42" width="190" height="166" rx="24"
+        fill="#FFFFFF"
+    />
+    <rect
+        id="vehicle-index-front-card"
+        class="vehicle-index-front-card"
+        x="20" y="58" width="202" height="166" rx="24"
+        fill="#07162F"
+    />
+    <path
+        id="vehicle-index-red-tab"
+        class="vehicle-index-red-tab"
+        d="M45 82H75A4 4 0 0 1 75 90H45A4 4 0 0 1 45 82Z"
+        fill="#E32636"
+    />
+    <path
+        id="vehicle-index-coupe-body"
+        class="vehicle-index-coupe-body"
+        d="M42 151 49 141 69 137 93 120Q98 117 110 117H130Q143 117 154 126L165 136 195 142Q207 144 207 151V159H189C187 150 180 145 171 145S155 150 153 159H89C87 150 80 145 71 145S55 150 53 159H42Z"
+        fill="#FFFFFF"
+    />
+    <path
+        id="vehicle-index-coupe-window"
+        class="vehicle-index-coupe-window"
+        d="M84 137 101 125Q104 123 112 123H128Q137 123 146 130L155 137Z"
+        fill="#07162F"
+    />
+    <path
+        id="vehicle-index-coupe-wheels"
+        class="vehicle-index-coupe-wheels"
+        d="M82 160A11 11 0 1 1 60 160 11 11 0 0 1 82 160ZM182 160A11 11 0 1 1 160 160 11 11 0 0 1 182 160Z"
+        fill="#FFFFFF"
+    />
+    <path
+        id="vehicle-index-road-accent"
+        class="vehicle-index-road-accent"
+        d="M90 188H182A4 4 0 0 1 182 196H90A4 4 0 0 1 90 188Z"
+        fill="#E32636"
+    />
+</svg>

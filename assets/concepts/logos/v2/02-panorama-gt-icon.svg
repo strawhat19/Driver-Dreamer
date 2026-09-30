@@ -1,0 +1,14 @@
+<svg id="02-panorama-gt-icon" class="brand-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="02-panorama-gt-icon-title 02-panorama-gt-icon-desc">
+<title id="02-panorama-gt-icon-title">Driver Dreamer — Panorama GT icon</title>
+<desc id="02-panorama-gt-icon-desc">An original navy grand-touring car side profile sits beneath an open red horizon arc. Two wheel hubs and simple window openings remain legible at icon size; the body does not represent a specific manufacturer or model.</desc>
+<g id="panorama-mark" class="brand-mark">
+  <path id="panorama-arch" d="M36 100C51 66 82 44 120 44S189 66 204 100" fill="none" stroke="#E32636" stroke-width="12" stroke-linecap="round"/>
+  <path id="panorama-car-body" d="M22 139 62 127 91 111C99 107 107 105 118 105H134C145 105 152 109 159 117L169 128 204 135C215 138 220 145 220 155H194C190 145 183 140 173 140S155 145 151 155H89C85 145 78 140 67 140S49 146 45 155H22Z" fill="#07162F"/>
+  <path id="panorama-window" d="M96 114C101 112 108 112 116 112H121V127H74ZM128 112H134C142 112 147 115 152 120L158 127H128Z" fill="#FFFFFF"/>
+  <circle id="panorama-wheel-left" cx="67" cy="157" r="13" fill="#07162F"/>
+  <circle id="panorama-wheel-right" cx="173" cy="157" r="13" fill="#07162F"/>
+  <circle id="panorama-hub-left" cx="67" cy="157" r="6" fill="#FFFFFF"/>
+  <circle id="panorama-hub-right" cx="173" cy="157" r="6" fill="#FFFFFF"/>
+  <path id="panorama-ground" d="M56 192H184" fill="none" stroke="#E32636" stroke-width="7" stroke-linecap="round"/>
+</g>
+</svg>

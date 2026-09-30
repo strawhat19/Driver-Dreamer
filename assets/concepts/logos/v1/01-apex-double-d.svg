@@ -1,0 +1,16 @@
+<svg id="driver-dreamer-01-apex-double-d-lockup" class="driver-dreamer-logo-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="lockup-title lockup-desc">
+  <title id="lockup-title">Driver Dreamer — Apex Double D</title>
+  <desc id="lockup-desc">A compact DD monogram pairs deep navy and red. White lane accents make the two initials read as parallel racetrack forms. Suited to an app icon, avatar or vehicle watermark. This full logo pairs the symbol with the Driver Dreamer wordmark.</desc>
+<svg x="16" y="8" width="240" height="240" id="lockup-1-driver-dreamer-apex-icon" class="driver-dreamer-logo-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="lockup-1-driver-apex-title lockup-1-driver-apex-desc">
+  <title id="lockup-1-driver-apex-title">Driver Dreamer — Apex Double D</title>
+  <desc id="lockup-1-driver-apex-desc">Two forward-leaning D forms pair deep navy and racing red. Their broad curved contours suggest parallel circuit lanes, while the open centers keep the monogram clear at app-icon size.</desc>
+  <g id="lockup-1-driver-apex-monogram" class="driver-apex-monogram" transform="matrix(1 0 -.105 1 13.44 0)">
+    <path id="lockup-1-driver-apex-navy-d" class="driver-apex-letter" fill="#07162F" fill-rule="evenodd" d="M24 60H67C104 60 125 86 125 128S104 196 67 196H24ZM48 84V172H66C88 172 101 156 101 128S88 84 66 84Z"/>
+    <path id="lockup-1-driver-apex-red-d" class="driver-apex-letter" fill="#E32636" fill-rule="evenodd" d="M131 60H174C211 60 232 86 232 128S211 196 174 196H131ZM155 84V172H173C195 172 208 156 208 128S195 84 173 84Z"/>
+    <path id="lockup-1-driver-apex-navy-apex" class="driver-apex-track-apex" d="M36 144V168" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <path id="lockup-1-driver-apex-red-apex" class="driver-apex-track-apex" d="M143 88V112" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
+
+  <text id="driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+</svg>
