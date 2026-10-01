@@ -1,0 +1,123 @@
+<svg
+    width="1440"
+    height="1280"
+    id="driver-dreamer-sunday-drive-page"
+    class="driver-dreamer-sunday-drive-page"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1440 1280"
+    role="img"
+    aria-labelledby="sunday-drive-title sunday-drive-description"
+>
+    <title id="sunday-drive-title" class="sunday-drive-title">Driver Dreamer — Sunday Drive website concept</title>
+    <desc id="sunday-drive-description" class="sunday-drive-description">An editorial automotive landing page with the official logo, Gill Sans typography, a panoramic red Ferrari 458 Italia hero, one dream-garage feature section and a complete footer.</desc>
+    <defs id="sunday-drive-definitions" class="sunday-drive-definitions">
+        <clipPath id="sunday-drive-hero-photo-clip" class="sunday-drive-hero-photo-clip">
+            <rect id="sunday-drive-hero-photo-clip-shape" class="sunday-drive-hero-photo-clip-shape" x="56" y="331" width="1328" height="505" rx="16" />
+        </clipPath>
+    </defs>
+    <rect id="sunday-drive-canvas" class="sunday-drive-canvas" width="1440" height="1280" fill="#FFFFFF" />
+    <g id="sunday-drive-header" class="sunday-drive-header">
+        <a id="sunday-drive-header-home-link" class="sunday-drive-header-home-link" href="/">
+            <image id="sunday-drive-header-official-logo" class="sunday-drive-header-official-logo" href="media/logo.png" x="64" y="16" width="270" height="75" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <g id="sunday-drive-header-menu" class="sunday-drive-header-menu">
+            <a id="sunday-drive-menu-discover-link" class="sunday-drive-menu-discover-link" href="/discover">
+                <text id="sunday-drive-menu-discover-text" class="sunday-drive-menu-discover-text" x="610" y="60" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="16">Discover</text>
+                <path id="sunday-drive-menu-discover-active-line" class="sunday-drive-menu-discover-active-line" d="M610 73H674" stroke="#E32636" stroke-width="2" />
+            </a>
+            <a id="sunday-drive-menu-collections-link" class="sunday-drive-menu-collections-link" href="/collections">
+                <text id="sunday-drive-menu-collections-text" class="sunday-drive-menu-collections-text" x="722" y="60" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">Collections</text>
+            </a>
+            <a id="sunday-drive-menu-journal-link" class="sunday-drive-menu-journal-link" href="/journal">
+                <text id="sunday-drive-menu-journal-text" class="sunday-drive-menu-journal-text" x="862" y="60" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">Journal</text>
+            </a>
+            <a id="sunday-drive-menu-about-link" class="sunday-drive-menu-about-link" href="/about">
+                <text id="sunday-drive-menu-about-text" class="sunday-drive-menu-about-text" x="968" y="60" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">About</text>
+            </a>
+        </g>
+        <a id="sunday-drive-header-garage-link" class="sunday-drive-header-garage-link" href="/garage">
+            <rect id="sunday-drive-header-garage-button" class="sunday-drive-header-garage-button" x="1204" y="29" width="172" height="46" rx="7" fill="#FFFFFF" stroke="#07162F" stroke-width="1.2" />
+            <path id="sunday-drive-header-garage-icon" class="sunday-drive-header-garage-icon" d="M1224 49L1234 43L1244 49V64H1224ZM1228 52H1240M1228 57H1240M1228 62H1240" fill="none" stroke="#07162F" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+            <text id="sunday-drive-header-garage-text" class="sunday-drive-header-garage-text" x="1257" y="59" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="16">My Garage</text>
+        </a>
+        <path id="sunday-drive-header-divider" class="sunday-drive-header-divider" d="M56 104H1384" stroke="#E7EBF0" stroke-width="1" />
+    </g>
+    <g id="sunday-drive-hero" class="sunday-drive-hero">
+        <text id="sunday-drive-hero-eyebrow" class="sunday-drive-hero-eyebrow" x="720" y="139" text-anchor="middle" fill="#E32636" font-family="Gill Sans" font-weight="600" font-size="12" letter-spacing="2.2">FOR THE LOVE OF THE DRIVE</text>
+        <text id="sunday-drive-hero-heading" class="sunday-drive-hero-heading" x="720" y="201" text-anchor="middle" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="60" letter-spacing="-1.6">Some cars stay with you.</text>
+        <text id="sunday-drive-hero-description" class="sunday-drive-hero-description" x="720" y="235" text-anchor="middle" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="19">Discover the cars you love. Build the garage you dream about.</text>
+        <a id="sunday-drive-hero-explore-link" class="sunday-drive-hero-explore-link" href="/discover">
+            <rect id="sunday-drive-hero-explore-button" class="sunday-drive-hero-explore-button" x="525" y="261" width="189" height="48" rx="7" fill="#E32636" />
+            <path id="sunday-drive-hero-explore-icon" class="sunday-drive-hero-explore-icon" d="M546 289H566V283L562 278H550L547 283V289ZM550 283H562M550 289V293M562 289V293" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <text id="sunday-drive-hero-explore-text" class="sunday-drive-hero-explore-text" x="580" y="291" fill="#FFFFFF" font-family="Gill Sans" font-weight="600" font-size="16">Explore cars</text>
+            <path id="sunday-drive-hero-explore-arrow" class="sunday-drive-hero-explore-arrow" d="M681 285H695M689 279L695 285L689 291" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </a>
+        <a id="sunday-drive-hero-garage-link" class="sunday-drive-hero-garage-link" href="/garage">
+            <rect id="sunday-drive-hero-garage-button" class="sunday-drive-hero-garage-button" x="730" y="261" width="185" height="48" rx="7" fill="#FFFFFF" stroke="#07162F" stroke-width="1.2" />
+            <path id="sunday-drive-hero-garage-heart" class="sunday-drive-hero-garage-heart" d="M758 293L749 284C741 276 752 270 758 279C764 270 775 276 767 284Z" fill="none" stroke="#07162F" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+            <text id="sunday-drive-hero-garage-text" class="sunday-drive-hero-garage-text" x="781" y="291" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="16">Start your garage</text>
+        </a>
+        <image id="sunday-drive-hero-ferrari-photo" class="sunday-drive-hero-ferrari-photo" href="media/hero-ferrari-458.png" x="56" y="331" width="1328" height="505" preserveAspectRatio="xMidYMid slice" clip-path="url(#sunday-drive-hero-photo-clip)" />
+        <rect id="sunday-drive-hero-featured-chip" class="sunday-drive-hero-featured-chip" x="80" y="764" width="192" height="44" rx="7" fill="#FFFFFF" />
+        <circle id="sunday-drive-hero-featured-chip-dot" class="sunday-drive-hero-featured-chip-dot" cx="99" cy="786" r="3.5" fill="#E32636" />
+        <text id="sunday-drive-hero-featured-chip-text" class="sunday-drive-hero-featured-chip-text" x="113" y="791" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="12" letter-spacing="1">IN THE DREAM GARAGE</text>
+        <g id="sunday-drive-hero-vehicle-caption" class="sunday-drive-hero-vehicle-caption">
+            <text id="sunday-drive-hero-vehicle-name" class="sunday-drive-hero-vehicle-name" x="64" y="875" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="25">Ferrari 458 Italia</text>
+            <text id="sunday-drive-hero-vehicle-details" class="sunday-drive-hero-vehicle-details" x="307" y="875" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">Red exterior · Cream tan interior · Polished silver wheels</text>
+            <a id="sunday-drive-hero-view-car-link" class="sunday-drive-hero-view-car-link" href="/cars/ferrari-458-italia">
+                <text id="sunday-drive-hero-view-car-text" class="sunday-drive-hero-view-car-text" x="1223" y="875" fill="#E32636" font-family="Gill Sans" font-weight="600" font-size="16">Meet the car</text>
+                <path id="sunday-drive-hero-view-car-arrow" class="sunday-drive-hero-view-car-arrow" d="M1339 869H1357M1350 862L1357 869L1350 876" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+            <path id="sunday-drive-hero-caption-divider" class="sunday-drive-hero-caption-divider" d="M56 907H1384" stroke="#E7EBF0" stroke-width="1" />
+        </g>
+    </g>
+    <g id="sunday-drive-garage-section" class="sunday-drive-garage-section">
+        <rect id="sunday-drive-garage-section-background" class="sunday-drive-garage-section-background" y="944" width="1440" height="170" fill="#F3F5F8" />
+        <text id="sunday-drive-garage-section-title" class="sunday-drive-garage-section-title" x="64" y="986" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="30" letter-spacing="-0.6">
+            <tspan id="sunday-drive-garage-title-line-1" class="sunday-drive-garage-title-line-1" x="64" y="986" font-family="Gill Sans" font-weight="600">Make room for</tspan>
+            <tspan id="sunday-drive-garage-title-line-2" class="sunday-drive-garage-title-line-2" x="64" y="1021" font-family="Gill Sans" font-weight="600">your next favorite.</tspan>
+        </text>
+        <text id="sunday-drive-garage-section-description" class="sunday-drive-garage-section-description" x="64" y="1062" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">A garage built around your curiosity.</text>
+        <g id="sunday-drive-feature-discover" class="sunday-drive-feature-discover">
+            <circle id="sunday-drive-feature-discover-lens" class="sunday-drive-feature-discover-lens" cx="549" cy="978" r="8" fill="none" stroke="#E32636" stroke-width="1.8" />
+            <path id="sunday-drive-feature-discover-handle" class="sunday-drive-feature-discover-handle" d="M555 984L562 991" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" />
+            <text id="sunday-drive-feature-discover-title" class="sunday-drive-feature-discover-title" x="580" y="986" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="21">Discover</text>
+            <text id="sunday-drive-feature-discover-copy" class="sunday-drive-feature-discover-copy" x="540" y="1023" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">
+                <tspan id="sunday-drive-feature-discover-line-1" class="sunday-drive-feature-discover-line-1" x="540" y="1023" font-family="Gill Sans" font-weight="400">From timeless icons to future</tspan>
+                <tspan id="sunday-drive-feature-discover-line-2" class="sunday-drive-feature-discover-line-2" x="540" y="1047" font-family="Gill Sans" font-weight="400">classics. Find your favorites.</tspan>
+            </text>
+        </g>
+        <path id="sunday-drive-feature-divider-1" class="sunday-drive-feature-divider-1" d="M809 969V1077" fill="none" stroke="#DCE2EA" stroke-width="1" />
+        <g id="sunday-drive-feature-save" class="sunday-drive-feature-save">
+            <path id="sunday-drive-feature-save-heart" class="sunday-drive-feature-save-heart" d="M847 990L839 982C831 974 842 967 847 976C852 967 863 974 855 982Z" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linejoin="round" />
+            <text id="sunday-drive-feature-save-title" class="sunday-drive-feature-save-title" x="877" y="986" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="21">Save</text>
+            <text id="sunday-drive-feature-save-copy" class="sunday-drive-feature-save-copy" x="838" y="1023" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">
+                <tspan id="sunday-drive-feature-save-line-1" class="sunday-drive-feature-save-line-1" x="838" y="1023" font-family="Gill Sans" font-weight="400">Keep the cars that catch your</tspan>
+                <tspan id="sunday-drive-feature-save-line-2" class="sunday-drive-feature-save-line-2" x="838" y="1047" font-family="Gill Sans" font-weight="400">eye in a collection of your own.</tspan>
+            </text>
+        </g>
+        <path id="sunday-drive-feature-divider-2" class="sunday-drive-feature-divider-2" d="M1105 969V1077" fill="none" stroke="#DCE2EA" stroke-width="1" />
+        <g id="sunday-drive-feature-compare" class="sunday-drive-feature-compare">
+            <path id="sunday-drive-feature-compare-arrows" class="sunday-drive-feature-compare-arrows" d="M1137 975H1159M1153 969L1159 975L1153 981M1159 988H1137M1143 982L1137 988L1143 994" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            <text id="sunday-drive-feature-compare-title" class="sunday-drive-feature-compare-title" x="1176" y="986" fill="#07162F" font-family="Gill Sans" font-weight="600" font-size="21">Compare</text>
+            <text id="sunday-drive-feature-compare-copy" class="sunday-drive-feature-compare-copy" x="1137" y="1023" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="16">
+                <tspan id="sunday-drive-feature-compare-line-1" class="sunday-drive-feature-compare-line-1" x="1137" y="1023" font-family="Gill Sans" font-weight="400">Bring your dream cars together.</tspan>
+                <tspan id="sunday-drive-feature-compare-line-2" class="sunday-drive-feature-compare-line-2" x="1137" y="1047" font-family="Gill Sans" font-weight="400">Find what makes each special.</tspan>
+            </text>
+        </g>
+    </g>
+    <g id="sunday-drive-footer" class="sunday-drive-footer">
+        <a id="sunday-drive-footer-home-link" class="sunday-drive-footer-home-link" href="/">
+            <image id="sunday-drive-footer-logo" class="sunday-drive-footer-logo" href="media/logo.png" x="64" y="1136" width="231" height="64" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <g id="sunday-drive-footer-menu" class="sunday-drive-footer-menu">
+            <a id="sunday-drive-footer-about-link" class="sunday-drive-footer-about-link" href="/about"><text id="sunday-drive-footer-about-text" class="sunday-drive-footer-about-text" x="961" y="1171" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="15">About</text></a>
+            <a id="sunday-drive-footer-terms-link" class="sunday-drive-footer-terms-link" href="/terms"><text id="sunday-drive-footer-terms-text" class="sunday-drive-footer-terms-text" x="1054" y="1171" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="15">Terms</text></a>
+            <a id="sunday-drive-footer-contact-link" class="sunday-drive-footer-contact-link" href="/contact"><text id="sunday-drive-footer-contact-text" class="sunday-drive-footer-contact-text" x="1146" y="1171" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="15">Contact</text></a>
+            <a id="sunday-drive-footer-privacy-link" class="sunday-drive-footer-privacy-link" href="/privacy"><text id="sunday-drive-footer-privacy-text" class="sunday-drive-footer-privacy-text" x="1261" y="1171" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="15">Privacy</text></a>
+        </g>
+        <path id="sunday-drive-footer-divider" class="sunday-drive-footer-divider" d="M56 1216H1384" stroke="#E7EBF0" stroke-width="1" />
+        <text id="sunday-drive-footer-copyright" class="sunday-drive-footer-copyright" x="64" y="1251" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="13">© 2026 Driver Dreamer. Built by <a id="sunday-drive-footer-piratechs-link" class="sunday-drive-footer-piratechs-link" href="https://piratechs.com/"><tspan id="sunday-drive-footer-piratechs-text" class="sunday-drive-footer-piratechs-text" fill="#E32636" font-family="Gill Sans" font-weight="600">Piratechs.</tspan></a></text>
+        <text id="sunday-drive-footer-tagline" class="sunday-drive-footer-tagline" x="1376" y="1251" text-anchor="end" fill="#07162F" font-family="Gill Sans" font-weight="400" font-size="13">Every great drive begins with a little dreaming.</text>
+    </g>
+</svg>

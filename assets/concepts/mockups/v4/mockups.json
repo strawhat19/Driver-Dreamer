@@ -1,0 +1,57 @@
+{
+  "version": "v4",
+  "kind": "website-mockups",
+  "created": "2026-10-01",
+  "basedOn": "../v3/02-trackside-transparent-header.svg",
+  "heroFile": "media/hero-ferrari-458.png",
+  "heroSource": "../v1/media/hero-ferrari-458.png",
+  "heroTreatment": "Full bleed untinted Ferrari image; oversized white and red skyline typography",
+  "logoTreatment": "Transparent background with direct placement, no backing panel",
+  "fontFamily": "Futura",
+  "fontWeights": [500, 700],
+  "palette": {
+    "white": "#FFFFFF",
+    "red": "#E32636",
+    "navy": "#07162F"
+  },
+  "pageSize": {
+    "width": 1440,
+    "height": 1440
+  },
+  "directions": [
+    {
+      "number": 1,
+      "name": "White Emotion — Sky",
+      "header": "Transparent",
+      "source": "01-white-emotion-transparent.svg",
+      "preview": "01-white-emotion-transparent.png",
+      "heroPreview": "01-white-emotion-transparent-hero.png"
+    },
+    {
+      "number": 2,
+      "name": "White Emotion — Red",
+      "header": "Red",
+      "source": "02-white-emotion-red.svg",
+      "preview": "02-white-emotion-red.png",
+      "heroPreview": "02-white-emotion-red-hero.png"
+    },
+    {
+      "number": 3,
+      "name": "Scarlet Ribbon — Sky",
+      "header": "Transparent",
+      "source": "03-scarlet-ribbon-transparent.svg",
+      "preview": "03-scarlet-ribbon-transparent.png",
+      "heroPreview": "03-scarlet-ribbon-transparent-hero.png"
+    },
+    {
+      "number": 4,
+      "name": "Scarlet Ribbon — Red",
+      "header": "Red",
+      "source": "04-scarlet-ribbon-red.svg",
+      "preview": "04-scarlet-ribbon-red.png",
+      "heroPreview": "04-scarlet-ribbon-red-hero.png"
+    }
+  ],
+  "heroComparison": "05-hero-comparison.png",
+  "fullPageComparison": "06-full-page-comparison.png"
+}

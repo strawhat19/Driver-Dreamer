@@ -1,0 +1,155 @@
+<svg
+    id="trackside-sky-page"
+    class="trackside-sky-page"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1440 1440"
+    width="1440"
+    height="1440"
+    role="img"
+    aria-labelledby="trackside-sky-page-title trackside-sky-page-description"
+>
+    <title id="trackside-sky-page-title" class="trackside-sky-page-title">Driver Dreamer — Trackside Sky Edit</title>
+    <desc id="trackside-sky-page-description" class="trackside-sky-page-description">An editorial desktop website concept with the original transparent Driver Dreamer logo directly on blue sky. The untinted full-width Ferrari 458 Italia photo is paired with oversized navy Futura typography, quiet white copy on the open left racecourse, a red circular-arrow action, and a model rail below the visible wheels. One white collection section and a racing-red footer complete the page. The red-footer logo retains its original crest without a backing plate.</desc>
+    <rect id="trackside-sky-page-background" class="trackside-sky-page-background" x="0" y="0" width="1440" height="1440" fill="#FFFFFF" />
+
+    <g id="trackside-sky-hero" class="trackside-sky-hero">
+        <image id="trackside-sky-hero-ferrari-photo" class="trackside-sky-hero-ferrari-photo" href="media/hero-ferrari-458.png" x="0" y="0" width="1440" height="810" preserveAspectRatio="xMidYMid slice" />
+
+        <g id="trackside-sky-header" class="trackside-sky-header">
+            <a id="trackside-sky-header-home-link" class="trackside-sky-header-home-link" href="/">
+                <image id="trackside-sky-header-original-logo" class="trackside-sky-header-original-logo" href="media/logo.png" x="64" y="20" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+            </a>
+            <g id="trackside-sky-header-navigation" class="trackside-sky-header-navigation">
+                <a id="trackside-sky-navigation-discover-link" class="trackside-sky-navigation-discover-link" href="/discover">
+                    <text id="trackside-sky-navigation-discover-label" class="trackside-sky-navigation-discover-label" x="584" y="63" fill="#07162F" font-family="Futura" font-weight="700" font-size="15">Discover</text>
+                    <path id="trackside-sky-navigation-discover-active-rule" class="trackside-sky-navigation-discover-active-rule" d="M584 75H650" fill="none" stroke="#E32636" stroke-width="2" />
+                </a>
+                <a id="trackside-sky-navigation-collections-link" class="trackside-sky-navigation-collections-link" href="/collections">
+                    <text id="trackside-sky-navigation-collections-label" class="trackside-sky-navigation-collections-label" x="706" y="63" fill="#07162F" font-family="Futura" font-weight="500" font-size="15">Collections</text>
+                </a>
+                <a id="trackside-sky-navigation-journal-link" class="trackside-sky-navigation-journal-link" href="/journal">
+                    <text id="trackside-sky-navigation-journal-label" class="trackside-sky-navigation-journal-label" x="850" y="63" fill="#07162F" font-family="Futura" font-weight="500" font-size="15">Journal</text>
+                </a>
+                <a id="trackside-sky-navigation-about-link" class="trackside-sky-navigation-about-link" href="/about">
+                    <text id="trackside-sky-navigation-about-label" class="trackside-sky-navigation-about-label" x="958" y="63" fill="#07162F" font-family="Futura" font-weight="500" font-size="15">About</text>
+                </a>
+            </g>
+            <a id="trackside-sky-header-garage-link" class="trackside-sky-header-garage-link" href="/garage">
+                <path id="trackside-sky-header-garage-icon" class="trackside-sky-header-garage-icon" d="M1232 52L1242 46L1252 52V67H1232ZM1236 56H1248M1236 60H1248M1236 64H1248" fill="none" stroke="#07162F" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="trackside-sky-header-garage-label" class="trackside-sky-header-garage-label" x="1264" y="63" fill="#07162F" font-family="Futura" font-weight="700" font-size="14">My Garage</text>
+            </a>
+        </g>
+
+        <g id="trackside-sky-hero-editorial-heading" class="trackside-sky-hero-editorial-heading">
+            <text id="trackside-sky-hero-eyebrow" class="trackside-sky-hero-eyebrow" x="67" y="125" fill="#07162F" font-family="Futura" font-weight="500" font-size="11" letter-spacing="2.2">THE DRIVER DREAMER COLLECTION</text>
+            <text id="trackside-sky-hero-headline" class="trackside-sky-hero-headline" x="58" y="225" fill="#07162F" font-family="Futura" font-weight="700" font-size="112" letter-spacing="-3.5">CHASE THE FEELING.</text>
+        </g>
+
+        <g id="trackside-sky-hero-left-editorial-rail" class="trackside-sky-hero-left-editorial-rail">
+            <path id="trackside-sky-hero-left-accent-rule" class="trackside-sky-hero-left-accent-rule" d="M64 306H96" fill="none" stroke="#E32636" stroke-width="3" />
+            <text id="trackside-sky-hero-left-caption" class="trackside-sky-hero-left-caption" x="64" y="337" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.8">FOR THE CARS THAT STAY WITH YOU</text>
+            <text id="trackside-sky-hero-description" class="trackside-sky-hero-description" x="64" y="379" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="20">
+                <tspan id="trackside-sky-hero-description-line-1" class="trackside-sky-hero-description-line-1" x="64" y="379" font-family="Futura" font-weight="500" font-size="20">Long after the first look.</tspan>
+                <tspan id="trackside-sky-hero-description-line-2" class="trackside-sky-hero-description-line-2" x="64" y="410" font-family="Futura" font-weight="500" font-size="20">Make a place for your next dream.</tspan>
+            </text>
+            <a id="trackside-sky-hero-explore-link" class="trackside-sky-hero-explore-link" href="/discover">
+                <circle id="trackside-sky-hero-explore-circle" class="trackside-sky-hero-explore-circle" cx="92" cy="477" r="28" fill="#E32636" />
+                <path id="trackside-sky-hero-explore-arrow" class="trackside-sky-hero-explore-arrow" d="M81 477H103M95 469L103 477L95 485" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="trackside-sky-hero-explore-label" class="trackside-sky-hero-explore-label" x="138" y="483" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="15" letter-spacing="1.1">EXPLORE CARS</text>
+                <text id="trackside-sky-hero-explore-detail" class="trackside-sky-hero-explore-detail" x="138" y="505" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11">Find what moves you.</text>
+            </a>
+        </g>
+
+        <g id="trackside-sky-hero-model-navigation" class="trackside-sky-hero-model-navigation">
+            <path id="trackside-sky-hero-model-rule" class="trackside-sky-hero-model-rule" d="M64 696H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+            <text id="trackside-sky-hero-model-index" class="trackside-sky-hero-model-index" x="64" y="742" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="12" letter-spacing="1.6">COLLECTION / 01</text>
+            <text id="trackside-sky-hero-model-name" class="trackside-sky-hero-model-name" x="250" y="742" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="27">Ferrari 458 Italia</text>
+            <text id="trackside-sky-hero-model-colors" class="trackside-sky-hero-model-colors" x="250" y="770" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.2">RED EXTERIOR / TAN INTERIOR / SILVER WHEELS</text>
+            <a id="trackside-sky-hero-save-car-link" class="trackside-sky-hero-save-car-link" href="/garage">
+                <path id="trackside-sky-hero-save-car-heart" class="trackside-sky-hero-save-car-heart" d="M1089 747L1079 737C1069 727 1082 718 1089 728C1096 718 1109 727 1099 737Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round" />
+                <text id="trackside-sky-hero-save-car-label" class="trackside-sky-hero-save-car-label" x="1118" y="741" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="12" letter-spacing="1.1">SAVE THIS CAR</text>
+            </a>
+            <a id="trackside-sky-hero-next-car-link" class="trackside-sky-hero-next-car-link" href="/discover">
+                <circle id="trackside-sky-hero-next-car-circle" class="trackside-sky-hero-next-car-circle" cx="1354" cy="737" r="22" fill="#E32636" />
+                <path id="trackside-sky-hero-next-car-arrow" class="trackside-sky-hero-next-car-arrow" d="M1345 737H1363M1356 730L1363 737L1356 744" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+    </g>
+
+    <g id="trackside-sky-collection-section" class="trackside-sky-collection-section">
+        <rect id="trackside-sky-collection-background" class="trackside-sky-collection-background" x="0" y="810" width="1440" height="380" fill="#FFFFFF" />
+        <g id="trackside-sky-collection-introduction" class="trackside-sky-collection-introduction">
+            <text id="trackside-sky-collection-eyebrow" class="trackside-sky-collection-eyebrow" x="64" y="863" fill="#E32636" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.7">YOUR PERSONAL COLLECTION</text>
+            <text id="trackside-sky-collection-heading" class="trackside-sky-collection-heading" x="64" y="928" fill="#07162F" font-family="Futura" font-weight="700" font-size="43" letter-spacing="-1.3">
+                <tspan id="trackside-sky-collection-heading-line-1" class="trackside-sky-collection-heading-line-1" x="64" y="928" font-family="Futura" font-weight="700" font-size="43">Built around</tspan>
+                <tspan id="trackside-sky-collection-heading-line-2" class="trackside-sky-collection-heading-line-2" x="64" y="979" font-family="Futura" font-weight="700" font-size="43">your next dream.</tspan>
+            </text>
+            <text id="trackside-sky-collection-description" class="trackside-sky-collection-description" x="64" y="1024" fill="#07162F" font-family="Futura" font-weight="500" font-size="16">
+                <tspan id="trackside-sky-collection-description-line-1" class="trackside-sky-collection-description-line-1" x="64" y="1024" font-family="Futura" font-weight="500" font-size="16">Turn a passing obsession into a personal collection.</tspan>
+                <tspan id="trackside-sky-collection-description-line-2" class="trackside-sky-collection-description-line-2" x="64" y="1051" font-family="Futura" font-weight="500" font-size="16">Keep the cars you love close.</tspan>
+            </text>
+            <a id="trackside-sky-collection-garage-link" class="trackside-sky-collection-garage-link" href="/garage">
+                <text id="trackside-sky-collection-garage-label" class="trackside-sky-collection-garage-label" x="64" y="1110" fill="#07162F" font-family="Futura" font-weight="700" font-size="13">Build your garage</text>
+                <path id="trackside-sky-collection-garage-arrow" class="trackside-sky-collection-garage-arrow" d="M205 1106H224M217 1099L224 1106L217 1113" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+        <g id="trackside-sky-feature-discover" class="trackside-sky-feature-discover">
+            <text id="trackside-sky-feature-discover-index" class="trackside-sky-feature-discover-index" x="640" y="873" fill="#07162F" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.5">01 / DISCOVER</text>
+            <circle id="trackside-sky-feature-discover-search-lens" class="trackside-sky-feature-discover-search-lens" cx="653" cy="917" r="11" fill="none" stroke="#07162F" stroke-width="1.7" />
+            <path id="trackside-sky-feature-discover-search-handle" class="trackside-sky-feature-discover-search-handle" d="M661 925L670 934" fill="none" stroke="#07162F" stroke-width="1.7" stroke-linecap="round" />
+            <path id="trackside-sky-feature-discover-accent-rule" class="trackside-sky-feature-discover-accent-rule" d="M640 959H664" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="trackside-sky-feature-discover-heading" class="trackside-sky-feature-discover-heading" x="640" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Find your feeling.</text>
+            <text id="trackside-sky-feature-discover-description" class="trackside-sky-feature-discover-description" x="640" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="trackside-sky-feature-discover-copy-line-1" class="trackside-sky-feature-discover-copy-line-1" x="640" y="1032" font-family="Futura" font-weight="500" font-size="14">Explore luxury and sports cars.</tspan>
+                <tspan id="trackside-sky-feature-discover-copy-line-2" class="trackside-sky-feature-discover-copy-line-2" x="640" y="1056" font-family="Futura" font-weight="500" font-size="14">Let one catch your imagination.</tspan>
+            </text>
+        </g>
+        <path id="trackside-sky-feature-save-divider" class="trackside-sky-feature-save-divider" d="M872 868V1114" fill="none" stroke="#07162F" stroke-width="1" />
+        <g id="trackside-sky-feature-save" class="trackside-sky-feature-save">
+            <text id="trackside-sky-feature-save-index" class="trackside-sky-feature-save-index" x="904" y="873" fill="#07162F" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.5">02 / SAVE</text>
+            <path id="trackside-sky-feature-save-heart" class="trackside-sky-feature-save-heart" d="M917 933L905 921C893 909 909 899 917 911C925 899 941 909 929 921Z" fill="none" stroke="#07162F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="trackside-sky-feature-save-accent-rule" class="trackside-sky-feature-save-accent-rule" d="M904 959H928" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="trackside-sky-feature-save-heading" class="trackside-sky-feature-save-heading" x="904" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Make it yours.</text>
+            <text id="trackside-sky-feature-save-description" class="trackside-sky-feature-save-description" x="904" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="trackside-sky-feature-save-copy-line-1" class="trackside-sky-feature-save-copy-line-1" x="904" y="1032" font-family="Futura" font-weight="500" font-size="14">Give every favourite a home</tspan>
+                <tspan id="trackside-sky-feature-save-copy-line-2" class="trackside-sky-feature-save-copy-line-2" x="904" y="1056" font-family="Futura" font-weight="500" font-size="14">in your own dream garage.</tspan>
+            </text>
+        </g>
+        <path id="trackside-sky-feature-compare-divider" class="trackside-sky-feature-compare-divider" d="M1128 868V1114" fill="none" stroke="#07162F" stroke-width="1" />
+        <g id="trackside-sky-feature-compare" class="trackside-sky-feature-compare">
+            <text id="trackside-sky-feature-compare-index" class="trackside-sky-feature-compare-index" x="1160" y="873" fill="#07162F" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.5">03 / COMPARE</text>
+            <path id="trackside-sky-feature-compare-arrows" class="trackside-sky-feature-compare-arrows" d="M1161 911H1187M1179 903L1187 911L1179 919M1187 928H1161M1169 920L1161 928L1169 936" fill="none" stroke="#07162F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="trackside-sky-feature-compare-accent-rule" class="trackside-sky-feature-compare-accent-rule" d="M1160 959H1184" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="trackside-sky-feature-compare-heading" class="trackside-sky-feature-compare-heading" x="1160" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Look a little closer.</text>
+            <text id="trackside-sky-feature-compare-description" class="trackside-sky-feature-compare-description" x="1160" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="trackside-sky-feature-compare-copy-line-1" class="trackside-sky-feature-compare-copy-line-1" x="1160" y="1032" font-family="Futura" font-weight="500" font-size="14">Bring your favourites together.</tspan>
+                <tspan id="trackside-sky-feature-compare-copy-line-2" class="trackside-sky-feature-compare-copy-line-2" x="1160" y="1056" font-family="Futura" font-weight="500" font-size="14">See which one speaks to you.</tspan>
+            </text>
+        </g>
+    </g>
+
+    <g id="trackside-sky-footer" class="trackside-sky-footer">
+        <rect id="trackside-sky-footer-red-field" class="trackside-sky-footer-red-field" x="0" y="1190" width="1440" height="250" fill="#E32636" />
+        <a id="trackside-sky-footer-home-link" class="trackside-sky-footer-home-link" href="/">
+            <image id="trackside-sky-footer-context-logo" class="trackside-sky-footer-context-logo" href="media/logo-on-red.png" x="64" y="1219" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <text id="trackside-sky-footer-tagline" class="trackside-sky-footer-tagline" x="64" y="1318" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">A home for the cars you dream about.</text>
+        <g id="trackside-sky-footer-navigation" class="trackside-sky-footer-navigation">
+            <a id="trackside-sky-footer-about-link" class="trackside-sky-footer-about-link" href="/about">
+                <text id="trackside-sky-footer-about-label" class="trackside-sky-footer-about-label" x="960" y="1261" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">About</text>
+            </a>
+            <a id="trackside-sky-footer-terms-link" class="trackside-sky-footer-terms-link" href="/terms">
+                <text id="trackside-sky-footer-terms-label" class="trackside-sky-footer-terms-label" x="1060" y="1261" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Terms</text>
+            </a>
+            <a id="trackside-sky-footer-contact-link" class="trackside-sky-footer-contact-link" href="/contact">
+                <text id="trackside-sky-footer-contact-label" class="trackside-sky-footer-contact-label" x="1160" y="1261" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Contact</text>
+            </a>
+            <a id="trackside-sky-footer-privacy-link" class="trackside-sky-footer-privacy-link" href="/privacy">
+                <text id="trackside-sky-footer-privacy-label" class="trackside-sky-footer-privacy-label" x="1280" y="1261" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Privacy</text>
+            </a>
+        </g>
+        <path id="trackside-sky-footer-divider" class="trackside-sky-footer-divider" d="M64 1359H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+        <text id="trackside-sky-footer-copyright" class="trackside-sky-footer-copyright" x="64" y="1396" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="12">© 2026 Driver Dreamer. Built by <a id="trackside-sky-footer-piratechs-link" class="trackside-sky-footer-piratechs-link" href="https://piratechs.com/"><tspan id="trackside-sky-footer-piratechs-label" class="trackside-sky-footer-piratechs-label" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="12">Piratechs.</tspan></a></text>
+        <text id="trackside-sky-footer-closing-line" class="trackside-sky-footer-closing-line" x="1376" y="1396" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.3" text-anchor="end">KEEP THE DREAM ALIVE.</text>
+    </g>
+</svg>

@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="signature-gt-white-nav-page" class="signature-gt-white-nav-page" viewBox="0 0 1440 1440" width="1440" height="1440" role="img" aria-labelledby="signature-gt-white-nav-page-title signature-gt-white-nav-page-description">
+    <title id="signature-gt-white-nav-page-title" class="signature-gt-white-nav-page-title">Driver Dreamer — Signature GT — White Navigation</title>
+    <desc id="signature-gt-white-nav-page-description" class="signature-gt-white-nav-page-description">Signature GT preserves its white Avenir Next and red Snell Roundhand hero, untinted Ferrari 458 Italia photo, editorial collection section and red legal footer. Only the transparent header changes: the original crest sits beside a white wordmark directly on blue sky, and white icon-and-text navigation pairs a compass, collection cards, an open journal, an information mark and the existing garage icon with their labels.</desc>
+    <rect id="signature-gt-white-nav-page-background" class="signature-gt-white-nav-page-background" x="0" y="0" width="1440" height="1440" fill="#FFFFFF" />
+    <g id="signature-gt-white-nav-hero" class="signature-gt-white-nav-hero">
+        <image id="signature-gt-white-nav-hero-ferrari-photo" class="signature-gt-white-nav-hero-ferrari-photo" href="media/hero-ferrari-458.png" x="0" y="0" width="1440" height="810" preserveAspectRatio="xMidYMid slice" />
+        <g id="signature-gt-white-nav-header" class="signature-gt-white-nav-header">
+            <a id="signature-gt-white-nav-header-home-link" class="signature-gt-white-nav-header-home-link" href="/">
+                <image id="signature-gt-white-nav-header-original-logo" class="signature-gt-white-nav-header-original-logo" href="media/logo-on-sky-white.png" x="64" y="20" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+            </a>
+            <g id="signature-gt-white-nav-header-navigation" class="signature-gt-white-nav-header-navigation">
+                <a id="signature-gt-white-nav-navigation-discover-link" class="signature-gt-white-nav-navigation-discover-link" href="/discover">
+                    <circle id="signature-gt-white-nav-navigation-discover-compass-ring" class="signature-gt-white-nav-navigation-discover-compass-ring" cx="564" cy="57" r="9" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <path id="signature-gt-white-nav-navigation-discover-compass-needle" class="signature-gt-white-nav-navigation-discover-compass-needle" d="M568 53L566 59L560 61L562 55Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="signature-gt-white-nav-navigation-discover-label" class="signature-gt-white-nav-navigation-discover-label" x="584" y="63" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="15">Discover</text>
+                    <path id="signature-gt-white-nav-navigation-discover-active-rule" class="signature-gt-white-nav-navigation-discover-active-rule" d="M554 75H650" fill="none" stroke="#E32636" stroke-width="2" />
+                </a>
+                <a id="signature-gt-white-nav-navigation-collections-link" class="signature-gt-white-nav-navigation-collections-link" href="/collections">
+                    <path id="signature-gt-white-nav-navigation-collections-cards-icon" class="signature-gt-white-nav-navigation-collections-cards-icon" d="M710 47H724V61H710ZM706 51V66H720" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="signature-gt-white-nav-navigation-collections-label" class="signature-gt-white-nav-navigation-collections-label" x="736" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">Collections</text>
+                </a>
+                <a id="signature-gt-white-nav-navigation-journal-link" class="signature-gt-white-nav-navigation-journal-link" href="/journal">
+                    <path id="signature-gt-white-nav-navigation-journal-book-icon" class="signature-gt-white-nav-navigation-journal-book-icon" d="M872 51C869 48 865 48 862 49V64C865 63 869 63 872 65C875 63 879 63 882 64V49C879 48 875 48 872 51ZM872 51V65" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="signature-gt-white-nav-navigation-journal-label" class="signature-gt-white-nav-navigation-journal-label" x="892" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">Journal</text>
+                </a>
+                <a id="signature-gt-white-nav-navigation-about-link" class="signature-gt-white-nav-navigation-about-link" href="/about">
+                    <circle id="signature-gt-white-nav-navigation-about-info-ring" class="signature-gt-white-nav-navigation-about-info-ring" cx="990" cy="57" r="9" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <path id="signature-gt-white-nav-navigation-about-info-mark" class="signature-gt-white-nav-navigation-about-info-mark" d="M990 57V62M990 52V52.3" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="signature-gt-white-nav-navigation-about-label" class="signature-gt-white-nav-navigation-about-label" x="1010" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">About</text>
+                </a>
+            </g>
+            <a id="signature-gt-white-nav-header-garage-link" class="signature-gt-white-nav-header-garage-link" href="/garage">
+                <path id="signature-gt-white-nav-header-garage-icon" class="signature-gt-white-nav-header-garage-icon" d="M1232 52L1242 46L1252 52V67H1232ZM1236 56H1248M1236 60H1248M1236 64H1248" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="signature-gt-white-nav-header-garage-label" class="signature-gt-white-nav-header-garage-label" x="1264" y="63" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="14">My Garage</text>
+            </a>
+        </g>
+
+        <g id="signature-gt-white-nav-hero-editorial-heading" class="signature-gt-white-nav-hero-editorial-heading">
+            <text id="signature-gt-white-nav-hero-eyebrow" class="signature-gt-white-nav-hero-eyebrow" x="67" y="125" fill="#07162F" font-family="Futura" font-weight="500" font-size="11" letter-spacing="2.2">THE DRIVER DREAMER COLLECTION</text>
+            <text id="signature-gt-white-nav-hero-heading-white" class="signature-gt-white-nav-hero-heading-white" x="58" y="225" fill="#FFFFFF" stroke="#07162F" stroke-width="0.7" stroke-linejoin="round" paint-order="stroke fill" font-family="Avenir Next" font-weight="700" font-style="normal" font-size="105" letter-spacing="-2">CHASE THE</text>
+            <text id="signature-gt-white-nav-hero-heading-script" class="signature-gt-white-nav-hero-heading-script" x="720" y="197.5" fill="#E32636" font-family="Snell Roundhand" font-weight="700" font-style="normal" font-size="108" letter-spacing="0">feeling.</text>
+        </g>
+        <g id="signature-gt-white-nav-hero-left-editorial-rail" class="signature-gt-white-nav-hero-left-editorial-rail">
+            <path id="signature-gt-white-nav-hero-left-accent-rule" class="signature-gt-white-nav-hero-left-accent-rule" d="M64 306H96" fill="none" stroke="#E32636" stroke-width="3" />
+            <text id="signature-gt-white-nav-hero-left-caption" class="signature-gt-white-nav-hero-left-caption" x="64" y="337" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.8">FOR THE CARS THAT STAY WITH YOU</text>
+            <text id="signature-gt-white-nav-hero-description" class="signature-gt-white-nav-hero-description" x="64" y="379" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="20">
+                <tspan id="signature-gt-white-nav-hero-description-line-1" class="signature-gt-white-nav-hero-description-line-1" x="64" y="379" font-family="Futura" font-weight="500" font-size="20">Long after the first look.</tspan>
+                <tspan id="signature-gt-white-nav-hero-description-line-2" class="signature-gt-white-nav-hero-description-line-2" x="64" y="410" font-family="Futura" font-weight="500" font-size="20">Make a place for your next dream.</tspan>
+            </text>
+            <a id="signature-gt-white-nav-hero-explore-link" class="signature-gt-white-nav-hero-explore-link" href="/discover">
+                <circle id="signature-gt-white-nav-hero-explore-circle" class="signature-gt-white-nav-hero-explore-circle" cx="92" cy="477" r="28" fill="#FFFFFF" />
+                <path id="signature-gt-white-nav-hero-explore-arrow" class="signature-gt-white-nav-hero-explore-arrow" d="M81 477H103M95 469L103 477L95 485" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="signature-gt-white-nav-hero-explore-label" class="signature-gt-white-nav-hero-explore-label" x="138" y="483" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="15" letter-spacing="1.1">EXPLORE CARS</text>
+                <text id="signature-gt-white-nav-hero-explore-detail" class="signature-gt-white-nav-hero-explore-detail" x="138" y="505" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11">Find what moves you.</text>
+                <path id="signature-gt-white-nav-hero-explore-red-accent" class="signature-gt-white-nav-hero-explore-red-accent" d="M138 520H162" fill="none" stroke="#E32636" stroke-width="2" />
+            </a>
+        </g>
+        <g id="signature-gt-white-nav-hero-model-navigation" class="signature-gt-white-nav-hero-model-navigation">
+            <path id="signature-gt-white-nav-hero-model-rule" class="signature-gt-white-nav-hero-model-rule" d="M64 696H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+            <text id="signature-gt-white-nav-hero-model-index" class="signature-gt-white-nav-hero-model-index" x="64" y="742" fill="#E32636" font-family="Futura" font-weight="700" font-size="12" letter-spacing="1.6">COLLECTION / 01</text>
+            <text id="signature-gt-white-nav-hero-model-name" class="signature-gt-white-nav-hero-model-name" x="250" y="742" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="27">Ferrari 458 Italia</text>
+            <text id="signature-gt-white-nav-hero-model-colors" class="signature-gt-white-nav-hero-model-colors" x="250" y="770" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.2">RED EXTERIOR / TAN INTERIOR / SILVER WHEELS</text>
+            <a id="signature-gt-white-nav-hero-save-car-link" class="signature-gt-white-nav-hero-save-car-link" href="/garage">
+                <path id="signature-gt-white-nav-hero-save-car-heart" class="signature-gt-white-nav-hero-save-car-heart" d="M1089 747L1079 737C1069 727 1082 718 1089 728C1096 718 1109 727 1099 737Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round" />
+                <text id="signature-gt-white-nav-hero-save-car-label" class="signature-gt-white-nav-hero-save-car-label" x="1118" y="741" fill="#E32636" font-family="Futura" font-weight="700" font-size="12" letter-spacing="1.1">SAVE THIS CAR</text>
+            </a>
+            <a id="signature-gt-white-nav-hero-next-car-link" class="signature-gt-white-nav-hero-next-car-link" href="/discover">
+                <circle id="signature-gt-white-nav-hero-next-car-circle" class="signature-gt-white-nav-hero-next-car-circle" cx="1354" cy="737" r="22" fill="#FFFFFF" />
+                <path id="signature-gt-white-nav-hero-next-car-arrow" class="signature-gt-white-nav-hero-next-car-arrow" d="M1345 737H1363M1356 730L1363 737L1356 744" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+    </g>
+    <g id="signature-gt-white-nav-collection-section" class="signature-gt-white-nav-collection-section">
+        <rect id="signature-gt-white-nav-collection-background" class="signature-gt-white-nav-collection-background" x="0" y="810" width="1440" height="440" fill="#FFFFFF" />
+        <g id="signature-gt-white-nav-collection-introduction" class="signature-gt-white-nav-collection-introduction" transform="translate(0 40)">
+            <text id="signature-gt-white-nav-collection-eyebrow" class="signature-gt-white-nav-collection-eyebrow" x="64" y="863" fill="#E32636" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.7">YOUR PERSONAL COLLECTION</text>
+            <text id="signature-gt-white-nav-collection-heading" class="signature-gt-white-nav-collection-heading" x="64" y="928" fill="#07162F" font-family="Futura" font-weight="700" font-size="43" letter-spacing="-1.3">
+                <tspan id="signature-gt-white-nav-collection-heading-line-1" class="signature-gt-white-nav-collection-heading-line-1" x="64" y="928" font-family="Futura" font-weight="700" font-size="43">Built around</tspan>
+                <tspan id="signature-gt-white-nav-collection-heading-line-2" class="signature-gt-white-nav-collection-heading-line-2" x="64" y="979" font-family="Snell Roundhand" font-weight="700" font-size="52" fill="#E32636" font-style="normal" letter-spacing="0">your next dream.</tspan>
+            </text>
+            <text id="signature-gt-white-nav-collection-description" class="signature-gt-white-nav-collection-description" x="64" y="1024" fill="#07162F" font-family="Futura" font-weight="500" font-size="16">
+                <tspan id="signature-gt-white-nav-collection-description-line-1" class="signature-gt-white-nav-collection-description-line-1" x="64" y="1024" font-family="Futura" font-weight="500" font-size="16">Turn a passing obsession into a personal collection.</tspan>
+                <tspan id="signature-gt-white-nav-collection-description-line-2" class="signature-gt-white-nav-collection-description-line-2" x="64" y="1051" font-family="Futura" font-weight="500" font-size="16">Keep the cars you love close.</tspan>
+            </text>
+            <a id="signature-gt-white-nav-collection-garage-link" class="signature-gt-white-nav-collection-garage-link" href="/garage">
+                <text id="signature-gt-white-nav-collection-garage-label" class="signature-gt-white-nav-collection-garage-label" x="64" y="1110" fill="#07162F" font-family="Futura" font-weight="700" font-size="13">Build your garage</text>
+                <path id="signature-gt-white-nav-collection-garage-arrow" class="signature-gt-white-nav-collection-garage-arrow" d="M205 1106H224M217 1099L224 1106L217 1113" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+        <g id="signature-gt-white-nav-feature-discover" class="signature-gt-white-nav-feature-discover" transform="translate(0 40)">
+            <text id="signature-gt-white-nav-feature-discover-index" class="signature-gt-white-nav-feature-discover-index" x="640" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">01 / DISCOVER</text>
+            <circle id="signature-gt-white-nav-feature-discover-search-lens" class="signature-gt-white-nav-feature-discover-search-lens" cx="653" cy="917" r="11" fill="none" stroke="#E32636" stroke-width="1.7" />
+            <path id="signature-gt-white-nav-feature-discover-search-handle" class="signature-gt-white-nav-feature-discover-search-handle" d="M661 925L670 934" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" />
+            <path id="signature-gt-white-nav-feature-discover-accent-rule" class="signature-gt-white-nav-feature-discover-accent-rule" d="M640 959H664" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="signature-gt-white-nav-feature-discover-heading" class="signature-gt-white-nav-feature-discover-heading" x="640" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Find your feeling.</text>
+            <text id="signature-gt-white-nav-feature-discover-description" class="signature-gt-white-nav-feature-discover-description" x="640" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="signature-gt-white-nav-feature-discover-copy-line-1" class="signature-gt-white-nav-feature-discover-copy-line-1" x="640" y="1032" font-family="Futura" font-weight="500" font-size="14">Explore luxury and sports cars.</tspan>
+                <tspan id="signature-gt-white-nav-feature-discover-copy-line-2" class="signature-gt-white-nav-feature-discover-copy-line-2" x="640" y="1056" font-family="Futura" font-weight="500" font-size="14">Let one catch your imagination.</tspan>
+            </text>
+        </g>
+        <path id="signature-gt-white-nav-feature-save-divider" class="signature-gt-white-nav-feature-save-divider" d="M872 868V1114" fill="none" stroke="#E32636" stroke-width="1" transform="translate(0 40)" />
+        <g id="signature-gt-white-nav-feature-save" class="signature-gt-white-nav-feature-save" transform="translate(0 40)">
+            <text id="signature-gt-white-nav-feature-save-index" class="signature-gt-white-nav-feature-save-index" x="904" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">02 / SAVE</text>
+            <path id="signature-gt-white-nav-feature-save-heart" class="signature-gt-white-nav-feature-save-heart" d="M917 933L905 921C893 909 909 899 917 911C925 899 941 909 929 921Z" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="signature-gt-white-nav-feature-save-accent-rule" class="signature-gt-white-nav-feature-save-accent-rule" d="M904 959H928" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="signature-gt-white-nav-feature-save-heading" class="signature-gt-white-nav-feature-save-heading" x="904" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Make it yours.</text>
+            <text id="signature-gt-white-nav-feature-save-description" class="signature-gt-white-nav-feature-save-description" x="904" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="signature-gt-white-nav-feature-save-copy-line-1" class="signature-gt-white-nav-feature-save-copy-line-1" x="904" y="1032" font-family="Futura" font-weight="500" font-size="14">Give every favourite a home</tspan>
+                <tspan id="signature-gt-white-nav-feature-save-copy-line-2" class="signature-gt-white-nav-feature-save-copy-line-2" x="904" y="1056" font-family="Futura" font-weight="500" font-size="14">in your own dream garage.</tspan>
+            </text>
+        </g>
+        <path id="signature-gt-white-nav-feature-compare-divider" class="signature-gt-white-nav-feature-compare-divider" d="M1128 868V1114" fill="none" stroke="#E32636" stroke-width="1" transform="translate(0 40)" />
+        <g id="signature-gt-white-nav-feature-compare" class="signature-gt-white-nav-feature-compare" transform="translate(0 40)">
+            <text id="signature-gt-white-nav-feature-compare-index" class="signature-gt-white-nav-feature-compare-index" x="1160" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">03 / COMPARE</text>
+            <path id="signature-gt-white-nav-feature-compare-arrows" class="signature-gt-white-nav-feature-compare-arrows" d="M1161 911H1187M1179 903L1187 911L1179 919M1187 928H1161M1169 920L1161 928L1169 936" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="signature-gt-white-nav-feature-compare-accent-rule" class="signature-gt-white-nav-feature-compare-accent-rule" d="M1160 959H1184" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="signature-gt-white-nav-feature-compare-heading" class="signature-gt-white-nav-feature-compare-heading" x="1160" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Look a little closer.</text>
+            <text id="signature-gt-white-nav-feature-compare-description" class="signature-gt-white-nav-feature-compare-description" x="1160" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="signature-gt-white-nav-feature-compare-copy-line-1" class="signature-gt-white-nav-feature-compare-copy-line-1" x="1160" y="1032" font-family="Futura" font-weight="500" font-size="14">Bring your favourites together.</tspan>
+                <tspan id="signature-gt-white-nav-feature-compare-copy-line-2" class="signature-gt-white-nav-feature-compare-copy-line-2" x="1160" y="1056" font-family="Futura" font-weight="500" font-size="14">See which one speaks to you.</tspan>
+            </text>
+        </g>
+    </g>
+    <g id="signature-gt-white-nav-footer" class="signature-gt-white-nav-footer">
+        <rect id="signature-gt-white-nav-footer-red-field" class="signature-gt-white-nav-footer-red-field" x="0" y="1250" width="1440" height="190" fill="#E32636" />
+        <a id="signature-gt-white-nav-footer-home-link" class="signature-gt-white-nav-footer-home-link" href="/">
+            <image id="signature-gt-white-nav-footer-context-logo" class="signature-gt-white-nav-footer-context-logo" href="media/logo-on-red.png" x="64" y="1270" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <text id="signature-gt-white-nav-footer-tagline" class="signature-gt-white-nav-footer-tagline" x="64" y="1365" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">A home for the cars you dream about.</text>
+        <g id="signature-gt-white-nav-footer-navigation" class="signature-gt-white-nav-footer-navigation">
+            <a id="signature-gt-white-nav-footer-about-link" class="signature-gt-white-nav-footer-about-link" href="/about">
+                <text id="signature-gt-white-nav-footer-about-label" class="signature-gt-white-nav-footer-about-label" x="960" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">About</text>
+            </a>
+            <a id="signature-gt-white-nav-footer-terms-link" class="signature-gt-white-nav-footer-terms-link" href="/terms">
+                <text id="signature-gt-white-nav-footer-terms-label" class="signature-gt-white-nav-footer-terms-label" x="1060" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Terms</text>
+            </a>
+            <a id="signature-gt-white-nav-footer-contact-link" class="signature-gt-white-nav-footer-contact-link" href="/contact">
+                <text id="signature-gt-white-nav-footer-contact-label" class="signature-gt-white-nav-footer-contact-label" x="1160" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Contact</text>
+            </a>
+            <a id="signature-gt-white-nav-footer-privacy-link" class="signature-gt-white-nav-footer-privacy-link" href="/privacy">
+                <text id="signature-gt-white-nav-footer-privacy-label" class="signature-gt-white-nav-footer-privacy-label" x="1280" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Privacy</text>
+            </a>
+        </g>
+        <path id="signature-gt-white-nav-footer-divider" class="signature-gt-white-nav-footer-divider" d="M64 1382H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+        <text id="signature-gt-white-nav-footer-copyright" class="signature-gt-white-nav-footer-copyright" x="64" y="1414" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="12">© 2026 Driver Dreamer. Built by <a id="signature-gt-white-nav-footer-piratechs-link" class="signature-gt-white-nav-footer-piratechs-link" href="https://piratechs.com/">
+                <tspan id="signature-gt-white-nav-footer-piratechs-label" class="signature-gt-white-nav-footer-piratechs-label" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="12">Piratechs.</tspan>
+            </a>
+        </text>
+        <text id="signature-gt-white-nav-footer-closing-line" class="signature-gt-white-nav-footer-closing-line" x="1376" y="1414" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.3" text-anchor="end">KEEP THE DREAM ALIVE.</text>
+    </g>
+</svg>

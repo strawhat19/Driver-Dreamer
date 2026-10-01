@@ -1,0 +1,51 @@
+{
+  "version": "v1",
+  "kind": "website-mockups",
+  "created": "2026-10-01",
+  "officialLogoSource": "../../../brand/logo.png",
+  "palette": {
+    "navy": "#07162F",
+    "red": "#E32636",
+    "white": "#FFFFFF"
+  },
+  "pageSize": {
+    "width": 1440,
+    "height": 1280
+  },
+  "hero": {
+    "file": "media/hero-ferrari-458.png",
+    "generationMode": "built-in-imagegen",
+    "vehicle": "Ferrari 458 Italia coupe",
+    "exterior": "Red",
+    "interior": "Cream tan",
+    "wheels": "Polished silver factory-style five-spoke",
+    "setting": "Blue sky, green grass, dark asphalt racing circuit"
+  },
+  "directions": [
+    {
+      "number": 1,
+      "name": "Open Road",
+      "fontFamily": "Avenir Next",
+      "fontWeights": [400, 700],
+      "source": "01-open-road.svg",
+      "preview": "01-open-road.png"
+    },
+    {
+      "number": 2,
+      "name": "Trackside",
+      "fontFamily": "Futura",
+      "fontWeights": [500, 700],
+      "source": "02-trackside.svg",
+      "preview": "02-trackside.png"
+    },
+    {
+      "number": 3,
+      "name": "Sunday Drive",
+      "fontFamily": "Gill Sans",
+      "fontWeights": [400, 600],
+      "source": "03-sunday-drive.svg",
+      "preview": "03-sunday-drive.png"
+    }
+  ],
+  "comparison": "04-comparison.png"
+}

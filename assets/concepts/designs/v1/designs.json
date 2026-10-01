@@ -1,0 +1,80 @@
+{
+  "officialAssets": "../../../brand/",
+  "symbolSource": "../../logos/v7/02-grand-tourer-straight-thin-wide-icon.svg",
+  "fontSize": 66,
+  "variants": [
+    {
+      "prefix": "01-original-official",
+      "name": "Original / Official",
+      "family": "Avenir Next, Inter, Arial, sans-serif",
+      "primary": "#07162F",
+      "accent": "#E32636",
+      "light": "#FFFFFF",
+      "driverWeight": 700,
+      "dreamerWeight": 750,
+      "tracking": -2,
+      "exactOfficialCopy": true
+    },
+    {
+      "prefix": "02-track-precision",
+      "name": "Track Precision",
+      "family": "DIN Alternate, Arial, sans-serif",
+      "primary": "#07162F",
+      "accent": "#E32636",
+      "light": "#FFFFFF",
+      "driverWeight": 700,
+      "dreamerWeight": 700,
+      "tracking": -1
+    },
+    {
+      "prefix": "03-geometric-gt",
+      "name": "Geometric GT",
+      "family": "Futura, Avenir Next, Arial, sans-serif",
+      "primary": "#07162F",
+      "accent": "#E32636",
+      "light": "#FFFFFF",
+      "driverWeight": 500,
+      "dreamerWeight": 500,
+      "tracking": -1
+    },
+    {
+      "prefix": "04-graphite-ember",
+      "slug": "graphite-ember",
+      "name": "Graphite & Ember",
+      "family": "Helvetica Neue, Arial, sans-serif",
+      "weight": "700",
+      "tracking": "-1",
+      "primary": "#191C22",
+      "accent": "#E86A33",
+      "light": "#FFFFFF",
+      "driverWeight": 700,
+      "dreamerWeight": 700
+    },
+    {
+      "prefix": "05-forest-gold",
+      "slug": "forest-gold",
+      "name": "Forest & Gold",
+      "family": "Optima, Georgia, serif",
+      "weight": "700",
+      "tracking": "-1",
+      "primary": "#12372A",
+      "accent": "#CFAE68",
+      "light": "#FFF9EE",
+      "driverWeight": 700,
+      "dreamerWeight": 700
+    },
+    {
+      "prefix": "06-burgundy-ivory",
+      "slug": "burgundy-ivory",
+      "name": "Burgundy & Ivory",
+      "family": "Georgia, Times New Roman, serif",
+      "weight": "700",
+      "tracking": "-1",
+      "primary": "#4A1825",
+      "accent": "#B98C52",
+      "light": "#FFF7EC",
+      "driverWeight": 700,
+      "dreamerWeight": 700
+    }
+  ]
+}

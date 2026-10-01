@@ -1,0 +1,142 @@
+<svg
+    width="1440"
+    height="1280"
+    id="driver-dreamer-open-road-page"
+    class="driver-dreamer-open-road-page"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 1440 1280"
+    role="img"
+    aria-labelledby="open-road-page-title open-road-page-description"
+>
+    <title id="open-road-page-title" class="open-road-page-title">Driver Dreamer — Open Road website concept</title>
+    <desc id="open-road-page-description" class="open-road-page-description">A complete desktop landing-page concept using the official Driver Dreamer logo and original navy, racing red and white identity. A split hero introduces a red Ferrari 458 Italia with cream tan interior and polished silver five-spoke wheels on a sunny racecourse. Three feature tiles explain Discover, Save and Compare, followed by a footer with About, Terms, Contact, Privacy and a Piratechs credit. This is a website layout concept with editable vector interface elements.</desc>
+    <defs id="open-road-definitions" class="open-road-definitions">
+        <clipPath id="open-road-hero-photo-clip" class="open-road-hero-photo-clip">
+            <rect id="open-road-hero-photo-clip-shape" class="open-road-hero-photo-clip-shape" x="650" y="164" rx="24" width="702" height="454" />
+        </clipPath>
+    </defs>
+    <rect id="open-road-page-canvas" class="open-road-page-canvas" fill="#FFFFFF" width="1440" height="1280" />
+
+    <g id="open-road-header" class="open-road-header">
+        <a id="open-road-header-home-link" class="open-road-header-home-link" href="/">
+            <image id="open-road-header-official-logo" class="open-road-header-official-logo" href="media/logo.png" x="88" y="21" width="254" height="71" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <g id="open-road-header-navigation" class="open-road-header-navigation">
+            <a id="open-road-navigation-discover-link" class="open-road-navigation-discover-link" href="/discover">
+                <text id="open-road-navigation-discover-label" class="open-road-navigation-discover-label" x="560" y="63" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="15">Discover</text>
+                <rect id="open-road-navigation-discover-active-line" class="open-road-navigation-discover-active-line" x="560" y="75" rx="1.5" width="65" height="3" fill="#E32636" />
+            </a>
+            <a id="open-road-navigation-collections-link" class="open-road-navigation-collections-link" href="/collections">
+                <text id="open-road-navigation-collections-label" class="open-road-navigation-collections-label" x="674" y="63" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="15">Collections</text>
+            </a>
+            <a id="open-road-navigation-journal-link" class="open-road-navigation-journal-link" href="/journal">
+                <text id="open-road-navigation-journal-label" class="open-road-navigation-journal-label" x="815" y="63" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="15">Journal</text>
+            </a>
+            <a id="open-road-navigation-about-link" class="open-road-navigation-about-link" href="/about">
+                <text id="open-road-navigation-about-label" class="open-road-navigation-about-label" x="925" y="63" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="15">About</text>
+            </a>
+        </g>
+        <a id="open-road-header-garage-link" class="open-road-header-garage-link" href="/garage">
+            <rect id="open-road-header-garage-button" class="open-road-header-garage-button" x="1186" y="33" rx="8" width="166" height="44" fill="#07162F" />
+            <path id="open-road-header-garage-icon" class="open-road-header-garage-icon" d="M1205 51L1215 45L1225 51V65H1205ZM1209 55H1221M1209 59H1221M1209 63H1221" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <text id="open-road-header-garage-label" class="open-road-header-garage-label" x="1237" y="60" fill="#FFFFFF" font-family="Avenir Next" font-weight="700" font-size="14">My Garage</text>
+        </a>
+        <path id="open-road-header-divider" class="open-road-header-divider" d="M88 110H1352" fill="none" stroke="#E7EBF0" stroke-width="1" />
+    </g>
+
+    <g id="open-road-hero" class="open-road-hero">
+        <g id="open-road-hero-introduction" class="open-road-hero-introduction">
+            <rect id="open-road-hero-eyebrow-accent" class="open-road-hero-eyebrow-accent" x="88" y="183" rx="2" width="24" height="4" fill="#E32636" />
+            <text id="open-road-hero-eyebrow-label" class="open-road-hero-eyebrow-label" x="123" y="191" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="12" letter-spacing="1.5">A WORLD OF DREAM CARS</text>
+            <text id="open-road-hero-heading" class="open-road-hero-heading" x="88" y="276" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="56" letter-spacing="-2">
+                <tspan id="open-road-hero-heading-line-1" class="open-road-hero-heading-line-1" x="88" y="276" font-family="Avenir Next" font-weight="700" font-size="56">Ready for your</tspan>
+                <tspan id="open-road-hero-heading-line-2" class="open-road-hero-heading-line-2" x="88" y="340" font-family="Avenir Next" font-weight="700" font-size="56">next dream</tspan>
+                <tspan id="open-road-hero-heading-line-3" class="open-road-hero-heading-line-3" x="88" y="404" font-family="Avenir Next" font-weight="700" font-size="56">drive.</tspan>
+            </text>
+            <text id="open-road-hero-description" class="open-road-hero-description" x="88" y="454" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="18">
+                <tspan id="open-road-hero-description-line-1" class="open-road-hero-description-line-1" x="88" y="454" font-family="Avenir Next" font-weight="400" font-size="18">Discover luxury and sports cars that move you.</tspan>
+                <tspan id="open-road-hero-description-line-2" class="open-road-hero-description-line-2" x="88" y="481" font-family="Avenir Next" font-weight="400" font-size="18">Save your favourites, build your collection,</tspan>
+                <tspan id="open-road-hero-description-line-3" class="open-road-hero-description-line-3" x="88" y="508" font-family="Avenir Next" font-weight="400" font-size="18">and imagine what comes next.</tspan>
+            </text>
+            <a id="open-road-hero-explore-link" class="open-road-hero-explore-link" href="/discover">
+                <rect id="open-road-hero-explore-button" class="open-road-hero-explore-button" x="88" y="551" rx="8" width="201" height="58" fill="#E32636" />
+                <path id="open-road-hero-explore-car-icon" class="open-road-hero-explore-car-icon" d="M109 582H131V575L127 570H114L110 575V582ZM113 575H127M113 582V586M127 582V586" fill="none" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="open-road-hero-explore-label" class="open-road-hero-explore-label" x="144" y="586" fill="#FFFFFF" font-family="Avenir Next" font-weight="700" font-size="15">Explore cars</text>
+                <path id="open-road-hero-explore-arrow-icon" class="open-road-hero-explore-arrow-icon" d="M255 580H269M263 574L269 580L263 586" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+            <a id="open-road-hero-build-garage-link" class="open-road-hero-build-garage-link" href="/garage">
+                <rect id="open-road-hero-build-garage-button" class="open-road-hero-build-garage-button" x="305" y="551" rx="8" width="224" height="58" fill="#FFFFFF" stroke="#07162F" stroke-width="1.5" />
+                <path id="open-road-hero-build-garage-icon" class="open-road-hero-build-garage-icon" d="M326 575L335 570L344 575V590H326ZM330 579H340M330 583H340M330 587H340" fill="none" stroke="#07162F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="open-road-hero-build-garage-label" class="open-road-hero-build-garage-label" x="358" y="586" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="15">Build your garage</text>
+            </a>
+        </g>
+        <g id="open-road-hero-vehicle" class="open-road-hero-vehicle">
+            <rect id="open-road-hero-photo-placeholder" class="open-road-hero-photo-placeholder" x="650" y="164" rx="24" width="702" height="454" fill="#F3F5F8" />
+            <image id="open-road-hero-ferrari-photo" class="open-road-hero-ferrari-photo" href="media/hero-ferrari-458.png" x="650" y="164" width="702" height="454" preserveAspectRatio="xMaxYMid slice" clip-path="url(#open-road-hero-photo-clip)" />
+            <rect id="open-road-hero-photo-category-field" class="open-road-hero-photo-category-field" x="674" y="188" rx="17" width="178" height="34" fill="#FFFFFF" />
+            <circle id="open-road-hero-photo-category-dot" class="open-road-hero-photo-category-dot" cx="693" cy="205" r="3.5" fill="#E32636" />
+            <text id="open-road-hero-photo-category-label" class="open-road-hero-photo-category-label" x="706" y="210" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="11" letter-spacing="0.8">THE DREAM COLLECTION</text>
+            <text id="open-road-hero-vehicle-caption" class="open-road-hero-vehicle-caption" x="650" y="653" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="16">Ferrari 458 Italia · Red / Tan / Silver</text>
+            <text id="open-road-hero-vehicle-caption-detail" class="open-road-hero-vehicle-caption-detail" x="650" y="681" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="14">One beautiful car. A thousand reasons to dream.</text>
+        </g>
+    </g>
+
+    <g id="open-road-features-section" class="open-road-features-section">
+        <rect id="open-road-features-background" class="open-road-features-background" x="0" y="737" width="1440" height="309" fill="#F3F5F8" />
+        <text id="open-road-features-heading" class="open-road-features-heading" x="88" y="792" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="30" letter-spacing="-0.8">Your dream garage starts here.</text>
+        <text id="open-road-features-introduction" class="open-road-features-introduction" x="88" y="822" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="16">A little discovery. A growing wishlist. A collection that feels like you.</text>
+        <g id="open-road-feature-discover-tile" class="open-road-feature-discover-tile">
+            <rect id="open-road-feature-discover-field" class="open-road-feature-discover-field" x="88" y="850" rx="12" width="400" height="166" fill="#FFFFFF" />
+            <circle id="open-road-feature-discover-search-lens" class="open-road-feature-discover-search-lens" cx="125" cy="884" r="9" fill="none" stroke="#E32636" stroke-width="2" />
+            <path id="open-road-feature-discover-search-handle" class="open-road-feature-discover-search-handle" d="M132 891L140 899" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" />
+            <text id="open-road-feature-discover-heading" class="open-road-feature-discover-heading" x="156" y="892" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="21">Discover</text>
+            <text id="open-road-feature-discover-description" class="open-road-feature-discover-description" x="112" y="938" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="16">
+                <tspan id="open-road-feature-discover-copy-line-1" class="open-road-feature-discover-copy-line-1" x="112" y="938" font-family="Avenir Next" font-weight="400" font-size="16">Find the classics, icons and future favourites</tspan>
+                <tspan id="open-road-feature-discover-copy-line-2" class="open-road-feature-discover-copy-line-2" x="112" y="963" font-family="Avenir Next" font-weight="400" font-size="16">that deserve a closer look.</tspan>
+            </text>
+        </g>
+        <g id="open-road-feature-save-tile" class="open-road-feature-save-tile">
+            <rect id="open-road-feature-save-field" class="open-road-feature-save-field" x="520" y="850" rx="12" width="400" height="166" fill="#FFFFFF" />
+            <path id="open-road-feature-save-heart-icon" class="open-road-feature-save-heart-icon" d="M557 897L547 887C537 877 550 868 557 878C564 868 577 877 567 887Z" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            <text id="open-road-feature-save-heading" class="open-road-feature-save-heading" x="588" y="892" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="21">Save</text>
+            <text id="open-road-feature-save-description" class="open-road-feature-save-description" x="544" y="938" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="16">
+                <tspan id="open-road-feature-save-copy-line-1" class="open-road-feature-save-copy-line-1" x="544" y="938" font-family="Avenir Next" font-weight="400" font-size="16">Keep the cars you love in your own garage.</tspan>
+                <tspan id="open-road-feature-save-copy-line-2" class="open-road-feature-save-copy-line-2" x="544" y="963" font-family="Avenir Next" font-weight="400" font-size="16">Give every dream a place to belong.</tspan>
+            </text>
+        </g>
+        <g id="open-road-feature-compare-tile" class="open-road-feature-compare-tile">
+            <rect id="open-road-feature-compare-field" class="open-road-feature-compare-field" x="952" y="850" rx="12" width="400" height="166" fill="#FFFFFF" />
+            <path id="open-road-feature-compare-arrows-icon" class="open-road-feature-compare-arrows-icon" d="M977 878H1000M994 872L1000 878L994 884M1000 891H977M983 885L977 891L983 897" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            <text id="open-road-feature-compare-heading" class="open-road-feature-compare-heading" x="1020" y="892" fill="#07162F" font-family="Avenir Next" font-weight="700" font-size="21">Compare</text>
+            <text id="open-road-feature-compare-description" class="open-road-feature-compare-description" x="976" y="938" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="16">
+                <tspan id="open-road-feature-compare-copy-line-1" class="open-road-feature-compare-copy-line-1" x="976" y="938" font-family="Avenir Next" font-weight="400" font-size="16">Bring your favourites together, side by side.</tspan>
+                <tspan id="open-road-feature-compare-copy-line-2" class="open-road-feature-compare-copy-line-2" x="976" y="963" font-family="Avenir Next" font-weight="400" font-size="16">See which one speaks to you.</tspan>
+            </text>
+        </g>
+    </g>
+
+    <g id="open-road-footer" class="open-road-footer">
+        <a id="open-road-footer-home-link" class="open-road-footer-home-link" href="/">
+            <image id="open-road-footer-official-logo" class="open-road-footer-official-logo" href="media/logo.png" x="88" y="1080" width="214" height="60" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <text id="open-road-footer-tagline" class="open-road-footer-tagline" x="88" y="1162" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="15">A home for the cars you dream about.</text>
+        <g id="open-road-footer-navigation" class="open-road-footer-navigation">
+            <a id="open-road-footer-about-link" class="open-road-footer-about-link" href="/about">
+                <text id="open-road-footer-about-label" class="open-road-footer-about-label" x="937" y="1118" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="14">About</text>
+            </a>
+            <a id="open-road-footer-terms-link" class="open-road-footer-terms-link" href="/terms">
+                <text id="open-road-footer-terms-label" class="open-road-footer-terms-label" x="1037" y="1118" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="14">Terms</text>
+            </a>
+            <a id="open-road-footer-contact-link" class="open-road-footer-contact-link" href="/contact">
+                <text id="open-road-footer-contact-label" class="open-road-footer-contact-label" x="1137" y="1118" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="14">Contact</text>
+            </a>
+            <a id="open-road-footer-privacy-link" class="open-road-footer-privacy-link" href="/privacy">
+                <text id="open-road-footer-privacy-label" class="open-road-footer-privacy-label" x="1250" y="1118" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="14">Privacy</text>
+            </a>
+        </g>
+        <path id="open-road-footer-divider" class="open-road-footer-divider" d="M88 1200H1352" fill="none" stroke="#E7EBF0" stroke-width="1" />
+        <text id="open-road-footer-copyright" class="open-road-footer-copyright" x="88" y="1237" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="13">© 2026 Driver Dreamer. Built by <a id="open-road-footer-piratechs-link" class="open-road-footer-piratechs-link" href="https://piratechs.com/"><tspan id="open-road-footer-piratechs-label" class="open-road-footer-piratechs-label" fill="#E32636" font-family="Avenir Next" font-weight="700" font-size="13">Piratechs.</tspan></a></text>
+        <text id="open-road-footer-closing-label" class="open-road-footer-closing-label" x="1352" y="1237" fill="#07162F" font-family="Avenir Next" font-weight="400" font-size="13" text-anchor="end">Keep dreaming. Keep discovering.</text>
+    </g>
+</svg>

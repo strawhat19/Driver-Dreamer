@@ -1,0 +1,829 @@
+<svg
+    id="driver-dreamer-v4-refinement-comparison"
+    class="driver-dreamer-refinement-comparison"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1440 1160"
+    role="img"
+    aria-labelledby="comparison-v4-title comparison-v4-description"
+>
+    <title id="comparison-v4-title">Driver Dreamer — Original Grand Tourer Crest with filled thought bubbles</title>
+    <desc id="comparison-v4-description">Three close refinements retain the original Grand Tourer Crest, car, red crown and wordmark. Filled red thought bubbles progress mostly vertically with subtle left drift, right drift or alternating offsets. Each column shows icon-only and icon-with-text versions and an enlarged bubble trail. Original car geometry is retained and no cloud surrounds it. Palette and typography appear below the grid.</desc>
+    <rect id="comparison-v4-canvas" class="driver-dreamer-refinement-canvas" width="1440" height="1160" fill="#F3F5F9" />
+    <g id="comparison-v4-content" class="driver-dreamer-refinement-content" font-family="Avenir Next, Inter, Arial, sans-serif">
+        <text id="comparison-v4-heading" class="driver-dreamer-refinement-heading" x="48" y="66" font-size="39" font-weight="700" fill="#07162F">Driver <tspan id="comparison-v4-heading-dreamer" class="driver-dreamer-refinement-heading-emphasis" fill="#E32636">Dreamer</tspan></text>
+        <text id="comparison-v4-subheading" class="driver-dreamer-refinement-subheading" x="48" y="106" font-size="24" font-weight="600" fill="#07162F">Grand Tourer Crest / V4 / Filled dream bubbles</text>
+        <text id="comparison-v4-source-note" class="driver-dreamer-refinement-source-note" x="48" y="142" font-size="18" fill="#58667C">Original car, shield, crown and wordmark. Three circular bubbles rise toward the car with subtle offsets.</text>
+        <svg x="1248" y="12" width="126" height="126"
+    id="v4-original-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v4-original-driver-dreamer-crest-title v4-original-driver-dreamer-crest-description"
+>
+    <title id="v4-original-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Crest</title>
+    <desc id="v4-original-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. A red crown stripe and three red collection rows connect luxury vehicle discovery with an organized automotive database.</desc>
+    <path
+        id="v4-original-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-original-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-original-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-original-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-original-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-original-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-original-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <path
+        id="v4-original-driver-dreamer-crest-collection-rows"
+        fill="none"
+        stroke="#E32636"
+        stroke-width="7"
+        stroke-linecap="round"
+        d="M107 174H149M113 186H143M119 198H137"
+    />
+</svg>
+
+        <text id="comparison-v4-reference-label" class="driver-dreamer-refinement-reference-label" x="1311" y="162" text-anchor="middle" font-size="14" fill="#58667C">Original V1 crest</text>
+        <g id="comparison-v4-card-1" class="driver-dreamer-refinement-card">
+        <rect id="comparison-v4-background-1" class="driver-dreamer-refinement-card-background" x="48" y="190" width="416" height="720" rx="22" fill="#FFFFFF" stroke="#DFE5EE" />
+        <text id="comparison-v4-title-1" class="driver-dreamer-refinement-title" x="72" y="233" font-size="27" font-weight="700" fill="#07162F">01 / Left Drift</text>
+        <text id="comparison-v4-note-1" class="driver-dreamer-refinement-note" x="72" y="264" font-size="15" fill="#58667C">A gentle rise from the left toward the car.</text>
+        <svg x="104" y="282" width="304" height="304"
+    id="v4-icon-1-driver-dreamer-grand-tourer-left-drift"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v4-icon-1-driver-dreamer-left-drift-driver-dreamer-crest-title v4-icon-1-driver-dreamer-left-drift-driver-dreamer-crest-description"
+>
+    <title id="v4-icon-1-driver-dreamer-left-drift-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Left Drift</title>
+    <desc id="v4-icon-1-driver-dreamer-left-drift-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. The original red crown stripe is preserved. Three filled red thought bubbles grow toward the car, with a subtle leftward drift toward the bottom.</desc>
+    <path
+        id="v4-icon-1-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-icon-1-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-icon-1-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-icon-1-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-icon-1-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-icon-1-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-icon-1-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-icon-1-driver-dreamer-left-drift-thought-trail"
+        class="driver-dreamer-left-drift-thought-trail"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="v4-icon-1-driver-dreamer-left-drift-thought-bubble-large"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="124"
+            cy="195"
+            id="v4-icon-1-driver-dreamer-left-drift-thought-bubble-medium"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="120"
+            cy="210"
+            id="v4-icon-1-driver-dreamer-left-drift-thought-bubble-small"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+        <text id="comparison-v4-icon-label-1" class="driver-dreamer-refinement-icon-label" x="256" y="615" text-anchor="middle" font-size="14" fill="#58667C">ICON ONLY</text>
+        <svg x="72" y="643" width="368" height="103" id="v4-lockup-1-driver-dreamer-01-grand-tourer-left-drift-lockup" class="driver-dreamer-logo-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-title v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-desc">
+  <title id="v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-title">Driver Dreamer — Grand Tourer — Left Drift</title>
+  <desc id="v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-desc">The original Grand Tourer navy shield, red crown, white sports car and Driver Dreamer wordmark are preserved. Three filled red thought bubbles grow toward the car, with a subtle leftward drift toward the bottom.</desc>
+<svg x="16" y="8" width="240" height="240"
+    id="v4-lockup-1-lockup-driver-dreamer-grand-tourer-left-drift"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-2-lockup-driver-dreamer-left-drift-driver-dreamer-crest-title v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-2-lockup-driver-dreamer-left-drift-driver-dreamer-crest-description"
+>
+    <title id="v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-2-lockup-driver-dreamer-left-drift-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Left Drift</title>
+    <desc id="v4-lockup-1-lockup-driver-dreamer-left-drift-lockup-2-lockup-driver-dreamer-left-drift-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. The original red crown stripe is preserved. Three filled red thought bubbles grow toward the car, with a subtle leftward drift toward the bottom.</desc>
+    <path
+        id="v4-lockup-1-lockup-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-lockup-1-lockup-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-lockup-1-lockup-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-lockup-1-lockup-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-lockup-1-lockup-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-lockup-1-lockup-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-lockup-1-lockup-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-lockup-1-lockup-driver-dreamer-left-drift-thought-trail"
+        class="driver-dreamer-left-drift-thought-trail"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="v4-lockup-1-lockup-driver-dreamer-left-drift-thought-bubble-large"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="124"
+            cy="195"
+            id="v4-lockup-1-lockup-driver-dreamer-left-drift-thought-bubble-medium"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="120"
+            cy="210"
+            id="v4-lockup-1-lockup-driver-dreamer-left-drift-thought-bubble-small"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+  <text id="v4-lockup-1-driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+</svg>
+
+        <text id="comparison-v4-lockup-label-1" class="driver-dreamer-refinement-lockup-label" x="256" y="772" text-anchor="middle" font-size="14" fill="#58667C">ICON WITH ORIGINAL WORDMARK</text>
+        <path id="comparison-v4-detail-divider-1" class="driver-dreamer-refinement-divider" d="M72 798H440" stroke="#DFE5EE" />
+        <text id="comparison-v4-detail-label-1" class="driver-dreamer-refinement-detail-label" x="72" y="840" font-size="17" font-weight="600" fill="#07162F">Thought trail detail</text>
+        <text id="comparison-v4-detail-note-1" class="driver-dreamer-refinement-detail-note" x="72" y="867" font-size="14" fill="#58667C">Three filled circular bubbles</text>
+        <svg x="350" y="809" width="60" height="84"
+    id="v4-detail-1-driver-dreamer-grand-tourer-left-drift"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="108 160 40 56"
+    role="img"
+    aria-labelledby="v4-detail-1-driver-dreamer-left-drift-driver-dreamer-crest-title v4-detail-1-driver-dreamer-left-drift-driver-dreamer-crest-description"
+>
+    <title id="v4-detail-1-driver-dreamer-left-drift-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Left Drift</title>
+    <desc id="v4-detail-1-driver-dreamer-left-drift-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. The original red crown stripe is preserved. Three filled red thought bubbles grow toward the car, with a subtle leftward drift toward the bottom.</desc>
+    <path
+        id="v4-detail-1-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-detail-1-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-detail-1-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-detail-1-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-detail-1-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-detail-1-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-detail-1-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-detail-1-driver-dreamer-left-drift-thought-trail"
+        class="driver-dreamer-left-drift-thought-trail"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="v4-detail-1-driver-dreamer-left-drift-thought-bubble-large"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="124"
+            cy="195"
+            id="v4-detail-1-driver-dreamer-left-drift-thought-bubble-medium"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="120"
+            cy="210"
+            id="v4-detail-1-driver-dreamer-left-drift-thought-bubble-small"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+    </g>
+<g id="comparison-v4-card-2" class="driver-dreamer-refinement-card">
+        <rect id="comparison-v4-background-2" class="driver-dreamer-refinement-card-background" x="496" y="190" width="416" height="720" rx="22" fill="#FFFFFF" stroke="#DFE5EE" />
+        <text id="comparison-v4-title-2" class="driver-dreamer-refinement-title" x="520" y="233" font-size="27" font-weight="700" fill="#07162F">02 / Right Drift</text>
+        <text id="comparison-v4-note-2" class="driver-dreamer-refinement-note" x="520" y="264" font-size="15" fill="#58667C">A gentle rise from the right toward the car.</text>
+        <svg x="552" y="282" width="304" height="304"
+    id="v4-icon-2-driver-dreamer-grand-tourer-right-drift" class="driver-dreamer-grand-tourer-right-drift"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v4-icon-2-driver-dreamer-crest-title v4-icon-2-driver-dreamer-crest-description"
+>
+    <title id="v4-icon-2-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Right Drift</title>
+    <desc id="v4-icon-2-driver-dreamer-crest-description">The original navy shield, red crown stripe and white front-facing sports car are unchanged. Three filled red circular thought bubbles replace only the collection rows, with a subtle rightward drift from the largest circle nearest the vehicle to the smallest circle below.</desc>
+    <path
+        id="v4-icon-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-icon-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-icon-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-icon-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-icon-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-icon-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-icon-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-icon-2-driver-dreamer-right-drift-thought-bubbles"
+        class="driver-dreamer-right-drift-thought-bubbles"
+    >
+        <circle
+            cx="128"
+            cy="176"
+            r="10.5"
+            id="v4-icon-2-driver-dreamer-right-drift-thought-bubble-large"
+            class="driver-dreamer-right-drift-thought-bubble-large"
+        />
+        <circle
+            cx="132"
+            cy="195"
+            r="6.5"
+            id="v4-icon-2-driver-dreamer-right-drift-thought-bubble-medium"
+            class="driver-dreamer-right-drift-thought-bubble-medium"
+        />
+        <circle
+            cx="136"
+            cy="210"
+            r="3.5"
+            id="v4-icon-2-driver-dreamer-right-drift-thought-bubble-small"
+            class="driver-dreamer-right-drift-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+        <text id="comparison-v4-icon-label-2" class="driver-dreamer-refinement-icon-label" x="704" y="615" text-anchor="middle" font-size="14" fill="#58667C">ICON ONLY</text>
+        <svg x="520" y="643" width="368" height="103" id="v4-lockup-2-driver-dreamer-02-grand-tourer-right-drift-lockup" class="driver-dreamer-logo-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="v4-lockup-2-lockup-title v4-lockup-2-lockup-desc">
+  <title id="v4-lockup-2-lockup-title">Driver Dreamer — Grand Tourer — Right Drift</title>
+  <desc id="v4-lockup-2-lockup-desc">The original Grand Tourer Crest retains its navy shield, red crown, white sports car and Driver Dreamer wordmark. Three filled red circular thought bubbles replace only the original collection rows, drifting subtly to the right as they descend beneath the vehicle.</desc>
+<svg x="16" y="8" width="240" height="240"
+    id="v4-lockup-2-lockup-2-driver-dreamer-grand-tourer-right-drift" class="driver-dreamer-grand-tourer-right-drift"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v4-lockup-2-lockup-2-driver-dreamer-crest-title v4-lockup-2-lockup-2-driver-dreamer-crest-description"
+>
+    <title id="v4-lockup-2-lockup-2-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Right Drift</title>
+    <desc id="v4-lockup-2-lockup-2-driver-dreamer-crest-description">The original navy shield, red crown stripe and white front-facing sports car are unchanged. Three filled red circular thought bubbles replace only the collection rows, with a subtle rightward drift from the largest circle nearest the vehicle to the smallest circle below.</desc>
+    <path
+        id="v4-lockup-2-lockup-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-lockup-2-lockup-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-lockup-2-lockup-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-lockup-2-lockup-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-lockup-2-lockup-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-lockup-2-lockup-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-lockup-2-lockup-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-lockup-2-lockup-2-driver-dreamer-right-drift-thought-bubbles"
+        class="driver-dreamer-right-drift-thought-bubbles"
+    >
+        <circle
+            cx="128"
+            cy="176"
+            r="10.5"
+            id="v4-lockup-2-lockup-2-driver-dreamer-right-drift-thought-bubble-large"
+            class="driver-dreamer-right-drift-thought-bubble-large"
+        />
+        <circle
+            cx="132"
+            cy="195"
+            r="6.5"
+            id="v4-lockup-2-lockup-2-driver-dreamer-right-drift-thought-bubble-medium"
+            class="driver-dreamer-right-drift-thought-bubble-medium"
+        />
+        <circle
+            cx="136"
+            cy="210"
+            r="3.5"
+            id="v4-lockup-2-lockup-2-driver-dreamer-right-drift-thought-bubble-small"
+            class="driver-dreamer-right-drift-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+  <text id="v4-lockup-2-driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+</svg>
+
+        <text id="comparison-v4-lockup-label-2" class="driver-dreamer-refinement-lockup-label" x="704" y="772" text-anchor="middle" font-size="14" fill="#58667C">ICON WITH ORIGINAL WORDMARK</text>
+        <path id="comparison-v4-detail-divider-2" class="driver-dreamer-refinement-divider" d="M520 798H888" stroke="#DFE5EE" />
+        <text id="comparison-v4-detail-label-2" class="driver-dreamer-refinement-detail-label" x="520" y="840" font-size="17" font-weight="600" fill="#07162F">Thought trail detail</text>
+        <text id="comparison-v4-detail-note-2" class="driver-dreamer-refinement-detail-note" x="520" y="867" font-size="14" fill="#58667C">Three filled circular bubbles</text>
+        <svg x="798" y="809" width="60" height="84"
+    id="v4-detail-2-driver-dreamer-grand-tourer-right-drift" class="driver-dreamer-grand-tourer-right-drift"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="108 160 40 56"
+    role="img"
+    aria-labelledby="v4-detail-2-driver-dreamer-crest-title v4-detail-2-driver-dreamer-crest-description"
+>
+    <title id="v4-detail-2-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Right Drift</title>
+    <desc id="v4-detail-2-driver-dreamer-crest-description">The original navy shield, red crown stripe and white front-facing sports car are unchanged. Three filled red circular thought bubbles replace only the collection rows, with a subtle rightward drift from the largest circle nearest the vehicle to the smallest circle below.</desc>
+    <path
+        id="v4-detail-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-detail-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-detail-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-detail-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-detail-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-detail-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-detail-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-detail-2-driver-dreamer-right-drift-thought-bubbles"
+        class="driver-dreamer-right-drift-thought-bubbles"
+    >
+        <circle
+            cx="128"
+            cy="176"
+            r="10.5"
+            id="v4-detail-2-driver-dreamer-right-drift-thought-bubble-large"
+            class="driver-dreamer-right-drift-thought-bubble-large"
+        />
+        <circle
+            cx="132"
+            cy="195"
+            r="6.5"
+            id="v4-detail-2-driver-dreamer-right-drift-thought-bubble-medium"
+            class="driver-dreamer-right-drift-thought-bubble-medium"
+        />
+        <circle
+            cx="136"
+            cy="210"
+            r="3.5"
+            id="v4-detail-2-driver-dreamer-right-drift-thought-bubble-small"
+            class="driver-dreamer-right-drift-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+    </g>
+<g id="comparison-v4-card-3" class="driver-dreamer-refinement-card">
+        <rect id="comparison-v4-background-3" class="driver-dreamer-refinement-card-background" x="944" y="190" width="416" height="720" rx="22" fill="#FFFFFF" stroke="#DFE5EE" />
+        <text id="comparison-v4-title-3" class="driver-dreamer-refinement-title" x="968" y="233" font-size="27" font-weight="700" fill="#07162F">03 / Soft Weave</text>
+        <text id="comparison-v4-note-3" class="driver-dreamer-refinement-note" x="968" y="264" font-size="15" fill="#58667C">Small alternating offsets around the center.</text>
+        <svg x="1000" y="282" width="304" height="304"
+    class="driver-dreamer-soft-weave-icon"
+    id="v4-icon-3-soft-weave-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v4-icon-3-soft-weave-driver-dreamer-crest-title v4-icon-3-soft-weave-driver-dreamer-crest-description"
+>
+    <title id="v4-icon-3-soft-weave-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Soft Weave</title>
+    <desc id="v4-icon-3-soft-weave-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red circular thought bubbles rise from the bottom toward the car, with subtle alternating left and right offsets. No thought cloud surrounds the car.</desc>
+    <path
+        id="v4-icon-3-soft-weave-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-icon-3-soft-weave-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-icon-3-soft-weave-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-icon-3-soft-weave-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-icon-3-soft-weave-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-icon-3-soft-weave-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-icon-3-soft-weave-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-icon-3-soft-weave-grand-tourer-soft-weave-thought-bubbles"
+        class="driver-dreamer-soft-weave-thought-bubbles"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="v4-icon-3-soft-weave-grand-tourer-soft-weave-thought-bubble-large"
+            class="driver-dreamer-soft-weave-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="123"
+            cy="195"
+            id="v4-icon-3-soft-weave-grand-tourer-soft-weave-thought-bubble-medium"
+            class="driver-dreamer-soft-weave-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="130"
+            cy="210"
+            id="v4-icon-3-soft-weave-grand-tourer-soft-weave-thought-bubble-small"
+            class="driver-dreamer-soft-weave-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+        <text id="comparison-v4-icon-label-3" class="driver-dreamer-refinement-icon-label" x="1152" y="615" text-anchor="middle" font-size="14" fill="#58667C">ICON ONLY</text>
+        <svg x="968" y="643" width="368" height="103" id="v4-lockup-3-soft-weave-driver-dreamer-02-grand-tourer-crest-lockup" class="driver-dreamer-logo-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="v4-lockup-3-soft-weave-lockup-title v4-lockup-3-soft-weave-lockup-desc">
+  <title id="v4-lockup-3-soft-weave-lockup-title">Driver Dreamer — Grand Tourer Soft Weave</title>
+  <desc id="v4-lockup-3-soft-weave-lockup-desc">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red circular thought bubbles rise from the bottom toward the car, with subtle alternating left and right offsets. No thought cloud surrounds the car. The original Driver Dreamer wordmark accompanies the crest.</desc>
+<svg x="16" y="8" width="240" height="240"
+    id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-title v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-description"
+>
+    <title id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Soft Weave</title>
+    <desc id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red circular thought bubbles rise from the bottom toward the car, with subtle alternating left and right offsets. No thought cloud surrounds the car. The original Driver Dreamer wordmark accompanies the crest.</desc>
+    <path
+        id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-lockup-3-soft-weave-lockup-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-lockup-3-soft-weave-lockup-grand-tourer-soft-weave-thought-bubbles"
+        class="driver-dreamer-soft-weave-thought-bubbles"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="v4-lockup-3-soft-weave-lockup-grand-tourer-soft-weave-thought-bubble-large"
+            class="driver-dreamer-soft-weave-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="123"
+            cy="195"
+            id="v4-lockup-3-soft-weave-lockup-grand-tourer-soft-weave-thought-bubble-medium"
+            class="driver-dreamer-soft-weave-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="130"
+            cy="210"
+            id="v4-lockup-3-soft-weave-lockup-grand-tourer-soft-weave-thought-bubble-small"
+            class="driver-dreamer-soft-weave-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+  <text id="v4-lockup-3-soft-weave-driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+</svg>
+
+        <text id="comparison-v4-lockup-label-3" class="driver-dreamer-refinement-lockup-label" x="1152" y="772" text-anchor="middle" font-size="14" fill="#58667C">ICON WITH ORIGINAL WORDMARK</text>
+        <path id="comparison-v4-detail-divider-3" class="driver-dreamer-refinement-divider" d="M968 798H1336" stroke="#DFE5EE" />
+        <text id="comparison-v4-detail-label-3" class="driver-dreamer-refinement-detail-label" x="968" y="840" font-size="17" font-weight="600" fill="#07162F">Thought trail detail</text>
+        <text id="comparison-v4-detail-note-3" class="driver-dreamer-refinement-detail-note" x="968" y="867" font-size="14" fill="#58667C">Three filled circular bubbles</text>
+        <svg x="1246" y="809" width="60" height="84"
+    class="driver-dreamer-soft-weave-icon"
+    id="v4-detail-3-soft-weave-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="108 160 40 56"
+    role="img"
+    aria-labelledby="v4-detail-3-soft-weave-driver-dreamer-crest-title v4-detail-3-soft-weave-driver-dreamer-crest-description"
+>
+    <title id="v4-detail-3-soft-weave-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Soft Weave</title>
+    <desc id="v4-detail-3-soft-weave-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red circular thought bubbles rise from the bottom toward the car, with subtle alternating left and right offsets. No thought cloud surrounds the car.</desc>
+    <path
+        id="v4-detail-3-soft-weave-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v4-detail-3-soft-weave-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v4-detail-3-soft-weave-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v4-detail-3-soft-weave-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v4-detail-3-soft-weave-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v4-detail-3-soft-weave-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v4-detail-3-soft-weave-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v4-detail-3-soft-weave-grand-tourer-soft-weave-thought-bubbles"
+        class="driver-dreamer-soft-weave-thought-bubbles"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="v4-detail-3-soft-weave-grand-tourer-soft-weave-thought-bubble-large"
+            class="driver-dreamer-soft-weave-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="123"
+            cy="195"
+            id="v4-detail-3-soft-weave-grand-tourer-soft-weave-thought-bubble-medium"
+            class="driver-dreamer-soft-weave-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="130"
+            cy="210"
+            id="v4-detail-3-soft-weave-grand-tourer-soft-weave-thought-bubble-small"
+            class="driver-dreamer-soft-weave-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+    </g>
+        <text id="comparison-v4-palette-label" class="driver-dreamer-refinement-palette-label" x="48" y="958" font-size="22" font-weight="700" fill="#07162F">Colors</text>
+        <rect id="comparison-v4-navy-swatch" class="driver-dreamer-refinement-color-swatch" x="48" y="978" width="32" height="32" rx="6" fill="#07162F" />
+        <text id="comparison-v4-navy-label" class="driver-dreamer-refinement-color-label" x="94" y="1001" font-size="19" fill="#07162F">Deep navy / #07162F</text>
+        <rect id="comparison-v4-red-swatch" class="driver-dreamer-refinement-color-swatch" x="430" y="978" width="32" height="32" rx="6" fill="#E32636" />
+        <text id="comparison-v4-red-label" class="driver-dreamer-refinement-color-label" x="476" y="1001" font-size="19" fill="#07162F">Racing red / #E32636</text>
+        <rect id="comparison-v4-white-swatch" class="driver-dreamer-refinement-color-swatch" x="816" y="978" width="32" height="32" rx="6" fill="#FFFFFF" stroke="#CDD5E2" />
+        <text id="comparison-v4-white-label" class="driver-dreamer-refinement-color-label" x="862" y="1001" font-size="19" fill="#07162F">White / #FFFFFF</text>
+        <text id="comparison-v4-type-label" class="driver-dreamer-refinement-type-label" x="48" y="1052" font-size="22" font-weight="700" fill="#07162F">Font families</text>
+        <text id="comparison-v4-type-stack" class="driver-dreamer-refinement-type-stack" x="48" y="1087" font-size="20" fill="#07162F">Avenir Next → Inter → Arial → sans-serif</text>
+        <text id="comparison-v4-type-details" class="driver-dreamer-refinement-type-details" x="48" y="1121" font-size="17" fill="#58667C">Original wordmark: size 66 / Driver weight 700 / Dreamer weight 750 / letter spacing −2. Font fallbacks remain live in the SVG.</text>
+    </g>
+</svg>

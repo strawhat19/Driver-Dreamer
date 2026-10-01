@@ -1,0 +1,95 @@
+<svg
+    id="driver-dreamer-grand-tourer-cloud-car" class="driver-dreamer-grand-tourer-cloud-car"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="driver-dreamer-cloud-car-title driver-dreamer-cloud-car-description"
+>
+    <title id="driver-dreamer-cloud-car-title" class="driver-dreamer-cloud-car-title">Driver Dreamer — Grand Tourer Cloud Car</title>
+    <desc id="driver-dreamer-cloud-car-description" class="driver-dreamer-cloud-car-description">The original navy shield and red crown hold a white scalloped thought cloud surrounding a smaller original front-facing sports car. Two red outlined bubbles and a tiny red dot descend beneath the cloud, expressing a dream of driving.</desc>
+    <path
+        id="driver-dreamer-cloud-car-field" class="driver-dreamer-cloud-car-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="driver-dreamer-cloud-car-crown" class="driver-dreamer-cloud-car-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="4.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        id="driver-dreamer-dream-cloud-outline"
+        class="driver-dreamer-dream-cloud-outline"
+        d="M64 141C52 143 43 132 43 120C43 108 51 99 62 99C58 86 69 75 82 75C89 75 95 78 100 83C102 72 114 66 128 66C142 66 154 72 156 83C161 78 167 75 174 75C187 75 198 86 194 99C205 99 213 108 213 120C213 132 204 143 192 141C191 153 180 160 168 156C164 164 152 166 144 159C140 169 116 169 112 159C104 166 92 164 88 156C76 160 65 153 64 141Z"
+    />
+    <g
+        id="driver-dreamer-dream-cloud-car"
+        class="driver-dreamer-dream-cloud-car"
+        transform="translate(128 118) scale(0.76) translate(-128 -118)"
+    >
+        <path
+            id="driver-dreamer-cloud-car-car-roof" class="driver-dreamer-cloud-car-car-roof"
+            fill="none"
+            stroke="#FFFFFF"
+            stroke-width="8"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+        />
+        <path
+            id="driver-dreamer-cloud-car-car-body" class="driver-dreamer-cloud-car-car-body"
+            fill="#FFFFFF"
+            d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+        />
+        <path
+            id="driver-dreamer-cloud-car-left-headlight" class="driver-dreamer-cloud-car-left-headlight"
+            fill="#07162F"
+            d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+        />
+        <path
+            id="driver-dreamer-cloud-car-right-headlight" class="driver-dreamer-cloud-car-right-headlight"
+            fill="#07162F"
+            d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+        />
+        <path
+            id="driver-dreamer-cloud-car-front-intake" class="driver-dreamer-cloud-car-front-intake"
+            fill="#07162F"
+            d="M88 134H168L160 143H96Z"
+        />
+    </g>
+    <g
+        fill="none"
+        stroke="#E32636"
+        stroke-width="3"
+        id="driver-dreamer-dream-cloud-thought-trail"
+        class="driver-dreamer-dream-cloud-thought-trail"
+    >
+        <circle
+            r="7"
+            cx="128"
+            cy="182"
+            id="driver-dreamer-dream-cloud-large-bubble"
+            class="driver-dreamer-dream-cloud-large-bubble"
+        />
+        <circle
+            r="4"
+            cx="128"
+            cy="199"
+            id="driver-dreamer-dream-cloud-small-bubble"
+            class="driver-dreamer-dream-cloud-small-bubble"
+        />
+    </g>
+    <circle
+        r="2.5"
+        cx="128"
+        cy="212"
+        fill="#E32636"
+        id="driver-dreamer-dream-cloud-thought-dot"
+        class="driver-dreamer-dream-cloud-thought-dot"
+    />
+</svg>

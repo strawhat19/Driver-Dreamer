@@ -1,0 +1,82 @@
+<svg
+    role="img"
+    viewBox="0 0 256 256"
+    xmlns="http://www.w3.org/2000/svg"
+    class="driver-dreamer-sculpted-dream-icon"
+    id="driver-dreamer-sculpted-dream-icon"
+    aria-labelledby="sculpted-dream-icon-title sculpted-dream-icon-description"
+>
+    <title id="sculpted-dream-icon-title" class="driver-dreamer-logo-title">Driver Dreamer — Sculpted Dream</title>
+    <desc id="sculpted-dream-icon-description" class="driver-dreamer-logo-description">The original softened navy Grand Tourer Crest is refined with a slim red crown and a lower, wider white grand tourer. Split headlights and a tapered intake sharpen the original generic vehicle silhouette. Three red thought bubbles grow diagonally upward toward the dream car.</desc>
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-field"
+        id="sculpted-dream-icon-field"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <rect
+        x="48"
+        y="38"
+        rx="5"
+        width="160"
+        height="10"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-crown"
+        id="sculpted-dream-icon-crown"
+    />
+    <path
+        fill="#FFFFFF"
+        fill-rule="evenodd"
+        class="driver-dreamer-sculpted-dream-roof"
+        id="sculpted-dream-icon-roof"
+        d="M73 112L87 92C91 86 97 83 105 83H151C159 83 165 86 169 92L183 112H173L162 96C160 93 156 91 151 91H105C100 91 96 93 94 96L83 112Z"
+    />
+    <path
+        fill="#FFFFFF"
+        class="driver-dreamer-sculpted-dream-body"
+        id="sculpted-dream-icon-body"
+        d="M71 106H185C193 106 199 109 203 115L207 128V141C207 147 202 151 196 151H60C54 151 49 147 49 141V128L53 115C57 109 63 106 71 106Z"
+    />
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-left-headlight"
+        id="sculpted-dream-icon-left-headlight"
+        d="M65 117H80L84 124H75C70 124 66 121 65 117Z M86 117H99L105 124H90Z"
+    />
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-right-headlight"
+        id="sculpted-dream-icon-right-headlight"
+        d="M191 117H176L172 124H181C186 124 190 121 191 117Z M170 117H157L151 124H166Z"
+    />
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-intake"
+        id="sculpted-dream-icon-intake"
+        d="M88 135H168L160 144H96Z"
+    />
+    <circle
+        r="10.5"
+        cx="130"
+        cy="176"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-thought-bubble-large"
+        id="sculpted-dream-icon-thought-bubble-large"
+    />
+    <circle
+        r="6.5"
+        cx="116"
+        cy="195"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-thought-bubble-medium"
+        id="sculpted-dream-icon-thought-bubble-medium"
+    />
+    <circle
+        r="3.5"
+        cx="106"
+        cy="210"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-thought-bubble-small"
+        id="sculpted-dream-icon-thought-bubble-small"
+    />
+</svg>

@@ -1,0 +1,88 @@
+<svg id="futura-bold-driver-dreamer-02-grand-tourer-crest-lockup" class="driver-dreamer-logo-lockup driver-dreamer-futura-bold-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="futura-bold-lockup-title futura-bold-lockup-desc">
+  <title id="futura-bold-lockup-title">Driver Dreamer — Futura Bold</title>
+  <desc id="futura-bold-lockup-desc">The official Driver Dreamer navy shield, red crown, original white front-facing car and three centered thin red thought bubbles retain their exact geometry and original navy, racing red and white palette. The Futura Bold wordmark uses Futura at size 66 and weight 700 for both words, with letter spacing minus 1 and the original text placement and two-color treatment.</desc>
+<svg x="16" y="8" width="240" height="240"
+    id="futura-bold-lockup-2-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="futura-bold-lockup-2-driver-dreamer-crest-title futura-bold-lockup-2-driver-dreamer-crest-description"
+>
+    <title id="futura-bold-lockup-2-driver-dreamer-crest-title">Driver Dreamer — Futura Bold</title>
+    <desc id="futura-bold-lockup-2-driver-dreamer-crest-description">The official Driver Dreamer navy shield, red crown, original white front-facing car and three centered thin red thought bubbles retain their exact geometry and original navy, racing red and white palette. The Futura Bold wordmark uses Futura at size 66 and weight 700 for both words, with letter spacing minus 1 and the original text placement and two-color treatment.</desc>
+    <path
+        id="futura-bold-lockup-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="futura-bold-lockup-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="futura-bold-lockup-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="futura-bold-lockup-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="futura-bold-lockup-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="futura-bold-lockup-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="futura-bold-lockup-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="futura-bold-lockup-grand-tourer-futura-bold-thought-bubbles"
+        class="driver-dreamer-futura-bold-thought-bubbles"
+    >
+        <rect
+            rx="5"
+            x="112"
+            y="171"
+            width="32"
+            height="10"
+            id="futura-bold-lockup-grand-tourer-futura-bold-thought-bubble-large"
+            class="driver-dreamer-futura-bold-thought-bubble-large"
+        />
+        <rect
+            rx="3.5"
+            x="117"
+            y="191.5"
+            width="22"
+            height="7"
+            id="futura-bold-lockup-grand-tourer-futura-bold-thought-bubble-medium"
+            class="driver-dreamer-futura-bold-thought-bubble-medium"
+        />
+        <rect
+            rx="2"
+            x="122"
+            y="208"
+            width="12"
+            height="4"
+            id="futura-bold-lockup-grand-tourer-futura-bold-thought-bubble-small"
+            class="driver-dreamer-futura-bold-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+  <text id="futura-bold-driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Futura, Avenir Next, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1">Driver<tspan id="futura-bold-driver-dreamer-wordmark-dreamer" class="driver-dreamer-futura-bold-wordmark-dreamer" dx="10" fill="#E32636" font-weight="700">Dreamer</tspan></text>
+</svg>

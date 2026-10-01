@@ -1,0 +1,150 @@
+<svg
+    width="1440"
+    height="1280"
+    role="img"
+    viewBox="0 0 1440 1280"
+    xmlns="http://www.w3.org/2000/svg"
+    class="driver-dreamer-trackside-website-mockup"
+    id="driver-dreamer-trackside-website-mockup"
+    aria-labelledby="trackside-mockup-title trackside-mockup-description"
+>
+    <title id="trackside-mockup-title" class="trackside-mockup-title">Driver Dreamer — Trackside Website Concept</title>
+    <desc id="trackside-mockup-description" class="trackside-mockup-description">A finished Driver Dreamer website concept with the exact official logo in a white header, a circuit photograph of a red Ferrari 458 Italia, a navy reading overlay, a discovery headline and two actions. One compact section introduces Discover, Save and Compare. The original navy, racing red and white palette accompanies Futura website typography and a footer with legal pages and Piratechs credit.</desc>
+    <defs id="trackside-artwork-definitions" class="trackside-artwork-definitions">
+        <linearGradient
+            x1="0"
+            y1="0"
+            x2="1440"
+            y2="0"
+            gradientUnits="userSpaceOnUse"
+            id="trackside-hero-reading-gradient"
+            class="trackside-hero-reading-gradient"
+        >
+            <stop offset="0" stop-color="#07162F" stop-opacity="0.96" id="trackside-hero-gradient-left" class="trackside-hero-gradient-stop" />
+            <stop offset="0.39" stop-color="#07162F" stop-opacity="0.89" id="trackside-hero-gradient-copy" class="trackside-hero-gradient-stop" />
+            <stop offset="0.69" stop-color="#07162F" stop-opacity="0.24" id="trackside-hero-gradient-transition" class="trackside-hero-gradient-stop" />
+            <stop offset="1" stop-color="#07162F" stop-opacity="0.03" id="trackside-hero-gradient-photo" class="trackside-hero-gradient-stop" />
+        </linearGradient>
+    </defs>
+
+    <rect width="1440" height="1280" fill="#FFFFFF" id="trackside-page-canvas" class="trackside-page-canvas" />
+
+    <g id="trackside-site-header" class="trackside-site-header">
+        <rect width="1440" height="112" fill="#FFFFFF" id="trackside-header-background" class="trackside-header-background" />
+        <a href="/" id="trackside-header-home-link" class="trackside-header-home-link">
+            <image x="64" y="19" width="270" height="75" href="media/logo.png" preserveAspectRatio="xMidYMid meet" id="trackside-header-official-logo" class="trackside-official-logo" />
+        </a>
+        <g id="trackside-header-navigation" class="trackside-header-navigation">
+            <a href="/discover" id="trackside-navigation-discover-link" class="trackside-navigation-link">
+                <text x="529" y="63" fill="#07162F" font-size="16" font-family="Futura" font-weight="700" id="trackside-navigation-discover-label" class="trackside-navigation-label">Discover</text>
+                <rect x="529" y="79" width="65" height="3" rx="1.5" fill="#E32636" id="trackside-navigation-discover-indicator" class="trackside-navigation-active-indicator" />
+            </a>
+            <a href="/collections" id="trackside-navigation-collections-link" class="trackside-navigation-link">
+                <text x="653" y="63" fill="#07162F" font-size="16" font-family="Futura" font-weight="500" id="trackside-navigation-collections-label" class="trackside-navigation-label">Collections</text>
+            </a>
+            <a href="/journal" id="trackside-navigation-journal-link" class="trackside-navigation-link">
+                <text x="799" y="63" fill="#07162F" font-size="16" font-family="Futura" font-weight="500" id="trackside-navigation-journal-label" class="trackside-navigation-label">Journal</text>
+            </a>
+            <a href="/about" id="trackside-navigation-about-link" class="trackside-navigation-link">
+                <text x="909" y="63" fill="#07162F" font-size="16" font-family="Futura" font-weight="500" id="trackside-navigation-about-label" class="trackside-navigation-label">About</text>
+            </a>
+        </g>
+        <a href="/garage" id="trackside-header-garage-link" class="trackside-header-garage-link">
+            <rect x="1163" y="32" width="213" height="48" rx="8" fill="#07162F" id="trackside-header-garage-button" class="trackside-header-garage-button" />
+            <path d="M1187 54L1199 45L1211 54V67H1187V54Z M1192 67V57H1206V67 M1194 61H1204" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" id="trackside-header-garage-icon" class="trackside-header-garage-icon" />
+            <text x="1227" y="62" fill="#FFFFFF" font-size="16" font-family="Futura" font-weight="700" id="trackside-header-garage-label" class="trackside-header-garage-label">My Garage</text>
+        </a>
+    </g>
+
+    <g id="trackside-photographic-hero" class="trackside-photographic-hero">
+        <image x="0" y="112" width="1440" height="650" href="media/hero-ferrari-458.png" preserveAspectRatio="xMidYMid slice" id="trackside-hero-ferrari-photograph" class="trackside-hero-ferrari-photograph" />
+        <rect x="0" y="112" width="1440" height="650" fill="url(#trackside-hero-reading-gradient)" id="trackside-hero-reading-overlay" class="trackside-hero-reading-overlay" />
+        <g id="trackside-hero-copy" class="trackside-hero-copy">
+            <circle cx="68" cy="209" r="4" fill="#E32636" id="trackside-hero-eyebrow-dot" class="trackside-hero-eyebrow-dot" />
+            <text x="85" y="214" fill="#FFFFFF" font-size="13" letter-spacing="2.2" font-family="Futura" font-weight="700" id="trackside-hero-eyebrow-label" class="trackside-hero-eyebrow-label">YOUR NEXT GREAT DRIVE</text>
+            <text x="64" y="316" fill="#FFFFFF" font-size="66" letter-spacing="-2" font-family="Futura" font-weight="700" id="trackside-hero-heading-first-line" class="trackside-hero-heading-line">The drive starts</text>
+            <text x="64" y="393" fill="#FFFFFF" font-size="66" letter-spacing="-2" font-family="Futura" font-weight="700" id="trackside-hero-heading-second-line" class="trackside-hero-heading-line">with a dream.</text>
+            <text x="64" y="443" fill="#FFFFFF" fill-opacity="0.88" font-size="20" font-family="Futura" font-weight="500" id="trackside-hero-description-first-line" class="trackside-hero-description-line">Find the cars you love. Keep the ones</text>
+            <text x="64" y="473" fill="#FFFFFF" fill-opacity="0.88" font-size="20" font-family="Futura" font-weight="500" id="trackside-hero-description-second-line" class="trackside-hero-description-line">you can’t stop thinking about.</text>
+        </g>
+        <g id="trackside-hero-actions" class="trackside-hero-actions">
+            <a href="/discover" id="trackside-hero-explore-link" class="trackside-hero-action-link">
+                <rect x="64" y="511" width="220" height="58" rx="8" fill="#FFFFFF" id="trackside-hero-explore-button" class="trackside-hero-explore-button" />
+                <circle cx="96" cy="540" r="10" fill="none" stroke="#07162F" stroke-width="1.8" id="trackside-hero-explore-compass-ring" class="trackside-hero-explore-icon" />
+                <path d="M100 535L98 542L91 545L94 538Z" fill="#07162F" id="trackside-hero-explore-compass-needle" class="trackside-hero-explore-icon" />
+                <text x="120" y="547" fill="#07162F" font-size="18" font-family="Futura" font-weight="700" id="trackside-hero-explore-label" class="trackside-hero-action-label">Explore cars</text>
+            </a>
+            <a href="/garage" id="trackside-hero-save-link" class="trackside-hero-action-link">
+                <rect x="300" y="511" width="277" height="58" rx="8" fill="#E32636" id="trackside-hero-save-button" class="trackside-hero-save-button" />
+                <path d="M333 548L325 540C318 533 326 526 333 533C340 526 348 533 341 540L333 548Z" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" id="trackside-hero-save-heart-icon" class="trackside-hero-save-heart-icon" />
+                <text x="358" y="547" fill="#FFFFFF" font-size="18" font-family="Futura" font-weight="700" id="trackside-hero-save-label" class="trackside-hero-action-label">Save your favorites</text>
+            </a>
+        </g>
+        <g id="trackside-hero-featured-car" class="trackside-hero-featured-car">
+            <rect x="64" y="658" width="26" height="3" rx="1.5" fill="#E32636" id="trackside-featured-car-accent" class="trackside-featured-car-accent" />
+            <text x="103" y="664" fill="#FFFFFF" fill-opacity="0.72" font-size="11" letter-spacing="1.8" font-family="Futura" font-weight="700" id="trackside-featured-car-eyebrow" class="trackside-featured-car-eyebrow">FEATURED DREAM</text>
+            <text x="64" y="702" fill="#FFFFFF" font-size="25" font-family="Futura" font-weight="700" id="trackside-featured-car-model" class="trackside-featured-car-model">Ferrari 458 Italia</text>
+            <text x="64" y="729" fill="#FFFFFF" fill-opacity="0.78" font-size="15" font-family="Futura" font-weight="500" id="trackside-featured-car-colors" class="trackside-featured-car-colors">Red / Tan / Silver</text>
+        </g>
+    </g>
+
+    <g id="trackside-collection-feature-section" class="trackside-collection-feature-section">
+        <rect x="0" y="762" width="1440" height="374" fill="#FFFFFF" id="trackside-feature-section-background" class="trackside-feature-section-background" />
+        <text x="64" y="818" fill="#E32636" font-size="12" letter-spacing="1.9" font-family="Futura" font-weight="700" id="trackside-feature-section-eyebrow" class="trackside-feature-section-eyebrow">MAKE ROOM FOR WHAT MOVES YOU</text>
+        <text x="64" y="861" fill="#07162F" font-size="33" letter-spacing="-0.6" font-family="Futura" font-weight="700" id="trackside-feature-section-heading" class="trackside-feature-section-heading">A collection built around you.</text>
+        <g id="trackside-feature-tiles" class="trackside-feature-tiles">
+            <a href="/discover" id="trackside-discover-tile-link" class="trackside-feature-tile-link">
+                <rect x="64" y="901" width="420" height="166" rx="12" fill="#07162F" fill-opacity="0.04" id="trackside-discover-tile-background" class="trackside-feature-tile-background" />
+                <circle cx="103" cy="938" r="13" fill="none" stroke="#E32636" stroke-width="2" id="trackside-discover-tile-compass-ring" class="trackside-feature-tile-icon" />
+                <path d="M109 931L106 941L96 946L100 936Z" fill="#E32636" id="trackside-discover-tile-compass-needle" class="trackside-feature-tile-icon" />
+                <text x="134" y="946" fill="#07162F" font-size="24" font-family="Futura" font-weight="700" id="trackside-discover-tile-title" class="trackside-feature-tile-title">Discover</text>
+                <path d="M440 938H457 M450 931L457 938L450 945" fill="none" stroke="#07162F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" id="trackside-discover-tile-arrow" class="trackside-feature-tile-arrow" />
+                <text x="88" y="990" fill="#07162F" fill-opacity="0.72" font-size="17" font-family="Futura" font-weight="500" id="trackside-discover-tile-description-first-line" class="trackside-feature-tile-description">Explore a world of memorable cars.</text>
+                <text x="88" y="1017" fill="#07162F" fill-opacity="0.72" font-size="17" font-family="Futura" font-weight="500" id="trackside-discover-tile-description-second-line" class="trackside-feature-tile-description">Find the one that feels like you.</text>
+            </a>
+            <a href="/garage" id="trackside-save-tile-link" class="trackside-feature-tile-link">
+                <rect x="510" y="901" width="420" height="166" rx="12" fill="#07162F" fill-opacity="0.04" id="trackside-save-tile-background" class="trackside-feature-tile-background" />
+                <path d="M549 950L538 939C529 930 539 921 549 930C559 921 569 930 560 939L549 950Z" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="trackside-save-tile-heart" class="trackside-feature-tile-icon" />
+                <text x="580" y="946" fill="#07162F" font-size="24" font-family="Futura" font-weight="700" id="trackside-save-tile-title" class="trackside-feature-tile-title">Save</text>
+                <path d="M886 938H903 M896 931L903 938L896 945" fill="none" stroke="#07162F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" id="trackside-save-tile-arrow" class="trackside-feature-tile-arrow" />
+                <text x="534" y="990" fill="#07162F" fill-opacity="0.72" font-size="17" font-family="Futura" font-weight="500" id="trackside-save-tile-description-first-line" class="trackside-feature-tile-description">Give every dream a place to live.</text>
+                <text x="534" y="1017" fill="#07162F" fill-opacity="0.72" font-size="17" font-family="Futura" font-weight="500" id="trackside-save-tile-description-second-line" class="trackside-feature-tile-description">Build a garage that is entirely yours.</text>
+            </a>
+            <a href="/compare" id="trackside-compare-tile-link" class="trackside-feature-tile-link">
+                <rect x="956" y="901" width="420" height="166" rx="12" fill="#07162F" fill-opacity="0.04" id="trackside-compare-tile-background" class="trackside-feature-tile-background" />
+                <path d="M983 932H1006 M1000 926L1006 932L1000 938 M1007 944H984 M990 938L984 944L990 950" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="trackside-compare-tile-arrows" class="trackside-feature-tile-icon" />
+                <text x="1026" y="946" fill="#07162F" font-size="24" font-family="Futura" font-weight="700" id="trackside-compare-tile-title" class="trackside-feature-tile-title">Compare</text>
+                <path d="M1332 938H1349 M1342 931L1349 938L1342 945" fill="none" stroke="#07162F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" id="trackside-compare-tile-arrow" class="trackside-feature-tile-arrow" />
+                <text x="980" y="990" fill="#07162F" fill-opacity="0.72" font-size="17" font-family="Futura" font-weight="500" id="trackside-compare-tile-description-first-line" class="trackside-feature-tile-description">See your favorites side by side.</text>
+                <text x="980" y="1017" fill="#07162F" fill-opacity="0.72" font-size="17" font-family="Futura" font-weight="500" id="trackside-compare-tile-description-second-line" class="trackside-feature-tile-description">Get closer to your next great drive.</text>
+            </a>
+        </g>
+    </g>
+
+    <g id="trackside-site-footer" class="trackside-site-footer">
+        <rect x="0" y="1136" width="1440" height="144" fill="#FFFFFF" id="trackside-footer-background" class="trackside-footer-background" />
+        <path d="M64 1136H1376" fill="none" stroke="#07162F" stroke-opacity="0.12" id="trackside-footer-divider" class="trackside-footer-divider" />
+        <a href="/" id="trackside-footer-home-link" class="trackside-footer-home-link">
+            <image x="64" y="1154" width="236" height="66" href="media/logo.png" preserveAspectRatio="xMidYMid meet" id="trackside-footer-official-logo" class="trackside-official-logo" />
+        </a>
+        <g id="trackside-footer-navigation" class="trackside-footer-navigation">
+            <a href="/about" id="trackside-footer-about-link" class="trackside-footer-navigation-link">
+                <text x="1000" y="1190" fill="#07162F" font-size="15" font-family="Futura" font-weight="500" id="trackside-footer-about-label" class="trackside-footer-navigation-label">About</text>
+            </a>
+            <a href="/terms" id="trackside-footer-terms-link" class="trackside-footer-navigation-link">
+                <text x="1090" y="1190" fill="#07162F" font-size="15" font-family="Futura" font-weight="500" id="trackside-footer-terms-label" class="trackside-footer-navigation-label">Terms</text>
+            </a>
+            <a href="/contact" id="trackside-footer-contact-link" class="trackside-footer-navigation-link">
+                <text x="1180" y="1190" fill="#07162F" font-size="15" font-family="Futura" font-weight="500" id="trackside-footer-contact-label" class="trackside-footer-navigation-label">Contact</text>
+            </a>
+            <a href="/privacy" id="trackside-footer-privacy-link" class="trackside-footer-navigation-link">
+                <text x="1290" y="1190" fill="#07162F" font-size="15" font-family="Futura" font-weight="500" id="trackside-footer-privacy-label" class="trackside-footer-navigation-label">Privacy</text>
+            </a>
+        </g>
+        <text x="64" y="1250" fill="#07162F" fill-opacity="0.64" font-size="13" font-family="Futura" font-weight="500" id="trackside-footer-copyright" class="trackside-footer-copyright">© 2026 Driver Dreamer.</text>
+        <text x="1202" y="1250" fill="#07162F" fill-opacity="0.64" font-size="13" font-family="Futura" font-weight="500" id="trackside-footer-credit-prefix" class="trackside-footer-credit-prefix">Built by</text>
+        <a href="https://piratechs.com/" id="trackside-footer-piratechs-link" class="trackside-footer-piratechs-link">
+            <text x="1264" y="1250" fill="#07162F" font-size="13" font-family="Futura" font-weight="700" id="trackside-footer-piratechs-label" class="trackside-footer-piratechs-label">Piratechs.</text>
+        </a>
+    </g>
+</svg>

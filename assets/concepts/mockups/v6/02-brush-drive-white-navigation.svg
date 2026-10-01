@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="brush-drive-white-nav-page" class="brush-drive-white-nav-page" viewBox="0 0 1440 1440" width="1440" height="1440" role="img" aria-labelledby="brush-drive-white-nav-page-title brush-drive-white-nav-page-description">
+    <title id="brush-drive-white-nav-page-title" class="brush-drive-white-nav-page-title">Driver Dreamer — Brush Drive — White Navigation</title>
+    <desc id="brush-drive-white-nav-page-description" class="brush-drive-white-nav-page-description">The selected transparent-header Brush Drive website retains its untinted Ferrari photograph, white Futura CHASE THE headline, genuine red Brush Script feeling emphasis, editorial collection section and red footer. Only the transparent header changes: the wordmark beside the unchanged crest is white, and white icon-and-text navigation labels connect Discover, Collections, Journal, About and My Garage. The direct logo has no backing plate; the active Discover rule remains red.</desc>
+    <rect id="brush-drive-white-nav-page-background" class="brush-drive-white-nav-page-background" x="0" y="0" width="1440" height="1440" fill="#FFFFFF" />
+    <g id="brush-drive-white-nav-hero" class="brush-drive-white-nav-hero">
+        <image id="brush-drive-white-nav-hero-ferrari-photo" class="brush-drive-white-nav-hero-ferrari-photo" href="media/hero-ferrari-458.png" x="0" y="0" width="1440" height="810" preserveAspectRatio="xMidYMid slice" />
+        <g id="brush-drive-white-nav-header" class="brush-drive-white-nav-header">
+            <a id="brush-drive-white-nav-header-home-link" class="brush-drive-white-nav-header-home-link" href="/">
+                <image id="brush-drive-white-nav-header-white-wordmark-logo" class="brush-drive-white-nav-header-white-wordmark-logo" href="media/logo-on-sky-white.png" x="64" y="20" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+            </a>
+            <g id="brush-drive-white-nav-header-navigation" class="brush-drive-white-nav-header-navigation">
+                <a id="brush-drive-white-nav-navigation-discover-link" class="brush-drive-white-nav-navigation-discover-link" href="/discover">
+                    <circle id="brush-drive-white-nav-navigation-discover-compass-ring" class="brush-drive-white-nav-navigation-discover-compass-ring" cx="564" cy="57" r="9" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <path id="brush-drive-white-nav-navigation-discover-compass-needle" class="brush-drive-white-nav-navigation-discover-compass-needle" d="M568 53L566 59L560 61L562 55Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="brush-drive-white-nav-navigation-discover-label" class="brush-drive-white-nav-navigation-discover-label" x="584" y="63" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="15">Discover</text>
+                    <path id="brush-drive-white-nav-navigation-discover-active-rule" class="brush-drive-white-nav-navigation-discover-active-rule" d="M554 75H650" fill="none" stroke="#E32636" stroke-width="2" />
+                </a>
+                <a id="brush-drive-white-nav-navigation-collections-link" class="brush-drive-white-nav-navigation-collections-link" href="/collections">
+                    <path id="brush-drive-white-nav-navigation-collections-cards-icon" class="brush-drive-white-nav-navigation-collections-cards-icon" d="M710 47H724V62H710Z M706 51H720V66H706Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="brush-drive-white-nav-navigation-collections-label" class="brush-drive-white-nav-navigation-collections-label" x="736" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">Collections</text>
+                </a>
+                <a id="brush-drive-white-nav-navigation-journal-link" class="brush-drive-white-nav-navigation-journal-link" href="/journal">
+                    <path id="brush-drive-white-nav-navigation-journal-book-icon" class="brush-drive-white-nav-navigation-journal-book-icon" d="M872 51C869 48 865 47 862 48V63C866 62 869 63 872 65C875 63 878 62 882 63V48C879 47 875 48 872 51Z M872 51V65" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="brush-drive-white-nav-navigation-journal-label" class="brush-drive-white-nav-navigation-journal-label" x="892" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">Journal</text>
+                </a>
+                <a id="brush-drive-white-nav-navigation-about-link" class="brush-drive-white-nav-navigation-about-link" href="/about">
+                    <circle id="brush-drive-white-nav-navigation-about-info-ring" class="brush-drive-white-nav-navigation-about-info-ring" cx="990" cy="57" r="9" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <circle id="brush-drive-white-nav-navigation-about-info-dot" class="brush-drive-white-nav-navigation-about-info-dot" cx="990" cy="53" r="0.65" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <path id="brush-drive-white-nav-navigation-about-info-stem" class="brush-drive-white-nav-navigation-about-info-stem" d="M990 57V62" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    <text id="brush-drive-white-nav-navigation-about-label" class="brush-drive-white-nav-navigation-about-label" x="1010" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">About</text>
+                </a>
+            </g>
+            <a id="brush-drive-white-nav-header-garage-link" class="brush-drive-white-nav-header-garage-link" href="/garage">
+                <path id="brush-drive-white-nav-header-garage-icon" class="brush-drive-white-nav-header-garage-icon" d="M1232 52L1242 46L1252 52V67H1232ZM1236 56H1248M1236 60H1248M1236 64H1248" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="brush-drive-white-nav-header-garage-label" class="brush-drive-white-nav-header-garage-label" x="1264" y="63" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="14">My Garage</text>
+            </a>
+        </g>
+        <g id="brush-drive-white-nav-hero-editorial-heading" class="brush-drive-white-nav-hero-editorial-heading">
+            <text id="brush-drive-white-nav-hero-eyebrow" class="brush-drive-white-nav-hero-eyebrow" x="67" y="125" fill="#07162F" font-family="Futura" font-weight="500" font-size="11" letter-spacing="2.2">THE DRIVER DREAMER COLLECTION</text>
+            <g id="brush-drive-white-nav-hero-headline" class="brush-drive-white-nav-hero-headline">
+                <text id="brush-drive-white-nav-hero-headline-white-fragment" class="brush-drive-white-nav-hero-headline-white-fragment" x="58" y="225" fill="#FFFFFF" stroke="#07162F" stroke-width="0.7" stroke-linejoin="round" paint-order="stroke fill" font-family="Futura" font-weight="700" font-size="112" letter-spacing="-3.5">CHASE THE</text>
+                <text id="brush-drive-white-nav-hero-headline-brush-fragment" class="brush-drive-white-nav-hero-headline-brush-fragment" x="732" y="200" fill="#E32636" font-family="Brush Script MT" font-weight="400" font-style="italic" font-size="132" letter-spacing="0">feeling.</text>
+            </g>
+        </g>
+        <g id="brush-drive-white-nav-hero-left-editorial-rail" class="brush-drive-white-nav-hero-left-editorial-rail">
+            <path id="brush-drive-white-nav-hero-left-accent-rule" class="brush-drive-white-nav-hero-left-accent-rule" d="M64 306H96" fill="none" stroke="#E32636" stroke-width="3" />
+            <text id="brush-drive-white-nav-hero-left-caption" class="brush-drive-white-nav-hero-left-caption" x="64" y="337" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.8">FOR THE CARS THAT STAY WITH YOU</text>
+            <text id="brush-drive-white-nav-hero-description" class="brush-drive-white-nav-hero-description" x="64" y="379" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="20">
+                <tspan id="brush-drive-white-nav-hero-description-line-1" class="brush-drive-white-nav-hero-description-line-1" x="64" y="379" font-family="Futura" font-weight="500" font-size="20">Long after the first look.</tspan>
+                <tspan id="brush-drive-white-nav-hero-description-line-2" class="brush-drive-white-nav-hero-description-line-2" x="64" y="410" font-family="Futura" font-weight="500" font-size="20">Make a place for your next dream.</tspan>
+            </text>
+            <a id="brush-drive-white-nav-hero-explore-link" class="brush-drive-white-nav-hero-explore-link" href="/discover">
+                <circle id="brush-drive-white-nav-hero-explore-circle" class="brush-drive-white-nav-hero-explore-circle" cx="92" cy="477" r="28" fill="#FFFFFF" />
+                <path id="brush-drive-white-nav-hero-explore-arrow" class="brush-drive-white-nav-hero-explore-arrow" d="M81 477H103M95 469L103 477L95 485" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="brush-drive-white-nav-hero-explore-label" class="brush-drive-white-nav-hero-explore-label" x="138" y="483" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="15" letter-spacing="1.1">EXPLORE CARS</text>
+                <text id="brush-drive-white-nav-hero-explore-detail" class="brush-drive-white-nav-hero-explore-detail" x="138" y="505" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11">Find what moves you.</text>
+                <path id="brush-drive-white-nav-hero-explore-red-accent" class="brush-drive-white-nav-hero-explore-red-accent" d="M138 520H162" fill="none" stroke="#E32636" stroke-width="2" />
+            </a>
+        </g>
+        <g id="brush-drive-white-nav-hero-model-navigation" class="brush-drive-white-nav-hero-model-navigation">
+            <path id="brush-drive-white-nav-hero-model-rule" class="brush-drive-white-nav-hero-model-rule" d="M64 696H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+            <text id="brush-drive-white-nav-hero-model-index" class="brush-drive-white-nav-hero-model-index" x="64" y="742" fill="#E32636" font-family="Futura" font-weight="700" font-size="12" letter-spacing="1.6">COLLECTION / 01</text>
+            <text id="brush-drive-white-nav-hero-model-name" class="brush-drive-white-nav-hero-model-name" x="250" y="742" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="27">Ferrari 458 Italia</text>
+            <text id="brush-drive-white-nav-hero-model-colors" class="brush-drive-white-nav-hero-model-colors" x="250" y="770" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.2">RED EXTERIOR / TAN INTERIOR / SILVER WHEELS</text>
+            <a id="brush-drive-white-nav-hero-save-car-link" class="brush-drive-white-nav-hero-save-car-link" href="/garage">
+                <path id="brush-drive-white-nav-hero-save-car-heart" class="brush-drive-white-nav-hero-save-car-heart" d="M1089 747L1079 737C1069 727 1082 718 1089 728C1096 718 1109 727 1099 737Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round" />
+                <text id="brush-drive-white-nav-hero-save-car-label" class="brush-drive-white-nav-hero-save-car-label" x="1118" y="741" fill="#E32636" font-family="Futura" font-weight="700" font-size="12" letter-spacing="1.1">SAVE THIS CAR</text>
+            </a>
+            <a id="brush-drive-white-nav-hero-next-car-link" class="brush-drive-white-nav-hero-next-car-link" href="/discover">
+                <circle id="brush-drive-white-nav-hero-next-car-circle" class="brush-drive-white-nav-hero-next-car-circle" cx="1354" cy="737" r="22" fill="#FFFFFF" />
+                <path id="brush-drive-white-nav-hero-next-car-arrow" class="brush-drive-white-nav-hero-next-car-arrow" d="M1345 737H1363M1356 730L1363 737L1356 744" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+    </g>
+    <g id="brush-drive-white-nav-collection-section" class="brush-drive-white-nav-collection-section">
+        <rect id="brush-drive-white-nav-collection-background" class="brush-drive-white-nav-collection-background" x="0" y="810" width="1440" height="440" fill="#FFFFFF" />
+        <g id="brush-drive-white-nav-collection-introduction" class="brush-drive-white-nav-collection-introduction" transform="translate(0 40)">
+            <text id="brush-drive-white-nav-collection-eyebrow" class="brush-drive-white-nav-collection-eyebrow" x="64" y="863" fill="#E32636" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.7">YOUR PERSONAL COLLECTION</text>
+            <g id="brush-drive-white-nav-collection-heading" class="brush-drive-white-nav-collection-heading">
+                <text id="brush-drive-white-nav-collection-heading-line-1" class="brush-drive-white-nav-collection-heading-line-1" x="64" y="928" fill="#07162F" font-family="Futura" font-weight="700" font-size="43" letter-spacing="-1.3">Built around</text>
+                <text id="brush-drive-white-nav-collection-heading-brush-line" class="brush-drive-white-nav-collection-heading-brush-line" x="64" y="979" fill="#E32636" font-family="Brush Script MT" font-weight="400" font-style="italic" font-size="52" letter-spacing="0">your next dream.</text>
+            </g>
+            <text id="brush-drive-white-nav-collection-description" class="brush-drive-white-nav-collection-description" x="64" y="1024" fill="#07162F" font-family="Futura" font-weight="500" font-size="16">
+                <tspan id="brush-drive-white-nav-collection-description-line-1" class="brush-drive-white-nav-collection-description-line-1" x="64" y="1024" font-family="Futura" font-weight="500" font-size="16">Turn a passing obsession into a personal collection.</tspan>
+                <tspan id="brush-drive-white-nav-collection-description-line-2" class="brush-drive-white-nav-collection-description-line-2" x="64" y="1051" font-family="Futura" font-weight="500" font-size="16">Keep the cars you love close.</tspan>
+            </text>
+            <a id="brush-drive-white-nav-collection-garage-link" class="brush-drive-white-nav-collection-garage-link" href="/garage">
+                <text id="brush-drive-white-nav-collection-garage-label" class="brush-drive-white-nav-collection-garage-label" x="64" y="1110" fill="#07162F" font-family="Futura" font-weight="700" font-size="13">Build your garage</text>
+                <path id="brush-drive-white-nav-collection-garage-arrow" class="brush-drive-white-nav-collection-garage-arrow" d="M205 1106H224M217 1099L224 1106L217 1113" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+        <g id="brush-drive-white-nav-feature-discover" class="brush-drive-white-nav-feature-discover" transform="translate(0 40)">
+            <text id="brush-drive-white-nav-feature-discover-index" class="brush-drive-white-nav-feature-discover-index" x="640" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">01 / DISCOVER</text>
+            <circle id="brush-drive-white-nav-feature-discover-search-lens" class="brush-drive-white-nav-feature-discover-search-lens" cx="653" cy="917" r="11" fill="none" stroke="#E32636" stroke-width="1.7" />
+            <path id="brush-drive-white-nav-feature-discover-search-handle" class="brush-drive-white-nav-feature-discover-search-handle" d="M661 925L670 934" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" />
+            <path id="brush-drive-white-nav-feature-discover-accent-rule" class="brush-drive-white-nav-feature-discover-accent-rule" d="M640 959H664" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="brush-drive-white-nav-feature-discover-heading" class="brush-drive-white-nav-feature-discover-heading" x="640" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Find your feeling.</text>
+            <text id="brush-drive-white-nav-feature-discover-description" class="brush-drive-white-nav-feature-discover-description" x="640" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="brush-drive-white-nav-feature-discover-copy-line-1" class="brush-drive-white-nav-feature-discover-copy-line-1" x="640" y="1032" font-family="Futura" font-weight="500" font-size="14">Explore luxury and sports cars.</tspan>
+                <tspan id="brush-drive-white-nav-feature-discover-copy-line-2" class="brush-drive-white-nav-feature-discover-copy-line-2" x="640" y="1056" font-family="Futura" font-weight="500" font-size="14">Let one catch your imagination.</tspan>
+            </text>
+        </g>
+        <path id="brush-drive-white-nav-feature-save-divider" class="brush-drive-white-nav-feature-save-divider" d="M872 868V1114" fill="none" stroke="#E32636" stroke-width="1" transform="translate(0 40)" />
+        <g id="brush-drive-white-nav-feature-save" class="brush-drive-white-nav-feature-save" transform="translate(0 40)">
+            <text id="brush-drive-white-nav-feature-save-index" class="brush-drive-white-nav-feature-save-index" x="904" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">02 / SAVE</text>
+            <path id="brush-drive-white-nav-feature-save-heart" class="brush-drive-white-nav-feature-save-heart" d="M917 933L905 921C893 909 909 899 917 911C925 899 941 909 929 921Z" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="brush-drive-white-nav-feature-save-accent-rule" class="brush-drive-white-nav-feature-save-accent-rule" d="M904 959H928" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="brush-drive-white-nav-feature-save-heading" class="brush-drive-white-nav-feature-save-heading" x="904" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Make it yours.</text>
+            <text id="brush-drive-white-nav-feature-save-description" class="brush-drive-white-nav-feature-save-description" x="904" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="brush-drive-white-nav-feature-save-copy-line-1" class="brush-drive-white-nav-feature-save-copy-line-1" x="904" y="1032" font-family="Futura" font-weight="500" font-size="14">Give every favourite a home</tspan>
+                <tspan id="brush-drive-white-nav-feature-save-copy-line-2" class="brush-drive-white-nav-feature-save-copy-line-2" x="904" y="1056" font-family="Futura" font-weight="500" font-size="14">in your own dream garage.</tspan>
+            </text>
+        </g>
+        <path id="brush-drive-white-nav-feature-compare-divider" class="brush-drive-white-nav-feature-compare-divider" d="M1128 868V1114" fill="none" stroke="#E32636" stroke-width="1" transform="translate(0 40)" />
+        <g id="brush-drive-white-nav-feature-compare" class="brush-drive-white-nav-feature-compare" transform="translate(0 40)">
+            <text id="brush-drive-white-nav-feature-compare-index" class="brush-drive-white-nav-feature-compare-index" x="1160" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">03 / COMPARE</text>
+            <path id="brush-drive-white-nav-feature-compare-arrows" class="brush-drive-white-nav-feature-compare-arrows" d="M1161 911H1187M1179 903L1187 911L1179 919M1187 928H1161M1169 920L1161 928L1169 936" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="brush-drive-white-nav-feature-compare-accent-rule" class="brush-drive-white-nav-feature-compare-accent-rule" d="M1160 959H1184" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="brush-drive-white-nav-feature-compare-heading" class="brush-drive-white-nav-feature-compare-heading" x="1160" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Look a little closer.</text>
+            <text id="brush-drive-white-nav-feature-compare-description" class="brush-drive-white-nav-feature-compare-description" x="1160" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="brush-drive-white-nav-feature-compare-copy-line-1" class="brush-drive-white-nav-feature-compare-copy-line-1" x="1160" y="1032" font-family="Futura" font-weight="500" font-size="14">Bring your favourites together.</tspan>
+                <tspan id="brush-drive-white-nav-feature-compare-copy-line-2" class="brush-drive-white-nav-feature-compare-copy-line-2" x="1160" y="1056" font-family="Futura" font-weight="500" font-size="14">See which one speaks to you.</tspan>
+            </text>
+        </g>
+    </g>
+    <g id="brush-drive-white-nav-footer" class="brush-drive-white-nav-footer">
+        <rect id="brush-drive-white-nav-footer-red-field" class="brush-drive-white-nav-footer-red-field" x="0" y="1250" width="1440" height="190" fill="#E32636" />
+        <a id="brush-drive-white-nav-footer-home-link" class="brush-drive-white-nav-footer-home-link" href="/">
+            <image id="brush-drive-white-nav-footer-context-logo" class="brush-drive-white-nav-footer-context-logo" href="media/logo-on-red.png" x="64" y="1270" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <text id="brush-drive-white-nav-footer-tagline" class="brush-drive-white-nav-footer-tagline" x="64" y="1365" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">A home for the cars you dream about.</text>
+        <g id="brush-drive-white-nav-footer-navigation" class="brush-drive-white-nav-footer-navigation">
+            <a id="brush-drive-white-nav-footer-about-link" class="brush-drive-white-nav-footer-about-link" href="/about">
+                <text id="brush-drive-white-nav-footer-about-label" class="brush-drive-white-nav-footer-about-label" x="960" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">About</text>
+            </a>
+            <a id="brush-drive-white-nav-footer-terms-link" class="brush-drive-white-nav-footer-terms-link" href="/terms">
+                <text id="brush-drive-white-nav-footer-terms-label" class="brush-drive-white-nav-footer-terms-label" x="1060" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Terms</text>
+            </a>
+            <a id="brush-drive-white-nav-footer-contact-link" class="brush-drive-white-nav-footer-contact-link" href="/contact">
+                <text id="brush-drive-white-nav-footer-contact-label" class="brush-drive-white-nav-footer-contact-label" x="1160" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Contact</text>
+            </a>
+            <a id="brush-drive-white-nav-footer-privacy-link" class="brush-drive-white-nav-footer-privacy-link" href="/privacy">
+                <text id="brush-drive-white-nav-footer-privacy-label" class="brush-drive-white-nav-footer-privacy-label" x="1280" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Privacy</text>
+            </a>
+        </g>
+        <path id="brush-drive-white-nav-footer-divider" class="brush-drive-white-nav-footer-divider" d="M64 1382H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+        <text id="brush-drive-white-nav-footer-copyright" class="brush-drive-white-nav-footer-copyright" x="64" y="1414" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="12">© 2026 Driver Dreamer. Built by <a id="brush-drive-white-nav-footer-piratechs-link" class="brush-drive-white-nav-footer-piratechs-link" href="https://piratechs.com/">
+                <tspan id="brush-drive-white-nav-footer-piratechs-label" class="brush-drive-white-nav-footer-piratechs-label" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="12">Piratechs.</tspan>
+            </a>
+        </text>
+        <text id="brush-drive-white-nav-footer-closing-line" class="brush-drive-white-nav-footer-closing-line" x="1376" y="1414" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.3" text-anchor="end">KEEP THE DREAM ALIVE.</text>
+    </g>
+</svg>

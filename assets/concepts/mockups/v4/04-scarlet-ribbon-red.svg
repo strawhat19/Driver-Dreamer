@@ -1,0 +1,148 @@
+<svg width="1440" height="1440" viewBox="0 0 1440 1440" xmlns="http://www.w3.org/2000/svg" role="img" id="scarlet-ribbon-red-website" class="scarlet-ribbon-website" aria-labelledby="scarlet-ribbon-red-title scarlet-ribbon-red-description">
+<title id="scarlet-ribbon-red-title" class="scarlet-ribbon-title">Driver Dreamer — Scarlet Ribbon — Red Header</title>
+<desc id="scarlet-ribbon-red-description" class="scarlet-ribbon-description">A finished automotive editorial website pairs a giant single-line CHASE THE FEELING headline with a sharp red typographic ribbon. The circuit photograph remains untinted and the Ferrari hood, interior and wheels remain unobstructed. Direct transparent logos, a white outlined discovery action, a white vehicle rail and one white editorial collection section continue the original navy, red and white identity. The red footer includes legal pages, copyright and a linked Piratechs credit.</desc>
+<rect x="0" y="0" width="1440" height="1440" fill="#FFFFFF" id="scarlet-ribbon-red-page-canvas" class="scarlet-ribbon-page-canvas" />
+<g id="scarlet-ribbon-red-hero" class="scarlet-ribbon-hero">
+<image x="0" y="100" width="1440" height="810" href="media/hero-ferrari-458.png" preserveAspectRatio="xMidYMid slice" id="scarlet-ribbon-red-hero-photograph" class="scarlet-ribbon-hero-photograph" />
+<g id="scarlet-ribbon-red-hero-typographic-ribbon" class="scarlet-ribbon-hero-typographic-ribbon">
+<text x="58" y="216" fill="#07162F" font-size="10" font-family="Futura" font-weight="700" letter-spacing="1.5" id="scarlet-ribbon-red-hero-editorial-eyebrow" class="scarlet-ribbon-hero-editorial-eyebrow">DREAM GARAGE / CURATED DISCOVERY</text>
+<rect x="705" y="229" width="663" height="104" fill="#E32636" id="scarlet-ribbon-red-hero-feeling-ribbon" class="scarlet-ribbon-hero-feeling-ribbon" />
+<text x="58" y="325" fill="#FFFFFF" font-size="112" font-family="Futura" font-weight="700" letter-spacing="-3.5" stroke="#07162F" stroke-width="0.7" paint-order="stroke fill" id="scarlet-ribbon-red-hero-heading-chase" class="scarlet-ribbon-hero-heading-chase">CHASE THE</text>
+<text x="729" y="325" fill="#FFFFFF" font-size="112" font-family="Futura" font-weight="700" letter-spacing="-3.5" id="scarlet-ribbon-red-hero-heading-feeling" class="scarlet-ribbon-hero-heading-feeling">FEELING.</text>
+<path d="M1302 249V321" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.55" id="scarlet-ribbon-red-hero-ribbon-feature-divider" class="scarlet-ribbon-hero-ribbon-feature-divider" />
+<text x="1319" y="266" fill="#FFFFFF" font-size="9" font-family="Futura" font-weight="700" letter-spacing="1.2" id="scarlet-ribbon-red-hero-ribbon-feature-eyebrow" class="scarlet-ribbon-hero-ribbon-feature-eyebrow">CAR</text>
+<text x="1315" y="313" fill="#FFFFFF" font-size="30" font-family="Futura" font-weight="700" letter-spacing="-1" id="scarlet-ribbon-red-hero-ribbon-feature-index" class="scarlet-ribbon-hero-ribbon-feature-index">01</text>
+</g>
+<g id="scarlet-ribbon-red-hero-discovery-column" class="scarlet-ribbon-hero-discovery-column">
+<path d="M58 412H90" fill="none" stroke="#E32636" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-hero-discovery-rule" class="scarlet-ribbon-hero-discovery-rule" />
+<text x="58" y="450" fill="#FFFFFF" font-size="21" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-hero-discovery-heading" class="scarlet-ribbon-hero-discovery-heading">Find your next favorite.</text>
+<text x="58" y="484" fill="#FFFFFF" font-size="17" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-hero-discovery-description-first-line" class="scarlet-ribbon-hero-discovery-description-first-line">Discover, save and compare</text>
+<text x="58" y="511" fill="#FFFFFF" font-size="17" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-hero-discovery-description-second-line" class="scarlet-ribbon-hero-discovery-description-second-line">the cars that move you.</text>
+<a href="/discover" id="scarlet-ribbon-red-hero-explore-link" class="scarlet-ribbon-hero-explore-link">
+<rect x="58" y="549" width="274" height="64" fill="none" stroke="#FFFFFF" stroke-width="1.5" id="scarlet-ribbon-red-hero-explore-frame" class="scarlet-ribbon-hero-explore-frame" />
+<text x="83" y="590" fill="#FFFFFF" font-size="22" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-hero-explore-label" class="scarlet-ribbon-hero-explore-label">Explore cars</text>
+<circle cx="332" cy="581" r="32" fill="#E32636" id="scarlet-ribbon-red-hero-explore-arrow-disc" class="scarlet-ribbon-hero-explore-arrow-disc" />
+<path d="M319 581H345 M336 572L345 581L336 590" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-hero-explore-arrow" class="scarlet-ribbon-hero-explore-arrow" />
+</a>
+</g>
+<g id="scarlet-ribbon-red-hero-vehicle-rail" class="scarlet-ribbon-hero-vehicle-rail">
+<rect x="0" y="814" width="1440" height="96" fill="#FFFFFF" id="scarlet-ribbon-red-hero-vehicle-rail-background" class="scarlet-ribbon-hero-vehicle-rail-background" />
+<rect x="58" y="837" width="3" height="48" fill="#E32636" id="scarlet-ribbon-red-hero-vehicle-rail-accent" class="scarlet-ribbon-hero-vehicle-rail-accent" />
+<text x="76" y="843" fill="#07162F" font-size="9" font-family="Futura" font-weight="700" letter-spacing="1.7" id="scarlet-ribbon-red-hero-vehicle-eyebrow" class="scarlet-ribbon-hero-vehicle-eyebrow">FEATURED DREAM</text>
+<a href="/discover/ferrari-458-italia" id="scarlet-ribbon-red-hero-vehicle-detail-link" class="scarlet-ribbon-hero-vehicle-detail-link">
+<text x="76" y="880" fill="#E32636" font-size="27" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-hero-vehicle-model" class="scarlet-ribbon-hero-vehicle-model">Ferrari 458 Italia</text>
+<path d="M366 871H385 M378 864L385 871L378 878" fill="none" stroke="#E32636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-hero-vehicle-detail-arrow" class="scarlet-ribbon-hero-vehicle-detail-arrow" />
+</a>
+<text x="437" y="868" fill="#07162F" font-size="13" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-hero-vehicle-colors" class="scarlet-ribbon-hero-vehicle-colors">Red / Tan / Silver</text>
+<path d="M873 837V888" fill="none" stroke="#E32636" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" id="scarlet-ribbon-red-hero-vehicle-carousel-divider" class="scarlet-ribbon-hero-vehicle-carousel-divider" />
+<text x="901" y="869" fill="#E32636" font-size="12" font-family="Futura" font-weight="500" letter-spacing="1.5" id="scarlet-ribbon-red-hero-vehicle-pagination" class="scarlet-ribbon-hero-vehicle-pagination">01 / 03</text>
+<a href="/discover?featured=previous" id="scarlet-ribbon-red-hero-vehicle-previous-link" class="scarlet-ribbon-hero-vehicle-previous-link" aria-label="Previous featured car">
+<circle cx="1019" cy="863" r="19" fill="#FFFFFF" stroke="#E32636" stroke-width="1" id="scarlet-ribbon-red-hero-vehicle-previous-disc" class="scarlet-ribbon-hero-vehicle-previous-disc" />
+<path d="M1026 863H1012 M1018 857L1012 863L1018 869" fill="none" stroke="#E32636" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-hero-vehicle-previous-arrow" class="scarlet-ribbon-hero-vehicle-previous-arrow" />
+</a>
+<a href="/discover?featured=next" id="scarlet-ribbon-red-hero-vehicle-next-link" class="scarlet-ribbon-hero-vehicle-next-link" aria-label="Next featured car">
+<circle cx="1076" cy="863" r="19" fill="#E32636" stroke="#E32636" stroke-width="1" id="scarlet-ribbon-red-hero-vehicle-next-disc" class="scarlet-ribbon-hero-vehicle-next-disc" />
+<path d="M1069 863H1083 M1077 857L1083 863L1077 869" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-hero-vehicle-next-arrow" class="scarlet-ribbon-hero-vehicle-next-arrow" />
+</a>
+<a href="/garage?save=ferrari-458-italia" id="scarlet-ribbon-red-hero-vehicle-save-link" class="scarlet-ribbon-hero-vehicle-save-link">
+<rect x="1168" y="837" width="224" height="52" fill="#FFFFFF" stroke="#E32636" stroke-width="1.5" id="scarlet-ribbon-red-hero-vehicle-save-background" class="scarlet-ribbon-hero-vehicle-save-background" />
+<path d="M1195 873L1188 866C1182 860 1189 854 1195 860C1201 854 1208 860 1202 866L1195 873Z" fill="none" stroke="#E32636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-hero-vehicle-save-heart" class="scarlet-ribbon-hero-vehicle-save-heart" />
+<text x="1220" y="870" fill="#E32636" font-size="16" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-hero-vehicle-save-label" class="scarlet-ribbon-hero-vehicle-save-label">Save to garage</text>
+</a>
+</g>
+</g>
+<g id="scarlet-ribbon-red-site-header" class="scarlet-ribbon-site-header">
+<rect x="0" y="0" width="1440" height="100" fill="#E32636" id="scarlet-ribbon-red-header-background" class="scarlet-ribbon-header-background" />
+<a href="/" id="scarlet-ribbon-red-header-home-link" class="scarlet-ribbon-header-home-link">
+<image x="40" y="13" width="268" height="75" href="media/logo-on-red.png" preserveAspectRatio="xMidYMid meet" id="scarlet-ribbon-red-header-transparent-logo" class="scarlet-ribbon-header-transparent-logo" />
+</a>
+<g id="scarlet-ribbon-red-header-navigation" class="scarlet-ribbon-header-navigation">
+<a href="/discover" id="scarlet-ribbon-red-header-discover-link" class="scarlet-ribbon-header-discover-link">
+<text x="524" y="56" fill="#FFFFFF" font-size="12" font-family="Futura" font-weight="700" letter-spacing="1.2" id="scarlet-ribbon-red-header-discover-label" class="scarlet-ribbon-header-discover-label">DISCOVER</text>
+<path d="M524 72H595" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-header-discover-active-rule" class="scarlet-ribbon-header-discover-active-rule" />
+</a>
+<a href="/collections" id="scarlet-ribbon-red-header-collections-link" class="scarlet-ribbon-header-collections-link">
+<text x="650" y="56" fill="#FFFFFF" font-size="12" font-family="Futura" font-weight="500" letter-spacing="1.2" id="scarlet-ribbon-red-header-collections-label" class="scarlet-ribbon-header-collections-label">COLLECTIONS</text>
+</a>
+<a href="/journal" id="scarlet-ribbon-red-header-journal-link" class="scarlet-ribbon-header-journal-link">
+<text x="807" y="56" fill="#FFFFFF" font-size="12" font-family="Futura" font-weight="500" letter-spacing="1.2" id="scarlet-ribbon-red-header-journal-label" class="scarlet-ribbon-header-journal-label">JOURNAL</text>
+</a>
+<a href="/about" id="scarlet-ribbon-red-header-about-link" class="scarlet-ribbon-header-about-link">
+<text x="931" y="56" fill="#FFFFFF" font-size="12" font-family="Futura" font-weight="500" letter-spacing="1.2" id="scarlet-ribbon-red-header-about-label" class="scarlet-ribbon-header-about-label">ABOUT</text>
+</a>
+</g>
+<a href="/garage" id="scarlet-ribbon-red-header-garage-link" class="scarlet-ribbon-header-garage-link">
+<rect x="1206" y="25" width="186" height="50" fill="#07162F" id="scarlet-ribbon-red-header-garage-background" class="scarlet-ribbon-header-garage-background" />
+<path d="M1228 47L1238 40L1248 47V61H1228Z M1232 61V50H1244V61 M1234 54H1242" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-header-garage-icon" class="scarlet-ribbon-header-garage-icon" />
+<text x="1262" y="57" fill="#FFFFFF" font-size="14" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-header-garage-label" class="scarlet-ribbon-header-garage-label">My Garage</text>
+</a>
+</g>
+<g id="scarlet-ribbon-red-editorial-collection-section" class="scarlet-ribbon-editorial-collection-section">
+<rect x="0" y="910" width="1440" height="348" fill="#FFFFFF" id="scarlet-ribbon-red-editorial-section-background" class="scarlet-ribbon-editorial-section-background" />
+<path d="M58 910H1392" fill="none" stroke="#E32636" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" id="scarlet-ribbon-red-editorial-section-top-rule" class="scarlet-ribbon-editorial-section-top-rule" />
+<g id="scarlet-ribbon-red-editorial-introduction" class="scarlet-ribbon-editorial-introduction">
+<text x="58" y="965" fill="#E32636" font-size="10" font-family="Futura" font-weight="700" letter-spacing="1.6" id="scarlet-ribbon-red-editorial-eyebrow" class="scarlet-ribbon-editorial-eyebrow">BUILT AROUND YOUR OBSESSION</text>
+<text x="58" y="1017" fill="#07162F" font-size="35" font-family="Futura" font-weight="700" letter-spacing="-0.8" id="scarlet-ribbon-red-editorial-heading-first-line" class="scarlet-ribbon-editorial-heading-first-line">A little obsession.</text>
+<text x="58" y="1062" fill="#07162F" font-size="35" font-family="Futura" font-weight="700" letter-spacing="-0.8" id="scarlet-ribbon-red-editorial-heading-second-line" class="scarlet-ribbon-editorial-heading-second-line">A lot of possibility.</text>
+<text x="58" y="1120" fill="#07162F" font-size="15" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-description-first-line" class="scarlet-ribbon-editorial-description-first-line">A collection built around the cars</text>
+<text x="58" y="1145" fill="#07162F" font-size="15" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-description-second-line" class="scarlet-ribbon-editorial-description-second-line">you can’t stop thinking about.</text>
+</g>
+<path d="M512 950V1207 M807 950V1207 M1099 950V1207" fill="none" stroke="#E32636" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.22" id="scarlet-ribbon-red-editorial-column-dividers" class="scarlet-ribbon-editorial-column-dividers" />
+<g id="scarlet-ribbon-red-editorial-discover-column" class="scarlet-ribbon-editorial-discover-column">
+<text x="544" y="965" fill="#E32636" font-size="10" font-family="Futura" font-weight="700" letter-spacing="1" id="scarlet-ribbon-red-editorial-discover-index" class="scarlet-ribbon-editorial-discover-index">01 / DISCOVER</text>
+<text x="544" y="1010" fill="#E32636" font-size="24" font-family="Futura" font-weight="700" letter-spacing="-0.5" id="scarlet-ribbon-red-editorial-discover-heading" class="scarlet-ribbon-editorial-discover-heading">Find the feeling.</text>
+<text x="544" y="1057" fill="#07162F" font-size="14" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-discover-description-first-line" class="scarlet-ribbon-editorial-discover-description-first-line">Explore cars that catch your eye.</text>
+<text x="544" y="1082" fill="#07162F" font-size="14" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-discover-description-second-line" class="scarlet-ribbon-editorial-discover-description-second-line">Meet your next favorite.</text>
+<a href="/discover" id="scarlet-ribbon-red-editorial-discover-link" class="scarlet-ribbon-editorial-discover-link">
+<text x="544" y="1180" fill="#E32636" font-size="13" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-editorial-discover-link-label" class="scarlet-ribbon-editorial-discover-link-label">Browse cars</text>
+<path d="M728 1175H749 M742 1168L749 1175L742 1182" fill="none" stroke="#E32636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-editorial-discover-link-arrow" class="scarlet-ribbon-editorial-discover-link-arrow" />
+</a>
+</g>
+<g id="scarlet-ribbon-red-editorial-save-column" class="scarlet-ribbon-editorial-save-column">
+<text x="839" y="965" fill="#E32636" font-size="10" font-family="Futura" font-weight="700" letter-spacing="1" id="scarlet-ribbon-red-editorial-save-index" class="scarlet-ribbon-editorial-save-index">02 / SAVE</text>
+<text x="839" y="1010" fill="#E32636" font-size="24" font-family="Futura" font-weight="700" letter-spacing="-0.5" id="scarlet-ribbon-red-editorial-save-heading" class="scarlet-ribbon-editorial-save-heading">Keep the dream.</text>
+<text x="839" y="1057" fill="#07162F" font-size="14" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-save-description-first-line" class="scarlet-ribbon-editorial-save-description-first-line">Bring your favorites together.</text>
+<text x="839" y="1082" fill="#07162F" font-size="14" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-save-description-second-line" class="scarlet-ribbon-editorial-save-description-second-line">Make the collection your own.</text>
+<a href="/garage" id="scarlet-ribbon-red-editorial-save-link" class="scarlet-ribbon-editorial-save-link">
+<text x="839" y="1180" fill="#E32636" font-size="13" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-editorial-save-link-label" class="scarlet-ribbon-editorial-save-link-label">Start a garage</text>
+<path d="M1023 1175H1044 M1037 1168L1044 1175L1037 1182" fill="none" stroke="#E32636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-editorial-save-link-arrow" class="scarlet-ribbon-editorial-save-link-arrow" />
+</a>
+</g>
+<g id="scarlet-ribbon-red-editorial-compare-column" class="scarlet-ribbon-editorial-compare-column">
+<text x="1131" y="965" fill="#E32636" font-size="10" font-family="Futura" font-weight="700" letter-spacing="1" id="scarlet-ribbon-red-editorial-compare-index" class="scarlet-ribbon-editorial-compare-index">03 / COMPARE</text>
+<text x="1131" y="1010" fill="#E32636" font-size="24" font-family="Futura" font-weight="700" letter-spacing="-0.5" id="scarlet-ribbon-red-editorial-compare-heading" class="scarlet-ribbon-editorial-compare-heading">See the difference.</text>
+<text x="1131" y="1057" fill="#07162F" font-size="14" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-compare-description-first-line" class="scarlet-ribbon-editorial-compare-description-first-line">Put your favorites side by side.</text>
+<text x="1131" y="1082" fill="#07162F" font-size="14" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-editorial-compare-description-second-line" class="scarlet-ribbon-editorial-compare-description-second-line">Find what speaks to you.</text>
+<a href="/compare" id="scarlet-ribbon-red-editorial-compare-link" class="scarlet-ribbon-editorial-compare-link">
+<text x="1131" y="1180" fill="#E32636" font-size="13" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-editorial-compare-link-label" class="scarlet-ribbon-editorial-compare-link-label">Compare cars</text>
+<path d="M1315 1175H1336 M1329 1168L1336 1175L1329 1182" fill="none" stroke="#E32636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" id="scarlet-ribbon-red-editorial-compare-link-arrow" class="scarlet-ribbon-editorial-compare-link-arrow" />
+</a>
+</g>
+</g>
+<g id="scarlet-ribbon-red-site-footer" class="scarlet-ribbon-site-footer">
+<rect x="0" y="1258" width="1440" height="182" fill="#E32636" id="scarlet-ribbon-red-footer-background" class="scarlet-ribbon-footer-background" />
+<a href="/" id="scarlet-ribbon-red-footer-home-link" class="scarlet-ribbon-footer-home-link">
+<image x="58" y="1284" width="246" height="69" href="media/logo-on-red.png" preserveAspectRatio="xMidYMid meet" id="scarlet-ribbon-red-footer-transparent-logo" class="scarlet-ribbon-footer-transparent-logo" />
+</a>
+<g id="scarlet-ribbon-red-footer-navigation" class="scarlet-ribbon-footer-navigation">
+<a href="/about" id="scarlet-ribbon-red-footer-about-link" class="scarlet-ribbon-footer-about-link">
+<text x="1007" y="1327" fill="#FFFFFF" font-size="13" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-footer-about-label" class="scarlet-ribbon-footer-about-label">About</text>
+</a>
+<a href="/terms" id="scarlet-ribbon-red-footer-terms-link" class="scarlet-ribbon-footer-terms-link">
+<text x="1095" y="1327" fill="#FFFFFF" font-size="13" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-footer-terms-label" class="scarlet-ribbon-footer-terms-label">Terms</text>
+</a>
+<a href="/contact" id="scarlet-ribbon-red-footer-contact-link" class="scarlet-ribbon-footer-contact-link">
+<text x="1183" y="1327" fill="#FFFFFF" font-size="13" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-footer-contact-label" class="scarlet-ribbon-footer-contact-label">Contact</text>
+</a>
+<a href="/privacy" id="scarlet-ribbon-red-footer-privacy-link" class="scarlet-ribbon-footer-privacy-link">
+<text x="1294" y="1327" fill="#FFFFFF" font-size="13" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-footer-privacy-label" class="scarlet-ribbon-footer-privacy-label">Privacy</text>
+</a>
+</g>
+<path d="M58 1374H1392" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.32" id="scarlet-ribbon-red-footer-divider" class="scarlet-ribbon-footer-divider" />
+<text x="58" y="1409" fill="#FFFFFF" font-size="12" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-footer-copyright" class="scarlet-ribbon-footer-copyright">© 2026 Driver Dreamer.</text>
+<text x="1228" y="1409" fill="#FFFFFF" font-size="12" font-family="Futura" font-weight="500" id="scarlet-ribbon-red-footer-credit-prefix" class="scarlet-ribbon-footer-credit-prefix">Built by</text>
+<a href="https://piratechs.com/" id="scarlet-ribbon-red-footer-piratechs-link" class="scarlet-ribbon-footer-piratechs-link">
+<text x="1284" y="1409" fill="#FFFFFF" font-size="12" font-family="Futura" font-weight="700" id="scarlet-ribbon-red-footer-piratechs-label" class="scarlet-ribbon-footer-piratechs-label">Piratechs.</text>
+</a>
+</g>
+</svg>

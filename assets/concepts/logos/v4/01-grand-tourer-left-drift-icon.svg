@@ -1,0 +1,76 @@
+<svg
+    id="driver-dreamer-grand-tourer-left-drift"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="driver-dreamer-left-drift-driver-dreamer-crest-title driver-dreamer-left-drift-driver-dreamer-crest-description"
+>
+    <title id="driver-dreamer-left-drift-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Left Drift</title>
+    <desc id="driver-dreamer-left-drift-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. The original red crown stripe is preserved. Three filled red thought bubbles grow toward the car, with a subtle leftward drift toward the bottom.</desc>
+    <path
+        id="driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="driver-dreamer-left-drift-thought-trail"
+        class="driver-dreamer-left-drift-thought-trail"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="driver-dreamer-left-drift-thought-bubble-large"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="124"
+            cy="195"
+            id="driver-dreamer-left-drift-thought-bubble-medium"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="120"
+            cy="210"
+            id="driver-dreamer-left-drift-thought-bubble-small"
+            class="driver-dreamer-left-drift-thought-bubble driver-dreamer-left-drift-thought-bubble-small"
+        />
+    </g>
+</svg>

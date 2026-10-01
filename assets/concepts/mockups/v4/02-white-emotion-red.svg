@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="white-emotion-red-page" class="white-emotion-red-page" viewBox="0 0 1440 1440" width="1440" height="1440" role="img" aria-labelledby="white-emotion-red-page-title white-emotion-red-page-description">
+    <title id="white-emotion-red-page-title" class="white-emotion-red-page-title">Driver Dreamer — White Emotion — Red Header</title>
+    <desc id="white-emotion-red-page-description" class="white-emotion-red-page-description">A paired editorial desktop website concept based on the preferred Chase the Feeling layout. A direct racing-red header uses the contextual logo with no backing plate. White CHASE THE typography with a fine navy edge and red FEELING typography sit above the untinted full-width Ferrari photo. A white circular-arrow action, white supporting copy and red model labels occupy clear racecourse areas. One white editorial collection section and a direct red footer complete the page.</desc>
+    <rect id="white-emotion-red-page-background" class="white-emotion-red-page-background" x="0" y="0" width="1440" height="1440" fill="#FFFFFF" />
+    <g id="white-emotion-red-hero" class="white-emotion-red-hero">
+        <image id="white-emotion-red-hero-ferrari-photo" class="white-emotion-red-hero-ferrari-photo" href="media/hero-ferrari-458.png" x="0" y="100" width="1440" height="810" preserveAspectRatio="xMidYMid slice" />
+        <g id="white-emotion-red-header" class="white-emotion-red-header">
+            <rect id="white-emotion-red-header-red-field" class="white-emotion-red-header-red-field" x="0" y="0" width="1440" height="100" fill="#E32636" />
+            <a id="white-emotion-red-header-home-link" class="white-emotion-red-header-home-link" href="/">
+                <image id="white-emotion-red-header-original-logo" class="white-emotion-red-header-original-logo" href="media/logo-on-red.png" x="64" y="20" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+            </a>
+            <g id="white-emotion-red-header-navigation" class="white-emotion-red-header-navigation">
+                <a id="white-emotion-red-navigation-discover-link" class="white-emotion-red-navigation-discover-link" href="/discover">
+                    <text id="white-emotion-red-navigation-discover-label" class="white-emotion-red-navigation-discover-label" x="584" y="63" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="15">Discover</text>
+                    <path id="white-emotion-red-navigation-discover-active-rule" class="white-emotion-red-navigation-discover-active-rule" d="M584 75H650" fill="none" stroke="#FFFFFF" stroke-width="2" />
+                </a>
+                <a id="white-emotion-red-navigation-collections-link" class="white-emotion-red-navigation-collections-link" href="/collections">
+                    <text id="white-emotion-red-navigation-collections-label" class="white-emotion-red-navigation-collections-label" x="706" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">Collections</text>
+                </a>
+                <a id="white-emotion-red-navigation-journal-link" class="white-emotion-red-navigation-journal-link" href="/journal">
+                    <text id="white-emotion-red-navigation-journal-label" class="white-emotion-red-navigation-journal-label" x="850" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">Journal</text>
+                </a>
+                <a id="white-emotion-red-navigation-about-link" class="white-emotion-red-navigation-about-link" href="/about">
+                    <text id="white-emotion-red-navigation-about-label" class="white-emotion-red-navigation-about-label" x="958" y="63" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="15">About</text>
+                </a>
+            </g>
+            <a id="white-emotion-red-header-garage-link" class="white-emotion-red-header-garage-link" href="/garage">
+                <path id="white-emotion-red-header-garage-icon" class="white-emotion-red-header-garage-icon" d="M1232 52L1242 46L1252 52V67H1232ZM1236 56H1248M1236 60H1248M1236 64H1248" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="white-emotion-red-header-garage-label" class="white-emotion-red-header-garage-label" x="1264" y="63" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="14">My Garage</text>
+            </a>
+        </g>
+        <g id="white-emotion-red-hero-editorial-heading" class="white-emotion-red-hero-editorial-heading" transform="translate(0 100)">
+            <text id="white-emotion-red-hero-eyebrow" class="white-emotion-red-hero-eyebrow" x="67" y="125" fill="#07162F" font-family="Futura" font-weight="500" font-size="11" letter-spacing="2.2">THE DRIVER DREAMER COLLECTION</text>
+            <text id="white-emotion-red-hero-headline" class="white-emotion-red-hero-headline" x="58" y="225" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="112" letter-spacing="-3.5" xml:space="preserve"><tspan id="white-emotion-red-hero-headline-white-fragment" class="white-emotion-red-hero-headline-white-fragment" fill="#FFFFFF" stroke="#07162F" stroke-width="0.7" stroke-linejoin="round" paint-order="stroke fill" font-family="Futura" font-weight="700" font-size="112">CHASE THE </tspan><tspan id="white-emotion-red-hero-headline-red-fragment" class="white-emotion-red-hero-headline-red-fragment" fill="#E32636" font-family="Futura" font-weight="700" font-size="112">FEELING.</tspan></text>
+        </g>
+        <g id="white-emotion-red-hero-left-editorial-rail" class="white-emotion-red-hero-left-editorial-rail" transform="translate(0 100)">
+            <path id="white-emotion-red-hero-left-accent-rule" class="white-emotion-red-hero-left-accent-rule" d="M64 306H96" fill="none" stroke="#E32636" stroke-width="3" />
+            <text id="white-emotion-red-hero-left-caption" class="white-emotion-red-hero-left-caption" x="64" y="337" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.8">FOR THE CARS THAT STAY WITH YOU</text>
+            <text id="white-emotion-red-hero-description" class="white-emotion-red-hero-description" x="64" y="379" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="20">
+                <tspan id="white-emotion-red-hero-description-line-1" class="white-emotion-red-hero-description-line-1" x="64" y="379" font-family="Futura" font-weight="500" font-size="20">Long after the first look.</tspan>
+                <tspan id="white-emotion-red-hero-description-line-2" class="white-emotion-red-hero-description-line-2" x="64" y="410" font-family="Futura" font-weight="500" font-size="20">Make a place for your next dream.</tspan>
+            </text>
+            <a id="white-emotion-red-hero-explore-link" class="white-emotion-red-hero-explore-link" href="/discover">
+                <circle id="white-emotion-red-hero-explore-circle" class="white-emotion-red-hero-explore-circle" cx="92" cy="477" r="28" fill="#FFFFFF" />
+                <path id="white-emotion-red-hero-explore-arrow" class="white-emotion-red-hero-explore-arrow" d="M81 477H103M95 469L103 477L95 485" fill="none" stroke="#E32636" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <text id="white-emotion-red-hero-explore-label" class="white-emotion-red-hero-explore-label" x="138" y="483" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="15" letter-spacing="1.1">EXPLORE CARS</text>
+                <text id="white-emotion-red-hero-explore-detail" class="white-emotion-red-hero-explore-detail" x="138" y="505" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11">Find what moves you.</text>
+                <path id="white-emotion-red-hero-explore-red-accent" class="white-emotion-red-hero-explore-red-accent" d="M138 520H162" fill="none" stroke="#E32636" stroke-width="2" />
+            </a>
+        </g>
+        <g id="white-emotion-red-hero-model-navigation" class="white-emotion-red-hero-model-navigation" transform="translate(0 100)">
+            <path id="white-emotion-red-hero-model-rule" class="white-emotion-red-hero-model-rule" d="M64 696H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+            <text id="white-emotion-red-hero-model-index" class="white-emotion-red-hero-model-index" x="64" y="742" fill="#E32636" font-family="Futura" font-weight="700" font-size="12" letter-spacing="1.6">COLLECTION / 01</text>
+            <text id="white-emotion-red-hero-model-name" class="white-emotion-red-hero-model-name" x="250" y="742" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="27">Ferrari 458 Italia</text>
+            <text id="white-emotion-red-hero-model-colors" class="white-emotion-red-hero-model-colors" x="250" y="770" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.2">RED EXTERIOR / TAN INTERIOR / SILVER WHEELS</text>
+            <a id="white-emotion-red-hero-save-car-link" class="white-emotion-red-hero-save-car-link" href="/garage">
+                <path id="white-emotion-red-hero-save-car-heart" class="white-emotion-red-hero-save-car-heart" d="M1089 747L1079 737C1069 727 1082 718 1089 728C1096 718 1109 727 1099 737Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round" />
+                <text id="white-emotion-red-hero-save-car-label" class="white-emotion-red-hero-save-car-label" x="1118" y="741" fill="#E32636" font-family="Futura" font-weight="700" font-size="12" letter-spacing="1.1">SAVE THIS CAR</text>
+            </a>
+            <a id="white-emotion-red-hero-next-car-link" class="white-emotion-red-hero-next-car-link" href="/discover">
+                <circle id="white-emotion-red-hero-next-car-circle" class="white-emotion-red-hero-next-car-circle" cx="1354" cy="737" r="22" fill="#FFFFFF" />
+                <path id="white-emotion-red-hero-next-car-arrow" class="white-emotion-red-hero-next-car-arrow" d="M1345 737H1363M1356 730L1363 737L1356 744" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+    </g>
+    <g id="white-emotion-red-collection-section" class="white-emotion-red-collection-section">
+        <rect id="white-emotion-red-collection-background" class="white-emotion-red-collection-background" x="0" y="910" width="1440" height="340" fill="#FFFFFF" />
+        <g id="white-emotion-red-collection-introduction" class="white-emotion-red-collection-introduction" transform="translate(0 100)">
+            <text id="white-emotion-red-collection-eyebrow" class="white-emotion-red-collection-eyebrow" x="64" y="863" fill="#E32636" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.7">YOUR PERSONAL COLLECTION</text>
+            <text id="white-emotion-red-collection-heading" class="white-emotion-red-collection-heading" x="64" y="928" fill="#07162F" font-family="Futura" font-weight="700" font-size="43" letter-spacing="-1.3">
+                <tspan id="white-emotion-red-collection-heading-line-1" class="white-emotion-red-collection-heading-line-1" x="64" y="928" font-family="Futura" font-weight="700" font-size="43">Built around</tspan>
+                <tspan id="white-emotion-red-collection-heading-line-2" class="white-emotion-red-collection-heading-line-2" x="64" y="979" font-family="Futura" font-weight="700" font-size="43" fill="#E32636">your next dream.</tspan>
+            </text>
+            <text id="white-emotion-red-collection-description" class="white-emotion-red-collection-description" x="64" y="1024" fill="#07162F" font-family="Futura" font-weight="500" font-size="16">
+                <tspan id="white-emotion-red-collection-description-line-1" class="white-emotion-red-collection-description-line-1" x="64" y="1024" font-family="Futura" font-weight="500" font-size="16">Turn a passing obsession into a personal collection.</tspan>
+                <tspan id="white-emotion-red-collection-description-line-2" class="white-emotion-red-collection-description-line-2" x="64" y="1051" font-family="Futura" font-weight="500" font-size="16">Keep the cars you love close.</tspan>
+            </text>
+            <a id="white-emotion-red-collection-garage-link" class="white-emotion-red-collection-garage-link" href="/garage">
+                <text id="white-emotion-red-collection-garage-label" class="white-emotion-red-collection-garage-label" x="64" y="1110" fill="#07162F" font-family="Futura" font-weight="700" font-size="13">Build your garage</text>
+                <path id="white-emotion-red-collection-garage-arrow" class="white-emotion-red-collection-garage-arrow" d="M205 1106H224M217 1099L224 1106L217 1113" fill="none" stroke="#E32636" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </a>
+        </g>
+        <g id="white-emotion-red-feature-discover" class="white-emotion-red-feature-discover" transform="translate(0 100)">
+            <text id="white-emotion-red-feature-discover-index" class="white-emotion-red-feature-discover-index" x="640" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">01 / DISCOVER</text>
+            <circle id="white-emotion-red-feature-discover-search-lens" class="white-emotion-red-feature-discover-search-lens" cx="653" cy="917" r="11" fill="none" stroke="#E32636" stroke-width="1.7" />
+            <path id="white-emotion-red-feature-discover-search-handle" class="white-emotion-red-feature-discover-search-handle" d="M661 925L670 934" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" />
+            <path id="white-emotion-red-feature-discover-accent-rule" class="white-emotion-red-feature-discover-accent-rule" d="M640 959H664" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="white-emotion-red-feature-discover-heading" class="white-emotion-red-feature-discover-heading" x="640" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Find your feeling.</text>
+            <text id="white-emotion-red-feature-discover-description" class="white-emotion-red-feature-discover-description" x="640" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="white-emotion-red-feature-discover-copy-line-1" class="white-emotion-red-feature-discover-copy-line-1" x="640" y="1032" font-family="Futura" font-weight="500" font-size="14">Explore luxury and sports cars.</tspan>
+                <tspan id="white-emotion-red-feature-discover-copy-line-2" class="white-emotion-red-feature-discover-copy-line-2" x="640" y="1056" font-family="Futura" font-weight="500" font-size="14">Let one catch your imagination.</tspan>
+            </text>
+        </g>
+        <path id="white-emotion-red-feature-save-divider" class="white-emotion-red-feature-save-divider" d="M872 868V1114" fill="none" stroke="#E32636" stroke-width="1" transform="translate(0 100)" />
+        <g id="white-emotion-red-feature-save" class="white-emotion-red-feature-save" transform="translate(0 100)">
+            <text id="white-emotion-red-feature-save-index" class="white-emotion-red-feature-save-index" x="904" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">02 / SAVE</text>
+            <path id="white-emotion-red-feature-save-heart" class="white-emotion-red-feature-save-heart" d="M917 933L905 921C893 909 909 899 917 911C925 899 941 909 929 921Z" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="white-emotion-red-feature-save-accent-rule" class="white-emotion-red-feature-save-accent-rule" d="M904 959H928" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="white-emotion-red-feature-save-heading" class="white-emotion-red-feature-save-heading" x="904" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Make it yours.</text>
+            <text id="white-emotion-red-feature-save-description" class="white-emotion-red-feature-save-description" x="904" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="white-emotion-red-feature-save-copy-line-1" class="white-emotion-red-feature-save-copy-line-1" x="904" y="1032" font-family="Futura" font-weight="500" font-size="14">Give every favourite a home</tspan>
+                <tspan id="white-emotion-red-feature-save-copy-line-2" class="white-emotion-red-feature-save-copy-line-2" x="904" y="1056" font-family="Futura" font-weight="500" font-size="14">in your own dream garage.</tspan>
+            </text>
+        </g>
+        <path id="white-emotion-red-feature-compare-divider" class="white-emotion-red-feature-compare-divider" d="M1128 868V1114" fill="none" stroke="#E32636" stroke-width="1" transform="translate(0 100)" />
+        <g id="white-emotion-red-feature-compare" class="white-emotion-red-feature-compare" transform="translate(0 100)">
+            <text id="white-emotion-red-feature-compare-index" class="white-emotion-red-feature-compare-index" x="1160" y="873" fill="#E32636" font-family="Futura" font-weight="700" font-size="11" letter-spacing="1.5">03 / COMPARE</text>
+            <path id="white-emotion-red-feature-compare-arrows" class="white-emotion-red-feature-compare-arrows" d="M1161 911H1187M1179 903L1187 911L1179 919M1187 928H1161M1169 920L1161 928L1169 936" fill="none" stroke="#E32636" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="white-emotion-red-feature-compare-accent-rule" class="white-emotion-red-feature-compare-accent-rule" d="M1160 959H1184" fill="none" stroke="#E32636" stroke-width="2" />
+            <text id="white-emotion-red-feature-compare-heading" class="white-emotion-red-feature-compare-heading" x="1160" y="996" fill="#07162F" font-family="Futura" font-weight="700" font-size="22">Look a little closer.</text>
+            <text id="white-emotion-red-feature-compare-description" class="white-emotion-red-feature-compare-description" x="1160" y="1032" fill="#07162F" font-family="Futura" font-weight="500" font-size="14">
+                <tspan id="white-emotion-red-feature-compare-copy-line-1" class="white-emotion-red-feature-compare-copy-line-1" x="1160" y="1032" font-family="Futura" font-weight="500" font-size="14">Bring your favourites together.</tspan>
+                <tspan id="white-emotion-red-feature-compare-copy-line-2" class="white-emotion-red-feature-compare-copy-line-2" x="1160" y="1056" font-family="Futura" font-weight="500" font-size="14">See which one speaks to you.</tspan>
+            </text>
+        </g>
+    </g>
+    <g id="white-emotion-red-footer" class="white-emotion-red-footer">
+        <rect id="white-emotion-red-footer-red-field" class="white-emotion-red-footer-red-field" x="0" y="1250" width="1440" height="190" fill="#E32636" />
+        <a id="white-emotion-red-footer-home-link" class="white-emotion-red-footer-home-link" href="/">
+            <image id="white-emotion-red-footer-context-logo" class="white-emotion-red-footer-context-logo" href="media/logo-on-red.png" x="64" y="1270" width="256" height="71" preserveAspectRatio="xMidYMid meet" />
+        </a>
+        <text id="white-emotion-red-footer-tagline" class="white-emotion-red-footer-tagline" x="64" y="1365" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">A home for the cars you dream about.</text>
+        <g id="white-emotion-red-footer-navigation" class="white-emotion-red-footer-navigation">
+            <a id="white-emotion-red-footer-about-link" class="white-emotion-red-footer-about-link" href="/about">
+                <text id="white-emotion-red-footer-about-label" class="white-emotion-red-footer-about-label" x="960" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">About</text>
+            </a>
+            <a id="white-emotion-red-footer-terms-link" class="white-emotion-red-footer-terms-link" href="/terms">
+                <text id="white-emotion-red-footer-terms-label" class="white-emotion-red-footer-terms-label" x="1060" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Terms</text>
+            </a>
+            <a id="white-emotion-red-footer-contact-link" class="white-emotion-red-footer-contact-link" href="/contact">
+                <text id="white-emotion-red-footer-contact-label" class="white-emotion-red-footer-contact-label" x="1160" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Contact</text>
+            </a>
+            <a id="white-emotion-red-footer-privacy-link" class="white-emotion-red-footer-privacy-link" href="/privacy">
+                <text id="white-emotion-red-footer-privacy-label" class="white-emotion-red-footer-privacy-label" x="1280" y="1316" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="14">Privacy</text>
+            </a>
+        </g>
+        <path id="white-emotion-red-footer-divider" class="white-emotion-red-footer-divider" d="M64 1382H1376" fill="none" stroke="#FFFFFF" stroke-width="1" />
+        <text id="white-emotion-red-footer-copyright" class="white-emotion-red-footer-copyright" x="64" y="1414" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="12">© 2026 Driver Dreamer. Built by <a id="white-emotion-red-footer-piratechs-link" class="white-emotion-red-footer-piratechs-link" href="https://piratechs.com/">
+                <tspan id="white-emotion-red-footer-piratechs-label" class="white-emotion-red-footer-piratechs-label" fill="#FFFFFF" font-family="Futura" font-weight="700" font-size="12">Piratechs.</tspan>
+            </a>
+        </text>
+        <text id="white-emotion-red-footer-closing-line" class="white-emotion-red-footer-closing-line" x="1376" y="1414" fill="#FFFFFF" font-family="Futura" font-weight="500" font-size="11" letter-spacing="1.3" text-anchor="end">KEEP THE DREAM ALIVE.</text>
+    </g>
+</svg>

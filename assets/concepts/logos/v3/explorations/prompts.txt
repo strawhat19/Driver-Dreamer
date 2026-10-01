@@ -1,0 +1,20 @@
+Built-in image_gen — supporting cloud-car exploration
+
++Initial cloud-car exploration
+
+Use case: logo-brand.
+Asset type: additional Driver Dreamer crest concept, standalone square icon.
+Input image: the supplied navy/red/white Grand Tourer Crest icon is the reference for its shield shape, palette, simple front-facing car and visual weight.
+Primary request: explore a dream thought-cloud crest closely related to this exact reference. Retain the softly rounded navy shield, the single red horizontal crown stripe, a generic white front-facing sports car, and a simple red thought-bubble trail toward the car below it. Introduce a clean white scalloped thought-cloud outline surrounding the car inside the navy crest. Give the car a refined low GT roof, concise angular headlights and restrained intake. Preserve the recognizable reference silhouette.
+Composition: centered crest on a plain white square presentation background, generous even surrounding padding, no other objects. Thought cloud is inside the shield, no cloud outside it. Car remains the dominant symbol and the cloud is secondary.
+Palette: only deep navy #07162F, racing red #E32636 and white #FFFFFF.
+Style: crisp flat vector-like logo geometry, polished automotive identity, clean optical balance, minimal smooth curves, no gradients, bevels, shadows, texture or photographic effects.
+Text: none. Avoid wordmark, captions, mockups, watermarks, manufacturer badges or model-specific details. Deliver one finished concept, not a contact sheet.
+
+---
+
+Targeted correction: rows to thought bubbles
+
+Use case: precise-object-edit. Input image is the edit target.
+Change only the three red horizontal lines at the bottom below the thought cloud. Remove all three lines completely. Replace them with exactly three red circular thought bubbles arranged vertically at the same location, growing toward the cloud: a larger hollow red circle at the top, a smaller hollow red circle below it, and a tiny solid red circle at the bottom. These must be round circles with similar width and height, not lines or pills.
+Keep the navy shield shape, red crown stripe, white cloud outline, car shape and its proportions, overall layout, plain white surrounding background and absence of text unchanged. Refine the rendering into fully flat solid colors #07162F, #E32636, #FFFFFF, with no shading, texture, lighting, grain or shadows. One centered logo concept only.

@@ -1,0 +1,341 @@
+{
+  "project": "Driver Dreamer",
+  "round": "v5",
+  "kind": "website-mockup-concepts",
+  "basedOn": {
+    "round": "v4",
+    "conceptNumbers": [
+      1,
+      2
+    ],
+    "composition": "White Emotion"
+  },
+  "palette": {
+    "navy": "#07162F",
+    "red": "#E32636",
+    "white": "#FFFFFF"
+  },
+  "logo": {
+    "officialSource": "assets/brand/logo.svg",
+    "crest": "Grand Tourer — Straight Thin Wide",
+    "geometry": "unchanged"
+  },
+  "uiTypography": {
+    "family": "Futura",
+    "styles": [
+      {
+        "style": "Medium",
+        "weight": 500
+      },
+      {
+        "style": "Bold",
+        "weight": 700
+      }
+    ]
+  },
+  "variants": [
+    {
+      "number": 1,
+      "name": "Signature GT — Sky",
+      "header": "transparent",
+      "files": {
+        "svg": "01-signature-gt-transparent.svg",
+        "fullPagePng": "01-signature-gt-transparent.png",
+        "heroPng": "01-signature-gt-transparent-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 810
+      },
+      "heroTypography": {
+        "lead": {
+          "text": "CHASE THE",
+          "family": "Avenir Next",
+          "style": "Bold",
+          "weight": 700,
+          "size": 105,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Snell Roundhand",
+          "style": "Bold",
+          "weight": 700,
+          "size": 108,
+          "color": "#E32636"
+        }
+      },
+      "collectionTypography": {
+        "redLine": {
+          "family": "Snell Roundhand",
+          "style": "Bold",
+          "weight": 700,
+          "size": 52,
+          "color": "#E32636"
+        }
+      }
+    },
+    {
+      "number": 2,
+      "name": "Signature GT — Red",
+      "header": "red",
+      "files": {
+        "svg": "02-signature-gt-red.svg",
+        "fullPagePng": "02-signature-gt-red.png",
+        "heroPng": "02-signature-gt-red-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 910
+      },
+      "heroTypography": {
+        "lead": {
+          "text": "CHASE THE",
+          "family": "Avenir Next",
+          "style": "Bold",
+          "weight": 700,
+          "size": 105,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Snell Roundhand",
+          "style": "Bold",
+          "weight": 700,
+          "size": 108,
+          "color": "#E32636"
+        }
+      },
+      "collectionTypography": {
+        "redLine": {
+          "family": "Snell Roundhand",
+          "style": "Bold",
+          "weight": 700,
+          "size": 52,
+          "color": "#E32636"
+        }
+      }
+    },
+    {
+      "number": 3,
+      "name": "Brush Drive — Sky",
+      "header": "transparent",
+      "files": {
+        "svg": "03-brush-drive-transparent.svg",
+        "fullPagePng": "03-brush-drive-transparent.png",
+        "heroPng": "03-brush-drive-transparent-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 810
+      },
+      "heroTypography": {
+        "lead": {
+          "text": "CHASE THE",
+          "family": "Futura",
+          "style": "Bold",
+          "weight": 700,
+          "size": 112,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Brush Script MT",
+          "style": "Italic",
+          "weight": 400,
+          "size": 132,
+          "color": "#E32636"
+        }
+      },
+      "collectionTypography": {
+        "redLine": {
+          "family": "Brush Script MT",
+          "style": "Italic",
+          "weight": 400,
+          "size": 52,
+          "color": "#E32636"
+        }
+      }
+    },
+    {
+      "number": 4,
+      "name": "Brush Drive — Red",
+      "header": "red",
+      "files": {
+        "svg": "04-brush-drive-red.svg",
+        "fullPagePng": "04-brush-drive-red.png",
+        "heroPng": "04-brush-drive-red-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 910
+      },
+      "heroTypography": {
+        "lead": {
+          "text": "CHASE THE",
+          "family": "Futura",
+          "style": "Bold",
+          "weight": 700,
+          "size": 112,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Brush Script MT",
+          "style": "Italic",
+          "weight": 400,
+          "size": 132,
+          "color": "#E32636"
+        }
+      },
+      "collectionTypography": {
+        "redLine": {
+          "family": "Brush Script MT",
+          "style": "Italic",
+          "weight": 400,
+          "size": 52,
+          "color": "#E32636"
+        }
+      }
+    },
+    {
+      "number": 5,
+      "name": "Grand Tour Editorial — Sky",
+      "header": "transparent",
+      "files": {
+        "svg": "05-grand-tour-editorial-transparent.svg",
+        "fullPagePng": "05-grand-tour-editorial-transparent.png",
+        "heroPng": "05-grand-tour-editorial-transparent-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 810
+      },
+      "heroTypography": {
+        "lead": {
+          "text": "Chase the",
+          "family": "Baskerville",
+          "style": "Bold",
+          "weight": 700,
+          "size": 136,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Baskerville",
+          "style": "Italic",
+          "weight": 400,
+          "size": 124,
+          "color": "#E32636"
+        }
+      },
+      "collectionTypography": {
+        "firstLine": {
+          "family": "Baskerville",
+          "style": "Bold",
+          "weight": 700,
+          "size": 43
+        },
+        "redLine": {
+          "family": "Baskerville",
+          "style": "Italic",
+          "weight": 400,
+          "size": 48,
+          "color": "#E32636"
+        }
+      }
+    },
+    {
+      "number": 6,
+      "name": "Grand Tour Editorial — Red",
+      "header": "red",
+      "files": {
+        "svg": "06-grand-tour-editorial-red.svg",
+        "fullPagePng": "06-grand-tour-editorial-red.png",
+        "heroPng": "06-grand-tour-editorial-red-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 910
+      },
+      "heroTypography": {
+        "lead": {
+          "text": "Chase the",
+          "family": "Baskerville",
+          "style": "Bold",
+          "weight": 700,
+          "size": 136,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Baskerville",
+          "style": "Italic",
+          "weight": 400,
+          "size": 124,
+          "color": "#E32636"
+        }
+      },
+      "collectionTypography": {
+        "firstLine": {
+          "family": "Baskerville",
+          "style": "Bold",
+          "weight": 700,
+          "size": 43
+        },
+        "redLine": {
+          "family": "Baskerville",
+          "style": "Italic",
+          "weight": 400,
+          "size": 48,
+          "color": "#E32636"
+        }
+      }
+    }
+  ],
+  "comparisons": {
+    "hero": {
+      "svg": "07-hero-comparison.svg",
+      "png": "07-hero-comparison.png"
+    },
+    "fullPage": {
+      "svg": "08-full-page-comparison.svg",
+      "png": "08-full-page-comparison.png"
+    }
+  },
+  "mediaDirectory": "media/",
+  "rendering": {
+    "sourceFonts": "installed system font families",
+    "pngFonts": "actual faces from temporary private font extraction",
+    "fontBinariesIncluded": false
+  },
+  "preservation": {
+    "applicationCode": "untouched",
+    "officialBrandFiles": "untouched",
+    "earlierRounds": "preserved"
+  }
+}

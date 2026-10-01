@@ -1,0 +1,29 @@
+{
+  "name": "Driver Dreamer",
+  "status": "official",
+  "concept": "Grand Tourer — Straight Thin Wide",
+  "source": "assets/concepts/logos/v7/02-grand-tourer-straight-thin-wide",
+  "assets": {
+    "logoSvg": "assets/brand/logo.svg",
+    "iconSvg": "assets/brand/logo-icon.svg",
+    "logoPng": "assets/brand/logo.png",
+    "iconPng": "assets/brand/logo-icon.png"
+  },
+  "palette": {
+    "navy": "#07162F",
+    "red": "#E32636",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "fontStack": [
+      "Avenir Next",
+      "Inter",
+      "Arial",
+      "sans-serif"
+    ],
+    "fontSize": 66,
+    "driverWeight": 700,
+    "dreamerWeight": 750,
+    "letterSpacing": -2
+  }
+}

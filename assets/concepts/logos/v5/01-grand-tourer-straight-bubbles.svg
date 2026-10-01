@@ -1,0 +1,82 @@
+<svg id="straight-bubbles-driver-dreamer-02-grand-tourer-crest-lockup" class="driver-dreamer-logo-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="straight-bubbles-lockup-title straight-bubbles-lockup-desc">
+  <title id="straight-bubbles-lockup-title">Driver Dreamer — Grand Tourer Straight Bubbles</title>
+  <desc id="straight-bubbles-lockup-desc">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red circular thought bubbles rise in a straight centered vertical line from the bottom toward the car, increasing in size toward the vehicle. The original Driver Dreamer wordmark accompanies the crest.</desc>
+<svg x="16" y="8" width="240" height="240"
+    id="straight-bubbles-lockup-2-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="straight-bubbles-lockup-2-driver-dreamer-crest-title straight-bubbles-lockup-2-driver-dreamer-crest-description"
+>
+    <title id="straight-bubbles-lockup-2-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Straight Bubbles</title>
+    <desc id="straight-bubbles-lockup-2-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red circular thought bubbles rise in a straight centered vertical line from the bottom toward the car, increasing in size toward the vehicle. The original Driver Dreamer wordmark accompanies the crest.</desc>
+    <path
+        id="straight-bubbles-lockup-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="straight-bubbles-lockup-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="straight-bubbles-lockup-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="straight-bubbles-lockup-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="straight-bubbles-lockup-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="straight-bubbles-lockup-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="straight-bubbles-lockup-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="straight-bubbles-lockup-grand-tourer-straight-bubbles-thought-bubbles"
+        class="driver-dreamer-straight-bubbles-thought-bubbles"
+    >
+        <circle
+            r="10.5"
+            cx="128"
+            cy="176"
+            id="straight-bubbles-lockup-grand-tourer-straight-bubbles-thought-bubble-large"
+            class="driver-dreamer-straight-bubbles-thought-bubble-large"
+        />
+        <circle
+            r="6.5"
+            cx="128"
+            cy="195"
+            id="straight-bubbles-lockup-grand-tourer-straight-bubbles-thought-bubble-medium"
+            class="driver-dreamer-straight-bubbles-thought-bubble-medium"
+        />
+        <circle
+            r="3.5"
+            cx="128"
+            cy="210"
+            id="straight-bubbles-lockup-grand-tourer-straight-bubbles-thought-bubble-small"
+            class="driver-dreamer-straight-bubbles-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+  <text id="straight-bubbles-driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+</svg>

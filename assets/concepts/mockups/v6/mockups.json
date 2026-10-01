@@ -1,0 +1,186 @@
+{
+  "project": "Driver Dreamer",
+  "round": "v6",
+  "kind": "website-mockup-concepts",
+  "basedOnPaths": [
+    "assets/concepts/mockups/v5/01-signature-gt-transparent.svg",
+    "assets/concepts/mockups/v5/03-brush-drive-transparent.svg"
+  ],
+  "palette": {
+    "navy": "#07162F",
+    "red": "#E32636",
+    "white": "#FFFFFF"
+  },
+  "header": {
+    "background": "transparent over sky",
+    "logoSvg": "media/logo-on-sky-white.svg",
+    "logoPng": "media/logo-on-sky-white.png",
+    "wordmarkColor": "#FFFFFF",
+    "crestGeometryAndColors": "unchanged",
+    "backingPlate": false,
+    "navigationColor": "#FFFFFF",
+    "navigation": [
+      {
+        "label": "Discover",
+        "icon": "compass"
+      },
+      {
+        "label": "Collections",
+        "icon": "stacked cards"
+      },
+      {
+        "label": "Journal",
+        "icon": "book"
+      },
+      {
+        "label": "About",
+        "icon": "information"
+      },
+      {
+        "label": "My Garage",
+        "icon": "garage"
+      }
+    ]
+  },
+  "footer": {
+    "background": "#E32636",
+    "logo": "existing contextual logo",
+    "driverColor": "#07162F",
+    "dreamerColor": "#FFFFFF"
+  },
+  "uiTypography": {
+    "family": "Futura",
+    "styles": [
+      {
+        "style": "Medium",
+        "weight": 500
+      },
+      {
+        "style": "Bold",
+        "weight": 700
+      }
+    ]
+  },
+  "variants": [
+    {
+      "number": 1,
+      "name": "Signature GT — White Navigation",
+      "basedOn": {
+        "round": "v5",
+        "selectionNumber": 1,
+        "path": "assets/concepts/mockups/v5/01-signature-gt-transparent.svg"
+      },
+      "files": {
+        "svg": "01-signature-gt-white-navigation.svg",
+        "fullPagePng": "01-signature-gt-white-navigation.png",
+        "heroPng": "01-signature-gt-white-navigation-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 810
+      },
+      "headingTypography": {
+        "lead": {
+          "text": "CHASE THE",
+          "family": "Avenir Next",
+          "style": "Bold",
+          "weight": 700,
+          "size": 105,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Snell Roundhand",
+          "style": "Bold",
+          "weight": 700,
+          "size": 108,
+          "color": "#E32636"
+        }
+      },
+      "collectionAccentTypography": {
+        "family": "Snell Roundhand",
+        "style": "Bold",
+        "weight": 700,
+        "size": 52,
+        "color": "#E32636"
+      }
+    },
+    {
+      "number": 2,
+      "name": "Brush Drive — White Navigation",
+      "basedOn": {
+        "round": "v5",
+        "selectionNumber": 3,
+        "path": "assets/concepts/mockups/v5/03-brush-drive-transparent.svg"
+      },
+      "files": {
+        "svg": "02-brush-drive-white-navigation.svg",
+        "fullPagePng": "02-brush-drive-white-navigation.png",
+        "heroPng": "02-brush-drive-white-navigation-hero.png"
+      },
+      "fullPageDimensions": {
+        "width": 1440,
+        "height": 1440
+      },
+      "heroDimensions": {
+        "width": 1440,
+        "height": 810
+      },
+      "headingTypography": {
+        "lead": {
+          "text": "CHASE THE",
+          "family": "Futura",
+          "style": "Bold",
+          "weight": 700,
+          "size": 112,
+          "color": "#FFFFFF"
+        },
+        "emphasis": {
+          "text": "feeling.",
+          "family": "Brush Script MT",
+          "style": "Italic",
+          "weight": 400,
+          "size": 132,
+          "color": "#E32636"
+        }
+      },
+      "collectionAccentTypography": {
+        "family": "Brush Script MT",
+        "style": "Italic",
+        "weight": 400,
+        "size": 52,
+        "color": "#E32636"
+      }
+    }
+  ],
+  "comparisons": {
+    "layout": {
+      "columns": 2,
+      "rows": 1
+    },
+    "hero": {
+      "svg": "03-hero-comparison.svg",
+      "png": "03-hero-comparison.png"
+    },
+    "fullPage": {
+      "svg": "04-full-page-comparison.svg",
+      "png": "04-full-page-comparison.png"
+    }
+  },
+  "rendering": {
+    "sourceFonts": "actual system font families",
+    "pngFonts": "native font outlines from temporary private font files",
+    "fontBinariesIncluded": false
+  },
+  "preservation": {
+    "applicationCode": "untouched",
+    "officialBrandFiles": "untouched",
+    "earlierRounds": "preserved"
+  },
+  "applicationBuildsRun": false,
+  "applicationTestsRun": false
+}

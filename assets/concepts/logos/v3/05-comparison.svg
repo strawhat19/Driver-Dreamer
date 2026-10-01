@@ -1,0 +1,453 @@
+<svg
+    id="driver-dreamer-v3-grand-tourer-comparison"
+    class="driver-dreamer-logo-comparison"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1536 710"
+    role="img"
+    aria-labelledby="comparison-title comparison-description"
+>
+    <title id="comparison-title">Driver Dreamer — Grand Tourer dream crest refinements</title>
+    <desc id="comparison-description">Four native logo refinements based on the v1 Grand Tourer Crest: exact dream bubbles, a small red dream cloud, a sculpted GT car, and a white thought cloud enclosing the car. The original crest is shown as a reference.</desc>
+    <rect id="comparison-background" class="driver-dreamer-comparison-background" width="1536" height="710" fill="#FFFFFF" />
+    <g id="comparison-heading-group" class="driver-dreamer-comparison-heading-group" font-family="Avenir Next, Inter, Arial, sans-serif">
+        <text id="comparison-heading" class="driver-dreamer-comparison-heading" x="56" y="75" font-size="36" font-weight="700" fill="#07162F">Driver <tspan fill="#E32636">Dreamer</tspan></text>
+        <text id="comparison-subheading" class="driver-dreamer-comparison-subheading" x="56" y="113" font-size="19" fill="#58667C">Grand Tourer Crest / v3 / Dreams of the next drive</text>
+        <text id="comparison-source-note" class="driver-dreamer-comparison-source-note" x="56" y="148" font-size="15" fill="#58667C">Based on the selected v1 crest. Navy shield, red crown and the Driver Dreamer wordmark carry forward.</text>
+        <svg x="1352" y="20" width="120" height="120"
+    id="comparison-original-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="comparison-original-driver-dreamer-crest-title comparison-original-driver-dreamer-crest-description"
+>
+    <title id="comparison-original-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Crest</title>
+    <desc id="comparison-original-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. A red crown stripe and three red collection rows connect luxury vehicle discovery with an organized automotive database.</desc>
+    <path
+        id="comparison-original-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="comparison-original-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="comparison-original-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="comparison-original-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="comparison-original-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="comparison-original-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="comparison-original-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <path
+        id="comparison-original-driver-dreamer-crest-collection-rows"
+        fill="none"
+        stroke="#E32636"
+        stroke-width="7"
+        stroke-linecap="round"
+        d="M107 174H149M113 186H143M119 198H137"
+    />
+</svg>
+
+        <text id="comparison-reference-label" class="driver-dreamer-comparison-reference-label" x="1412" y="164" text-anchor="middle" font-size="14" fill="#58667C">v1 reference</text>
+        <path id="comparison-divider" class="driver-dreamer-comparison-divider" d="M56 182H1480" stroke="#E5EAF0" />
+        
+        <g id="comparison-concept-1" class="driver-dreamer-comparison-concept">
+            <rect id="comparison-tile-1" class="driver-dreamer-comparison-tile" x="56" y="216" width="344" height="418" rx="20" fill="#F7F9FC" stroke="#E5EAF0" />
+            <svg x="88" y="238" width="280" height="280"
+    id="comparison-1-driver-dreamer-grand-tourer-dream-bubbles"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="comparison-1-driver-dreamer-crest-title comparison-1-driver-dreamer-crest-description"
+>
+    <title id="comparison-1-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer Dream Bubbles</title>
+    <desc id="comparison-1-driver-dreamer-crest-description">An original deep navy shield holds a white, front-facing sports car with a low roof and distinctive split headlights. A red crown stripe and three outlined red thought bubbles that grow toward the car express the dream of a future drive.</desc>
+    <path
+        id="comparison-1-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="comparison-1-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="comparison-1-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="comparison-1-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="comparison-1-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="comparison-1-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="comparison-1-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="none"
+        stroke="#E32636"
+        id="comparison-1-driver-dreamer-crest-thought-bubble-trail"
+        class="driver-dreamer-crest-thought-bubble-trail"
+    >
+        <circle
+            r="8"
+            cx="128"
+            cy="174"
+            stroke-width="4"
+            id="comparison-1-driver-dreamer-crest-thought-bubble-large"
+            class="driver-dreamer-crest-thought-bubble driver-dreamer-crest-thought-bubble-large"
+        />
+        <circle
+            r="5"
+            cx="128"
+            cy="191"
+            stroke-width="3.5"
+            id="comparison-1-driver-dreamer-crest-thought-bubble-medium"
+            class="driver-dreamer-crest-thought-bubble driver-dreamer-crest-thought-bubble-medium"
+        />
+        <circle
+            r="3"
+            cx="128"
+            cy="204"
+            stroke-width="3"
+            id="comparison-1-driver-dreamer-crest-thought-bubble-small"
+            class="driver-dreamer-crest-thought-bubble driver-dreamer-crest-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+            <text id="comparison-label-1" class="driver-dreamer-comparison-label" x="228" y="558" text-anchor="middle" fill="#07162F" font-size="23" font-weight="700">01 / Dream bubbles</text>
+            <text id="comparison-note-1" class="driver-dreamer-comparison-note" x="228" y="589" text-anchor="middle" fill="#58667C" font-size="14">
+                <tspan x="228">Original crest; only the rows change.</tspan>
+                <tspan x="228" dy="22">Outlined bubbles grow toward the car.</tspan>
+            </text>
+        </g>
+
+        <g id="comparison-concept-2" class="driver-dreamer-comparison-concept">
+            <rect id="comparison-tile-2" class="driver-dreamer-comparison-tile" x="416" y="216" width="344" height="418" rx="20" fill="#F7F9FC" stroke="#E5EAF0" />
+            <svg x="448" y="238" width="280" height="280"
+    id="comparison-2-driver-dreamer-grand-tourer-dream-cloud" class="driver-dreamer-grand-tourer-dream-cloud"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="comparison-2-driver-dreamer-dream-cloud-title comparison-2-driver-dreamer-dream-cloud-description"
+>
+    <title id="comparison-2-driver-dreamer-dream-cloud-title" class="driver-dreamer-dream-cloud-title">Driver Dreamer — Grand Tourer Dream Cloud</title>
+    <desc id="comparison-2-driver-dreamer-dream-cloud-description" class="driver-dreamer-dream-cloud-description">The original deep navy shield, red crown stripe and white front-facing sports car remain unchanged. A small red outlined thought cloud beneath the car and two descending bubbles replace the collection rows, expressing the dream of driving.</desc>
+    <path
+        id="comparison-2-driver-dreamer-dream-cloud-field" class="driver-dreamer-dream-cloud-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="comparison-2-driver-dreamer-dream-cloud-crown" class="driver-dreamer-dream-cloud-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="comparison-2-driver-dreamer-dream-cloud-car-roof" class="driver-dreamer-dream-cloud-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="comparison-2-driver-dreamer-dream-cloud-car-body" class="driver-dreamer-dream-cloud-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="comparison-2-driver-dreamer-dream-cloud-left-headlight" class="driver-dreamer-dream-cloud-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="comparison-2-driver-dreamer-dream-cloud-right-headlight" class="driver-dreamer-dream-cloud-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="comparison-2-driver-dreamer-dream-cloud-front-intake" class="driver-dreamer-dream-cloud-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        id="comparison-2-driver-dreamer-thought-cloud-motif"
+        class="driver-dreamer-thought-cloud-motif"
+        fill="none"
+        stroke="#E32636"
+        stroke-width="3.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    >
+        <path
+            id="comparison-2-driver-dreamer-thought-cloud-outline"
+            class="driver-dreamer-thought-cloud-outline"
+            d="M116 181C112.7 181 110 178.3 110 175C110 171.7 112.7 169 116 169C116.7 165.3 120.2 162.8 124 164C126.2 161.5 129.8 161.5 132 164C135.8 162.8 139.3 165.3 140 169C143.3 169 146 171.7 146 175C146 178.3 143.3 181 140 181C138.4 184.3 134.1 184.9 131.5 182.5C129.4 184.3 126.6 184.3 124.5 182.5C121.9 184.9 117.6 184.3 116 181Z"
+        />
+        <circle
+            r="4.5"
+            cx="128"
+            cy="194"
+            id="comparison-2-driver-dreamer-thought-cloud-middle-bubble"
+            class="driver-dreamer-thought-cloud-middle-bubble"
+        />
+        <circle
+            r="2.5"
+            cx="128"
+            cy="206"
+            id="comparison-2-driver-dreamer-thought-cloud-small-bubble"
+            class="driver-dreamer-thought-cloud-small-bubble"
+        />
+    </g>
+</svg>
+
+            <text id="comparison-label-2" class="driver-dreamer-comparison-label" x="588" y="558" text-anchor="middle" fill="#07162F" font-size="23" font-weight="700">02 / Dream cloud</text>
+            <text id="comparison-note-2" class="driver-dreamer-comparison-note" x="588" y="589" text-anchor="middle" fill="#58667C" font-size="14">
+                <tspan x="588">Original crest with a scalloped cloud.</tspan>
+                <tspan x="588" dy="22">Two small bubbles complete the thought.</tspan>
+            </text>
+        </g>
+
+        <g id="comparison-concept-3" class="driver-dreamer-comparison-concept">
+            <rect id="comparison-tile-3" class="driver-dreamer-comparison-tile" x="776" y="216" width="344" height="418" rx="20" fill="#F7F9FC" stroke="#E5EAF0" />
+            <svg x="808" y="238" width="280" height="280"
+    role="img"
+    viewBox="0 0 256 256"
+    xmlns="http://www.w3.org/2000/svg"
+    class="driver-dreamer-sculpted-dream-icon"
+    id="comparison-3-driver-dreamer-sculpted-dream-icon"
+    aria-labelledby="comparison-3-sculpted-dream-icon-title comparison-3-sculpted-dream-icon-description"
+>
+    <title id="comparison-3-sculpted-dream-icon-title" class="driver-dreamer-logo-title">Driver Dreamer — Sculpted Dream</title>
+    <desc id="comparison-3-sculpted-dream-icon-description" class="driver-dreamer-logo-description">The original softened navy Grand Tourer Crest is refined with a slim red crown and a lower, wider white grand tourer. Split headlights and a tapered intake sharpen the original generic vehicle silhouette. Three red thought bubbles grow diagonally upward toward the dream car.</desc>
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-field"
+        id="comparison-3-sculpted-dream-icon-field"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <rect
+        x="48"
+        y="38"
+        rx="5"
+        width="160"
+        height="10"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-crown"
+        id="comparison-3-sculpted-dream-icon-crown"
+    />
+    <path
+        fill="#FFFFFF"
+        fill-rule="evenodd"
+        class="driver-dreamer-sculpted-dream-roof"
+        id="comparison-3-sculpted-dream-icon-roof"
+        d="M73 112L87 92C91 86 97 83 105 83H151C159 83 165 86 169 92L183 112H173L162 96C160 93 156 91 151 91H105C100 91 96 93 94 96L83 112Z"
+    />
+    <path
+        fill="#FFFFFF"
+        class="driver-dreamer-sculpted-dream-body"
+        id="comparison-3-sculpted-dream-icon-body"
+        d="M71 106H185C193 106 199 109 203 115L207 128V141C207 147 202 151 196 151H60C54 151 49 147 49 141V128L53 115C57 109 63 106 71 106Z"
+    />
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-left-headlight"
+        id="comparison-3-sculpted-dream-icon-left-headlight"
+        d="M65 117H80L84 124H75C70 124 66 121 65 117Z M86 117H99L105 124H90Z"
+    />
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-right-headlight"
+        id="comparison-3-sculpted-dream-icon-right-headlight"
+        d="M191 117H176L172 124H181C186 124 190 121 191 117Z M170 117H157L151 124H166Z"
+    />
+    <path
+        fill="#07162F"
+        class="driver-dreamer-sculpted-dream-intake"
+        id="comparison-3-sculpted-dream-icon-intake"
+        d="M88 135H168L160 144H96Z"
+    />
+    <circle
+        r="10.5"
+        cx="130"
+        cy="176"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-thought-bubble-large"
+        id="comparison-3-sculpted-dream-icon-thought-bubble-large"
+    />
+    <circle
+        r="6.5"
+        cx="116"
+        cy="195"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-thought-bubble-medium"
+        id="comparison-3-sculpted-dream-icon-thought-bubble-medium"
+    />
+    <circle
+        r="3.5"
+        cx="106"
+        cy="210"
+        fill="#E32636"
+        class="driver-dreamer-sculpted-dream-thought-bubble-small"
+        id="comparison-3-sculpted-dream-icon-thought-bubble-small"
+    />
+</svg>
+
+            <text id="comparison-label-3" class="driver-dreamer-comparison-label" x="948" y="558" text-anchor="middle" fill="#07162F" font-size="23" font-weight="700">03 / Sculpted GT</text>
+            <text id="comparison-note-3" class="driver-dreamer-comparison-note" x="948" y="589" text-anchor="middle" fill="#58667C" font-size="14">
+                <tspan x="948">Lower GT profile and a slimmer crown.</tspan>
+                <tspan x="948" dy="22">Filled bubbles follow a gentle diagonal.</tspan>
+            </text>
+        </g>
+
+        <g id="comparison-concept-4" class="driver-dreamer-comparison-concept">
+            <rect id="comparison-tile-4" class="driver-dreamer-comparison-tile" x="1136" y="216" width="344" height="418" rx="20" fill="#F7F9FC" stroke="#E5EAF0" />
+            <svg x="1168" y="238" width="280" height="280"
+    id="comparison-4-driver-dreamer-grand-tourer-cloud-car" class="driver-dreamer-grand-tourer-cloud-car"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="comparison-4-driver-dreamer-cloud-car-title comparison-4-driver-dreamer-cloud-car-description"
+>
+    <title id="comparison-4-driver-dreamer-cloud-car-title" class="driver-dreamer-cloud-car-title">Driver Dreamer — Grand Tourer Cloud Car</title>
+    <desc id="comparison-4-driver-dreamer-cloud-car-description" class="driver-dreamer-cloud-car-description">The original navy shield and red crown hold a white scalloped thought cloud surrounding a smaller original front-facing sports car. Two red outlined bubbles and a tiny red dot descend beneath the cloud, expressing a dream of driving.</desc>
+    <path
+        id="comparison-4-driver-dreamer-cloud-car-field" class="driver-dreamer-cloud-car-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="comparison-4-driver-dreamer-cloud-car-crown" class="driver-dreamer-cloud-car-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="4.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        id="comparison-4-driver-dreamer-dream-cloud-outline"
+        class="driver-dreamer-dream-cloud-outline"
+        d="M64 141C52 143 43 132 43 120C43 108 51 99 62 99C58 86 69 75 82 75C89 75 95 78 100 83C102 72 114 66 128 66C142 66 154 72 156 83C161 78 167 75 174 75C187 75 198 86 194 99C205 99 213 108 213 120C213 132 204 143 192 141C191 153 180 160 168 156C164 164 152 166 144 159C140 169 116 169 112 159C104 166 92 164 88 156C76 160 65 153 64 141Z"
+    />
+    <g
+        id="comparison-4-driver-dreamer-dream-cloud-car"
+        class="driver-dreamer-dream-cloud-car"
+        transform="translate(128 118) scale(0.76) translate(-128 -118)"
+    >
+        <path
+            id="comparison-4-driver-dreamer-cloud-car-car-roof" class="driver-dreamer-cloud-car-car-roof"
+            fill="none"
+            stroke="#FFFFFF"
+            stroke-width="8"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+        />
+        <path
+            id="comparison-4-driver-dreamer-cloud-car-car-body" class="driver-dreamer-cloud-car-car-body"
+            fill="#FFFFFF"
+            d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+        />
+        <path
+            id="comparison-4-driver-dreamer-cloud-car-left-headlight" class="driver-dreamer-cloud-car-left-headlight"
+            fill="#07162F"
+            d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+        />
+        <path
+            id="comparison-4-driver-dreamer-cloud-car-right-headlight" class="driver-dreamer-cloud-car-right-headlight"
+            fill="#07162F"
+            d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+        />
+        <path
+            id="comparison-4-driver-dreamer-cloud-car-front-intake" class="driver-dreamer-cloud-car-front-intake"
+            fill="#07162F"
+            d="M88 134H168L160 143H96Z"
+        />
+    </g>
+    <g
+        fill="none"
+        stroke="#E32636"
+        stroke-width="3"
+        id="comparison-4-driver-dreamer-dream-cloud-thought-trail"
+        class="driver-dreamer-dream-cloud-thought-trail"
+    >
+        <circle
+            r="7"
+            cx="128"
+            cy="182"
+            id="comparison-4-driver-dreamer-dream-cloud-large-bubble"
+            class="driver-dreamer-dream-cloud-large-bubble"
+        />
+        <circle
+            r="4"
+            cx="128"
+            cy="199"
+            id="comparison-4-driver-dreamer-dream-cloud-small-bubble"
+            class="driver-dreamer-dream-cloud-small-bubble"
+        />
+    </g>
+    <circle
+        r="2.5"
+        cx="128"
+        cy="212"
+        fill="#E32636"
+        id="comparison-4-driver-dreamer-dream-cloud-thought-dot"
+        class="driver-dreamer-dream-cloud-thought-dot"
+    />
+</svg>
+
+            <text id="comparison-label-4" class="driver-dreamer-comparison-label" x="1308" y="558" text-anchor="middle" fill="#07162F" font-size="23" font-weight="700">04 / Cloud car</text>
+            <text id="comparison-note-4" class="driver-dreamer-comparison-note" x="1308" y="589" text-anchor="middle" fill="#58667C" font-size="14">
+                <tspan x="1308">A white dream cloud surrounds the car.</tspan>
+                <tspan x="1308" dy="22">Red bubbles lead up into the dream.</tspan>
+            </text>
+        </g>
+        <text id="comparison-footer" class="driver-dreamer-comparison-footer" x="56" y="679" font-size="15" fill="#58667C">Each direction includes an editable SVG lockup and icon, plus PNG previews. Concept 01 preserves the original visible artwork except the red rows.</text>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+{
+  "version": "v2",
+  "kind": "website-mockups",
+  "created": "2026-10-01",
+  "basedOn": "../v1/02-trackside.svg",
+  "officialLogoSource": "../../../brand/logo.png",
+  "heroSource": "../v1/media/hero-ferrari-458.png",
+  "heroFile": "media/hero-ferrari-458.png",
+  "heroTreatment": "Full bleed; preserve aspect ratio; no tint or gradient",
+  "heroTextTreatment": "Large white headings on a solid red card beside the car",
+  "fontFamily": "Futura",
+  "fontWeights": [500, 700],
+  "palette": {
+    "navy": "#07162F",
+    "red": "#E32636",
+    "white": "#FFFFFF"
+  },
+  "pageSize": {
+    "width": 1440,
+    "height": 1440
+  },
+  "directions": [
+    {
+      "number": 1,
+      "name": "Trackside — Red Header",
+      "header": "Solid red",
+      "footer": "Solid red",
+      "source": "01-trackside-red-header.svg",
+      "preview": "01-trackside-red-header.png"
+    },
+    {
+      "number": 2,
+      "name": "Trackside — Transparent Header",
+      "header": "Transparent at page top",
+      "intendedScrolledHeader": "Solid red",
+      "footer": "Solid red",
+      "source": "02-trackside-transparent-header.svg",
+      "preview": "02-trackside-transparent-header.png"
+    }
+  ],
+  "comparison": "03-comparison.png"
+}

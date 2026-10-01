@@ -1,0 +1,558 @@
+<svg
+    id="driver-dreamer-v7-thin-wide-comparison"
+    class="driver-dreamer-v7-thin-wide-comparison"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1440 1220"
+    role="img"
+    aria-labelledby="v7-comparison-title v7-comparison-description"
+>
+    <title id="v7-comparison-title">Driver Dreamer — Thin Wide Weave and Straight Thin Wide</title>
+    <desc id="v7-comparison-description">The selected Thin Wide Weave is copied exactly from V6, alongside a straight version that only centers the medium and small bubbles. Both share the original car, shield, crown, wordmark, bubble sizes and colors. Each is shown as an icon and full logo, with trail details and typography.</desc>
+    <rect id="v7-comparison-background" class="driver-dreamer-v7-comparison-background" width="1440" height="1220" fill="#F3F5F9" />
+    <g id="v7-comparison-content" class="driver-dreamer-v7-comparison-content" font-family="Avenir Next, Inter, Arial, sans-serif">
+        <text id="v7-comparison-heading" class="driver-dreamer-v7-comparison-heading" x="48" y="66" font-size="39" font-weight="700" fill="#07162F">Driver <tspan id="v7-comparison-dreamer" class="driver-dreamer-v7-heading-emphasis" fill="#E32636">Dreamer</tspan></text>
+        <text id="v7-comparison-subheading" class="driver-dreamer-v7-comparison-subheading" x="48" y="107" font-size="24" font-weight="600" fill="#07162F">Grand Tourer Crest / V7 / Selected Thin Wide Weave + straight alignment</text>
+        <text id="v7-comparison-introduction" class="driver-dreamer-v7-comparison-introduction" x="48" y="144" font-size="18" fill="#58667C">The selected version is preserved exactly. The second version changes only the two lower bubbles’ horizontal positions.</text>
+        <g id="v7-comparison-card-1" class="driver-dreamer-v7-comparison-card">
+        <rect id="v7-card-background-1" class="driver-dreamer-v7-card-background" x="48" y="182" width="656" height="770" rx="22" fill="#FFFFFF" stroke="#DFE5EE" />
+        <text id="v7-card-title-1" class="driver-dreamer-v7-card-title" x="76" y="227" font-size="30" font-weight="700" fill="#07162F">01 / Thin Wide Weave</text>
+        <text id="v7-card-note-1" class="driver-dreamer-v7-card-note" x="76" y="260" font-size="18" fill="#58667C">Exact copy of the selected V6 version.</text>
+        <svg x="196" y="277" width="360" height="360"
+    class="driver-dreamer-thin-wide-weave-icon"
+    id="v7-icon-1-thin-wide-weave-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v7-icon-1-thin-wide-weave-driver-dreamer-crest-title v7-icon-1-thin-wide-weave-driver-dreamer-crest-description"
+>
+    <title id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Thin Wide Weave</title>
+    <desc id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles keep the widths, centers and alternating offsets of Wide Soft Weave, with thinner heights and smoothly rounded ends.</desc>
+    <path
+        id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v7-icon-1-thin-wide-weave-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v7-icon-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubbles"
+        class="driver-dreamer-thin-wide-weave-thought-bubbles"
+    >
+        <rect
+            rx="5"
+            x="112"
+            y="171"
+            width="32"
+            height="10"
+            id="v7-icon-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubble-large"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-large"
+        />
+        <rect
+            rx="3.5"
+            x="112"
+            y="191.5"
+            width="22"
+            height="7"
+            id="v7-icon-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubble-medium"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-medium"
+        />
+        <rect
+            rx="2"
+            x="124"
+            y="208"
+            width="12"
+            height="4"
+            id="v7-icon-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubble-small"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+        <text id="v7-icon-label-1" class="driver-dreamer-v7-icon-label" x="376" y="644" text-anchor="middle" font-size="14" fill="#58667C">ICON ONLY</text>
+        <svg x="104" y="649" width="544" height="151" id="v7-lockup-1-thin-wide-weave-driver-dreamer-02-grand-tourer-crest-lockup" class="driver-dreamer-logo-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="v7-lockup-1-thin-wide-weave-lockup-title v7-lockup-1-thin-wide-weave-lockup-desc">
+  <title id="v7-lockup-1-thin-wide-weave-lockup-title">Driver Dreamer — Grand Tourer — Thin Wide Weave</title>
+  <desc id="v7-lockup-1-thin-wide-weave-lockup-desc">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles keep the widths, centers and alternating offsets of Wide Soft Weave, with thinner heights and smoothly rounded ends. The original Driver Dreamer wordmark accompanies the crest.</desc>
+<svg x="16" y="8" width="240" height="240"
+    id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-title v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-description"
+>
+    <title id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Thin Wide Weave</title>
+    <desc id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles keep the widths, centers and alternating offsets of Wide Soft Weave, with thinner heights and smoothly rounded ends. The original Driver Dreamer wordmark accompanies the crest.</desc>
+    <path
+        id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v7-lockup-1-thin-wide-weave-lockup-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v7-lockup-1-thin-wide-weave-lockup-grand-tourer-thin-wide-weave-thought-bubbles"
+        class="driver-dreamer-thin-wide-weave-thought-bubbles"
+    >
+        <rect
+            rx="5"
+            x="112"
+            y="171"
+            width="32"
+            height="10"
+            id="v7-lockup-1-thin-wide-weave-lockup-grand-tourer-thin-wide-weave-thought-bubble-large"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-large"
+        />
+        <rect
+            rx="3.5"
+            x="112"
+            y="191.5"
+            width="22"
+            height="7"
+            id="v7-lockup-1-thin-wide-weave-lockup-grand-tourer-thin-wide-weave-thought-bubble-medium"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-medium"
+        />
+        <rect
+            rx="2"
+            x="124"
+            y="208"
+            width="12"
+            height="4"
+            id="v7-lockup-1-thin-wide-weave-lockup-grand-tourer-thin-wide-weave-thought-bubble-small"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+  <text id="v7-lockup-1-thin-wide-weave-driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+</svg>
+
+        <text id="v7-lockup-label-1" class="driver-dreamer-v7-lockup-label" x="376" y="825" text-anchor="middle" font-size="14" fill="#58667C">ICON WITH ORIGINAL WORDMARK</text>
+        <path id="v7-detail-divider-1" class="driver-dreamer-v7-detail-divider" d="M76 848H676" stroke="#DFE5EE" />
+        <text id="v7-detail-title-1" class="driver-dreamer-v7-detail-title" x="76" y="888" font-size="19" font-weight="600" fill="#07162F">Thought trail detail</text>
+        <text id="v7-detail-note-1" class="driver-dreamer-v7-detail-note" x="76" y="916" font-size="16" fill="#58667C">Same bubble sizes: 32 × 10 / 22 × 7 / 12 × 4</text>
+        <svg x="582" y="858" width="50" height="70"
+    class="driver-dreamer-thin-wide-weave-icon"
+    id="v7-trail-1-thin-wide-weave-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="108 160 40 56"
+    role="img"
+    aria-labelledby="v7-trail-1-thin-wide-weave-driver-dreamer-crest-title v7-trail-1-thin-wide-weave-driver-dreamer-crest-description"
+>
+    <title id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Thin Wide Weave</title>
+    <desc id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles keep the widths, centers and alternating offsets of Wide Soft Weave, with thinner heights and smoothly rounded ends.</desc>
+    <path
+        id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v7-trail-1-thin-wide-weave-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v7-trail-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubbles"
+        class="driver-dreamer-thin-wide-weave-thought-bubbles"
+    >
+        <rect
+            rx="5"
+            x="112"
+            y="171"
+            width="32"
+            height="10"
+            id="v7-trail-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubble-large"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-large"
+        />
+        <rect
+            rx="3.5"
+            x="112"
+            y="191.5"
+            width="22"
+            height="7"
+            id="v7-trail-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubble-medium"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-medium"
+        />
+        <rect
+            rx="2"
+            x="124"
+            y="208"
+            width="12"
+            height="4"
+            id="v7-trail-1-thin-wide-weave-grand-tourer-thin-wide-weave-thought-bubble-small"
+            class="driver-dreamer-thin-wide-weave-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+    </g>
+<g id="v7-comparison-card-2" class="driver-dreamer-v7-comparison-card">
+        <rect id="v7-card-background-2" class="driver-dreamer-v7-card-background" x="736" y="182" width="656" height="770" rx="22" fill="#FFFFFF" stroke="#DFE5EE" />
+        <text id="v7-card-title-2" class="driver-dreamer-v7-card-title" x="764" y="227" font-size="30" font-weight="700" fill="#07162F">02 / Straight Thin Wide</text>
+        <text id="v7-card-note-2" class="driver-dreamer-v7-card-note" x="764" y="260" font-size="18" fill="#58667C">The same thin bubbles, centered in a straight line.</text>
+        <svg x="884" y="277" width="360" height="360"
+    class="driver-dreamer-straight-thin-wide-icon"
+    id="v7-icon-2-straight-thin-wide-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v7-icon-2-straight-thin-wide-driver-dreamer-crest-title v7-icon-2-straight-thin-wide-driver-dreamer-crest-description"
+>
+    <title id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Straight Thin Wide</title>
+    <desc id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles retain the thin heights, widths, rounded ends and vertical positions of Thin Wide Weave, with all three centers aligned straight beneath the car.</desc>
+    <path
+        id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v7-icon-2-straight-thin-wide-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v7-icon-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubbles"
+        class="driver-dreamer-straight-thin-wide-thought-bubbles"
+    >
+        <rect
+            rx="5"
+            x="112"
+            y="171"
+            width="32"
+            height="10"
+            id="v7-icon-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubble-large"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-large"
+        />
+        <rect
+            rx="3.5"
+            x="117"
+            y="191.5"
+            width="22"
+            height="7"
+            id="v7-icon-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubble-medium"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-medium"
+        />
+        <rect
+            rx="2"
+            x="122"
+            y="208"
+            width="12"
+            height="4"
+            id="v7-icon-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubble-small"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+        <text id="v7-icon-label-2" class="driver-dreamer-v7-icon-label" x="1064" y="644" text-anchor="middle" font-size="14" fill="#58667C">ICON ONLY</text>
+        <svg x="792" y="649" width="544" height="151" id="v7-lockup-2-straight-thin-wide-driver-dreamer-02-grand-tourer-crest-lockup" class="driver-dreamer-logo-lockup driver-dreamer-straight-thin-wide-lockup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 256" role="img" aria-labelledby="v7-lockup-2-straight-thin-wide-lockup-title v7-lockup-2-straight-thin-wide-lockup-desc">
+  <title id="v7-lockup-2-straight-thin-wide-lockup-title">Driver Dreamer — Grand Tourer — Straight Thin Wide</title>
+  <desc id="v7-lockup-2-straight-thin-wide-lockup-desc">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles retain the thin heights, widths, rounded ends and vertical positions of Thin Wide Weave, with all three centers aligned straight beneath the car. The original Driver Dreamer wordmark accompanies the crest.</desc>
+<svg x="16" y="8" width="240" height="240"
+    id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 256 256"
+    role="img"
+    aria-labelledby="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-title v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-description"
+>
+    <title id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Straight Thin Wide</title>
+    <desc id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles retain the thin heights, widths, rounded ends and vertical positions of Thin Wide Weave, with all three centers aligned straight beneath the car. The original Driver Dreamer wordmark accompanies the crest.</desc>
+    <path
+        id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v7-lockup-2-straight-thin-wide-lockup-2-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v7-lockup-2-straight-thin-wide-lockup-grand-tourer-straight-thin-wide-thought-bubbles"
+        class="driver-dreamer-straight-thin-wide-thought-bubbles"
+    >
+        <rect
+            rx="5"
+            x="112"
+            y="171"
+            width="32"
+            height="10"
+            id="v7-lockup-2-straight-thin-wide-lockup-grand-tourer-straight-thin-wide-thought-bubble-large"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-large"
+        />
+        <rect
+            rx="3.5"
+            x="117"
+            y="191.5"
+            width="22"
+            height="7"
+            id="v7-lockup-2-straight-thin-wide-lockup-grand-tourer-straight-thin-wide-thought-bubble-medium"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-medium"
+        />
+        <rect
+            rx="2"
+            x="122"
+            y="208"
+            width="12"
+            height="4"
+            id="v7-lockup-2-straight-thin-wide-lockup-grand-tourer-straight-thin-wide-thought-bubble-small"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+  <text id="v7-lockup-2-straight-thin-wide-driver-dreamer-wordmark" class="driver-dreamer-wordmark" x="292" y="152" fill="#07162F" font-family="Avenir Next, Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Driver<tspan dx="10" fill="#E32636" font-weight="750">Dreamer</tspan></text>
+</svg>
+
+        <text id="v7-lockup-label-2" class="driver-dreamer-v7-lockup-label" x="1064" y="825" text-anchor="middle" font-size="14" fill="#58667C">ICON WITH ORIGINAL WORDMARK</text>
+        <path id="v7-detail-divider-2" class="driver-dreamer-v7-detail-divider" d="M764 848H1364" stroke="#DFE5EE" />
+        <text id="v7-detail-title-2" class="driver-dreamer-v7-detail-title" x="764" y="888" font-size="19" font-weight="600" fill="#07162F">Thought trail detail</text>
+        <text id="v7-detail-note-2" class="driver-dreamer-v7-detail-note" x="764" y="916" font-size="16" fill="#58667C">Same bubble sizes: 32 × 10 / 22 × 7 / 12 × 4</text>
+        <svg x="1270" y="858" width="50" height="70"
+    class="driver-dreamer-straight-thin-wide-icon"
+    id="v7-trail-2-straight-thin-wide-driver-dreamer-grand-tourer-crest"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="108 160 40 56"
+    role="img"
+    aria-labelledby="v7-trail-2-straight-thin-wide-driver-dreamer-crest-title v7-trail-2-straight-thin-wide-driver-dreamer-crest-description"
+>
+    <title id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-title">Driver Dreamer — Grand Tourer — Straight Thin Wide</title>
+    <desc id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-description">The original navy Grand Tourer shield, red crown and white front-facing car are retained unchanged. Three filled racing-red thought bubbles retain the thin heights, widths, rounded ends and vertical positions of Thin Wide Weave, with all three centers aligned straight beneath the car.</desc>
+    <path
+        id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-field"
+        fill="#07162F"
+        d="M47 20H209C224 20 236 32 236 47V117C236 167 195 208 140 235C132 239 124 239 116 235C61 208 20 167 20 117V47C20 32 32 20 47 20Z"
+    />
+    <path
+        id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-crown"
+        fill="#E32636"
+        d="M53 36H203C207 36 210 39 210 43C210 47 207 50 203 50H53C49 50 46 47 46 43C46 39 49 36 53 36Z"
+    />
+    <path
+        id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-car-roof"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M76 105L89 83C92 78 97 75 103 75H153C159 75 164 78 167 83L180 105"
+    />
+    <path
+        id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-car-body"
+        fill="#FFFFFF"
+        d="M69 102H187C198 102 204 108 204 119V142C204 148 200 152 194 152H62C56 152 52 148 52 142V119C52 108 58 102 69 102Z"
+    />
+    <path
+        id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-left-headlight"
+        fill="#07162F"
+        d="M67 115H97L104 123H81C74 123 69 121 67 115Z"
+    />
+    <path
+        id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-right-headlight"
+        fill="#07162F"
+        d="M189 115H159L152 123H175C182 123 187 121 189 115Z"
+    />
+    <path
+        id="v7-trail-2-straight-thin-wide-driver-dreamer-crest-front-intake"
+        fill="#07162F"
+        d="M88 134H168L160 143H96Z"
+    />
+    <g
+        fill="#E32636"
+        id="v7-trail-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubbles"
+        class="driver-dreamer-straight-thin-wide-thought-bubbles"
+    >
+        <rect
+            rx="5"
+            x="112"
+            y="171"
+            width="32"
+            height="10"
+            id="v7-trail-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubble-large"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-large"
+        />
+        <rect
+            rx="3.5"
+            x="117"
+            y="191.5"
+            width="22"
+            height="7"
+            id="v7-trail-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubble-medium"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-medium"
+        />
+        <rect
+            rx="2"
+            x="122"
+            y="208"
+            width="12"
+            height="4"
+            id="v7-trail-2-straight-thin-wide-grand-tourer-straight-thin-wide-thought-bubble-small"
+            class="driver-dreamer-straight-thin-wide-thought-bubble-small"
+        />
+    </g>
+</svg>
+
+    </g>
+        <text id="v7-palette-title" class="driver-dreamer-v7-palette-title" x="48" y="1000" font-size="22" font-weight="700" fill="#07162F">Colors</text>
+        <rect id="v7-navy-swatch" class="driver-dreamer-v7-color-swatch" x="48" y="1020" width="32" height="32" rx="6" fill="#07162F" /><text id="v7-navy-label" class="driver-dreamer-v7-color-label" x="94" y="1043" font-size="19" fill="#07162F">Deep navy / #07162F</text>
+<rect id="v7-red-swatch" class="driver-dreamer-v7-color-swatch" x="430" y="1020" width="32" height="32" rx="6" fill="#E32636" /><text id="v7-red-label" class="driver-dreamer-v7-color-label" x="476" y="1043" font-size="19" fill="#07162F">Racing red / #E32636</text>
+<rect id="v7-white-swatch" class="driver-dreamer-v7-color-swatch" x="816" y="1020" width="32" height="32" rx="6" fill="#FFFFFF" stroke="#CDD5E2" /><text id="v7-white-label" class="driver-dreamer-v7-color-label" x="862" y="1043" font-size="19" fill="#07162F">White / #FFFFFF</text>
+        <text id="v7-font-title" class="driver-dreamer-v7-font-title" x="48" y="1095" font-size="22" font-weight="700" fill="#07162F">Font families</text>
+        <text id="v7-font-stack" class="driver-dreamer-v7-font-stack" x="48" y="1130" font-size="20" fill="#07162F">Avenir Next → Inter → Arial → sans-serif</text>
+        <text id="v7-font-details" class="driver-dreamer-v7-font-details" x="48" y="1165" font-size="17" fill="#58667C">Original wordmark: size 66 / Driver weight 700 / Dreamer weight 750 / letter spacing −2.</text>
+    </g>
+</svg>

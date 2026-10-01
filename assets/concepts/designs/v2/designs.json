@@ -1,0 +1,90 @@
+{
+  "officialAssets": "../../../brand/",
+  "symbolSource": "../../logos/v7/02-grand-tourer-straight-thin-wide-icon.svg",
+  "palette": {
+    "navy": "#07162F",
+    "red": "#E32636",
+    "white": "#FFFFFF"
+  },
+  "fontSize": 66,
+  "variants": [
+    {
+      "prefix": "01-original-official",
+      "name": "Original Official",
+      "family": "Avenir Next, Inter, Arial, sans-serif",
+      "driverWeight": 700,
+      "dreamerWeight": 750,
+      "tracking": -2,
+      "exactFavoriteCopy": true,
+      "fontLabel": "Avenir Next / original"
+    },
+    {
+      "prefix": "02-geometric-gt",
+      "name": "Geometric GT",
+      "family": "Futura, Avenir Next, Arial, sans-serif",
+      "driverWeight": 500,
+      "dreamerWeight": 500,
+      "tracking": -1,
+      "exactFavoriteCopy": true,
+      "fontLabel": "Futura / favorite"
+    },
+    {
+      "prefix": "03-avenir-balance",
+      "name": "Avenir Balance",
+      "family": "Avenir Next, Inter, Arial, sans-serif",
+      "driverWeight": 600,
+      "dreamerWeight": 600,
+      "tracking": -1,
+      "fontLabel": "Avenir Next Demi Bold"
+    },
+    {
+      "prefix": "04-futura-bold",
+      "name": "Futura Bold",
+      "family": "Futura, Avenir Next, Arial, sans-serif",
+      "driverWeight": 700,
+      "dreamerWeight": 700,
+      "tracking": -1,
+      "fontLabel": "Futura Bold"
+    },
+    {
+      "prefix": "05-futura-air",
+      "slug": "futura-air",
+      "name": "Futura Air",
+      "family": "Futura, Avenir Next, Arial, sans-serif",
+      "driverWeight": 500,
+      "dreamerWeight": 500,
+      "tracking": 1.5,
+      "fontLabel": "Futura Medium"
+    },
+    {
+      "prefix": "06-rounded-touring",
+      "slug": "rounded-touring",
+      "name": "Rounded Touring",
+      "family": "'.SF NS Rounded', Avenir Next, Arial, sans-serif",
+      "driverWeight": 400,
+      "dreamerWeight": 400,
+      "tracking": -1,
+      "fontLabel": "SF Rounded Regular"
+    },
+    {
+      "prefix": "07-condensed-gt",
+      "slug": "condensed-gt",
+      "name": "Condensed GT",
+      "family": "Avenir Next Condensed, Avenir Next, Arial, sans-serif",
+      "driverWeight": 600,
+      "dreamerWeight": 600,
+      "tracking": -0.5,
+      "fontLabel": "Avenir Next Condensed Demi Bold"
+    },
+    {
+      "prefix": "08-humanist-drive",
+      "slug": "humanist-drive",
+      "name": "Humanist Drive",
+      "family": "Gill Sans, Avenir Next, Arial, sans-serif",
+      "driverWeight": 600,
+      "dreamerWeight": 600,
+      "tracking": 0,
+      "fontLabel": "Gill Sans SemiBold"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": "v3",
+  "kind": "website-mockups",
+  "created": "2026-10-01",
+  "basedOn": "../v2",
+  "heroSource": "../v1/media/hero-ferrari-458.png",
+  "heroFile": "media/hero-ferrari-458.png",
+  "heroTreatment": "Full bleed untinted photo, oversized editorial type, architectural actions and vehicle rail",
+  "officialLogoSource": "../../../brand/logo.png",
+  "contextualLogo": {
+    "source": "media/logo-on-red.svg",
+    "preview": "media/logo-on-red.png",
+    "change": "Only Dreamer wordmark fill becomes white on red backgrounds",
+    "background": "Transparent"
+  },
+  "fontFamily": "Futura",
+  "fontWeights": [500, 700],
+  "palette": {
+    "navy": "#07162F",
+    "red": "#E32636",
+    "white": "#FFFFFF"
+  },
+  "directions": [
+    {
+      "number": 1,
+      "name": "Driven by Dreams",
+      "header": "Solid red",
+      "logoBacking": "None",
+      "footer": "Solid red",
+      "source": "01-trackside-red-header.svg",
+      "preview": "01-trackside-red-header.png",
+      "heroPreview": "01-trackside-red-header-hero.png"
+    },
+    {
+      "number": 2,
+      "name": "Chase the Feeling",
+      "header": "Transparent at page top",
+      "logoBacking": "None",
+      "footer": "Solid red",
+      "source": "02-trackside-transparent-header.svg",
+      "preview": "02-trackside-transparent-header.png",
+      "heroPreview": "02-trackside-transparent-header-hero.png"
+    }
+  ],
+  "heroComparison": "03-hero-comparison.png",
+  "fullPageComparison": "04-full-page-comparison.png"
+}
