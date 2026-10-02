@@ -1,0 +1,19 @@
+.landing-page {
+  width: 100%;
+  min-height: 100vh;
+
+  &__hero-shell { position: relative; }
+  &__skip-link {
+    top: 12px;
+    left: 12px;
+    z-index: 10;
+    padding: 12px;
+    position: fixed;
+    color: var(--navy);
+    background: var(--white);
+    transform: translateY(-150%);
+    transition: transform .25s ease;
+
+    &:focus { transform: translateY(0); }
+  }
+}

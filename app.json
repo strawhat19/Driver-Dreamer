@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Driver Dreamer",
+    "slug": "driver-dreamer",
+    "scheme": "driver-dreamer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/brand/logo-icon.png",
+    "plugins": ["expo-router"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.piratechs.driverdreamer"
+    },
+    "android": {
+      "package": "com.piratechs.driverdreamer"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "server",
+      "favicon": "./assets/brand/logo-icon.png"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+.hero {
+  overflow: hidden;
+  min-height: 650px;
+  position: relative;
+  aspect-ratio: 16 / 9;
+  color: var(--white);
+  background: var(--navy);
+
+  &__photo { inset: 0; width: 100%; height: 100%; position: absolute; object-fit: cover; }
+  &__content { z-index: 1; position: relative; padding: 116px var(--gutter) 0; }
+  &__eyebrow { margin: 0; font-size: 11px; color: var(--navy); letter-spacing: 1.2px; }
+  &__heading { gap: 20px; display: flex; margin: 25px 0 0; align-items: baseline; white-space: nowrap; }
+  &__heading-chase {
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: -2px;
+    font-size: clamp(64px, 7.3vw, 132px);
+    font-family: 'Avenir Next', Futura, sans-serif;
+    -webkit-text-stroke: .7px var(--navy);
+    paint-order: stroke fill;
+  }
+  &__heading-feeling {
+    line-height: 1;
+    font-weight: 700;
+    color: var(--red);
+    font-family: var(--script);
+    transform: translateY(-15px);
+    font-size: clamp(70px, 7.5vw, 140px);
+  }
+  &__invitation { margin-top: 44px; text-shadow: 0 1px 8px rgb(7 22 47 / 45%); }
+  &__invitation::before { content: ''; width: 32px; height: 3px; display: block; margin-bottom: 19px; background: var(--red); }
+  &__caption { margin: 0; font-size: 11px; letter-spacing: 1.8px; }
+  &__description { font-size: 20px; line-height: 1.55; margin: 22px 0 32px; }
+  &__description-line { display: block; }
+  &__explore { gap: 18px; display: inline-flex; align-items: center; }
+  &__explore-circle, &__collection-link {
+    flex: none;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    border-radius: 50%;
+    color: var(--red);
+    align-items: center;
+    justify-content: center;
+    background: var(--white);
+    transition: transform .3s ease, background .3s ease;
+  }
+  &__explore:hover &__explore-circle, &__collection-link:hover { transform: translateX(4px); }
+  &__explore-label { display: block; font-size: 15px; letter-spacing: 1.1px; }
+  &__explore-detail { display: block; font-size: 12px; margin-top: 5px; }
+  &__explore-copy::after { width: 20px; height: 2px; content: ''; display: block; margin-top: 12px; background: var(--red); }
+  &__model-strip {
+    gap: 36px;
+    bottom: 38px;
+    display: flex;
+    padding-top: 28px;
+    position: absolute;
+    align-items: center;
+    left: var(--gutter);
+    right: var(--gutter);
+    border-top: 1px solid rgb(255 255 255 / 55%);
+  }
+  &__model-index { margin: 0; font-size: 12px; color: var(--red); font-weight: 700; letter-spacing: 1.6px; }
+  &__model-details { flex: 1; }
+  &__model-name { margin: 0; font-size: 27px; line-height: 1.2; }
+  &__model-colors { font-size: 11px; margin: 8px 0 0; letter-spacing: 1.2px; text-transform: uppercase; }
+  &__save { gap: 14px; border: 0; padding: 12px; display: flex; color: var(--white); align-items: center; background: transparent; }
+  &__save-label { font-size: 12px; color: var(--red); font-weight: 700; letter-spacing: 1.1px; }
+  &__save:hover, &__save--saved { color: var(--red); }
+  &__collection-link { width: 44px; height: 44px; margin-left: 30px; }
+  &__model-skeleton { gap: 36px; flex: 1; display: flex; align-items: center; }
+  &__skeleton-index { width: 140px; height: 14px; }
+  &__skeleton-name { width: 250px; height: 30px; }
+  &__model-error { flex: 1; font-size: 16px; }
+}
+
+@media (min-width: 1800px) {
+  .hero__content { padding-top: 8vw; }
+  .hero__invitation { margin-top: 7vw; }
+}
+
+@media (max-width: 1100px) {
+  .hero {
+    &__heading { gap: 12px; }
+    &__invitation { margin-top: 50px; }
+    &__model-strip { gap: 20px; }
+    &__collection-link { margin-left: 0; }
+    &__model-colors { max-width: 280px; line-height: 1.5; }
+  }
+}
+
+@media (max-width: 700px) {
+  .hero {
+    min-height: 850px;
+    aspect-ratio: auto;
+
+    &__photo { object-position: 62% center; }
+    &::after { inset: 0; content: ''; position: absolute; background: linear-gradient(180deg, transparent 27%, rgb(7 22 47 / 10%) 47%, rgb(7 22 47 / 72%) 100%); }
+    &__content { padding-top: 122px; }
+    &__heading { gap: 8px; flex-wrap: wrap; max-width: 470px; margin-top: 22px; }
+    &__heading-chase { font-size: clamp(42px, 10.5vw, 70px); letter-spacing: -1px; }
+    &__heading-feeling { font-size: clamp(64px, 15vw, 92px); transform: none; }
+    &__invitation { margin-top: 230px; }
+    &__description { font-size: 17px; margin: 15px 0 22px; }
+    &__caption { font-size: 10px; letter-spacing: 1px; }
+    &__model-strip { z-index: 1; gap: 14px; bottom: 24px; flex-wrap: wrap; padding-top: 18px; }
+    &__model-index { width: 100%; font-size: 11px; }
+    &__model-name { font-size: 22px; }
+    &__model-colors { max-width: 230px; font-size: 10px; letter-spacing: .5px; }
+    &__save { padding: 8px 0; }
+    &__save-label, &__collection-link { display: none; }
+    &__skeleton-index { width: 80px; }
+    &__skeleton-name { width: 180px; }
+  }
+}

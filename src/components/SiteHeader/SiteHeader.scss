@@ -1,0 +1,87 @@
+.site-header {
+  gap: 32px;
+  z-index: 5;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding: 20px var(--gutter);
+
+  &--overlay { position: absolute; inset: 0 0 auto; color: var(--white); }
+  &__brand { flex: none; display: block; }
+  &__logo { width: 256px; height: auto; display: block; }
+  &__menu-toggle { display: none; }
+  &__navigation { gap: clamp(24px, 3.3vw, 48px); display: flex; flex: 1; justify-content: flex-end; }
+  &__link {
+    gap: 9px;
+    display: flex;
+    font-size: 14px;
+    padding: 9px 0;
+    position: relative;
+    align-items: center;
+    white-space: nowrap;
+    transition: opacity .25s ease;
+
+    &::after {
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 2px;
+      content: '';
+      position: absolute;
+      background: var(--red);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform .3s ease;
+    }
+
+    &:hover::after, &[aria-current='page']::after { transform: scaleX(1); }
+    &[aria-current='page'], &--garage { font-weight: 700; }
+    &--garage { margin-left: clamp(0px, 5vw, 72px); }
+  }
+}
+
+@media (max-width: 1100px) {
+  .site-header {
+    &__logo { width: 220px; }
+    &__navigation { gap: 24px; }
+    &__link--garage { margin-left: 0; }
+  }
+}
+
+@media (max-width: 900px) {
+  .site-header {
+    justify-content: space-between;
+
+    &__logo { width: 210px; }
+    &__menu-toggle {
+      padding: 12px;
+      display: flex;
+      color: inherit;
+      border-radius: 50%;
+      background: transparent;
+      border: 1px solid currentColor;
+      transition: background .25s ease;
+
+      &:hover { background: rgb(7 22 47 / 12%); }
+    }
+    &__navigation {
+      gap: 12px;
+      opacity: 0;
+      padding: 20px;
+      color: var(--navy);
+      position: absolute;
+      visibility: hidden;
+      top: calc(100% - 8px);
+      left: var(--gutter);
+      right: var(--gutter);
+      flex-direction: column;
+      transform: translateY(-8px);
+      background: var(--white);
+      box-shadow: 0 16px 40px rgb(7 22 47 / 18%);
+      transition: opacity .25s ease, transform .25s ease, visibility .25s ease;
+
+      &--open { opacity: 1; visibility: visible; transform: translateY(0); }
+    }
+    &__link { padding: 12px 0; }
+  }
+}
